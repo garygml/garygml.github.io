@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projects | Mingliang Ge</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./css/style.css"/>
+    <link rel="stylesheet" href="./css/ionicons.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js" ></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" ></script>
+    <script type="text/javascript" src="./js/parallax.min.js" ></script>
+    <script>
+        $(document).ready(function () {
+
+            var locale = getURLParameter('lang');
+            if (locale == null ){
+                select_language('en');
+            } else {
+                select_language(locale);
+            }
+
+          function centerFade() {
+              $('.content_centered').fadeIn(2000);
+          }
+
+          setTimeout(centerFade, 1000);
+
+            $('.img-zoom').hover(function () {
+                $(this).addClass('transition');
+                $('#bigger-view').attr("src", $(this).attr("src"));
+
+            }, function () {
+                $(this).removeClass('transition');
+            });
+
+
+            $('.gallery').hover(function () {
+                $('.hover_appear', this).show();
+            }, function () {
+                $('.hover_appear', this).hide();
+
+            });
+
+
+        });
+
+
+
+        $(function () {
+            if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+                $('#ios-notice').removeClass('hidden');
+                $('#bigger-view').css('width', '320px');
+                $('#bigger-view').css('height', '200px');
+
+            }
+        });
+        function select_language(language) {
+        $("[lang]").each(function () {
+            if ($(this).attr("lang") == language)
+                $(this).show();
+            else
+                $(this).hide();
+        });
+        }
+        function getURLParameter(sParam){
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+
+
+    </script>
+</head>
+
+<body>
+<nav class="navbar navbar-inverse navbar-fixed-top" style="margin:auto;">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a lang=en class="navbar-brand" href="index.html?lang=en">MINGLIANG GE</a>
+            <a lang=zh_CN class="navbar-brand" href="index.html?lang=zh_CN">葛明亮</a>
+        </div>
+        <div class="collapse navbar-collapse nav navbar-nav navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li><a lang=en href="index.html?lang=en">Home</a><a lang=zh_CN href="index.html?lang=zh_CN">主页</a></li>
+                <li class="active"><a lang=en href="projects.html?lang=en">Projects</a><a lang=zh_CN href="projects.html?lang=zh_CN">项目</a></li>
+                <!--        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="projects.html">Overview</a></li>
+                                <li><a href="#">Page 1-2</a></li>
+                                <li><a href="#">Page 1-3</a></li>
+                            </ul>
+                        </li>
+                -->
+                <li><a lang=en href="life.html?lang=en">My Life</a><a lang=zh_CN href="life.html?lang=zh_CN">我的生活</a></li>
+                <li><a lang=en href="resume.html?lang=en">Resume</a><a lang=zh_CN href="resume.html?lang=zh_CN">简历</a></li>
+                <li><a lang=en href="contact.html?lang=en">Contact Me</a><a lang=zh_CN href="contact.html?lang=zh_CN">联系我</a></li>
+                <li>
+                <a lang=en class="nav-link" href="#" onclick="event.preventDefault();select_language('zh_CN')">查看中文</a>
+                <a lang=zh_CN class="nav-link" href="#" onclick="event.preventDefault();select_language('en')">View In English</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- SLIDES START -->
+
+<div class="slide1" data-parallax="scroll" data-bleed="10" data-image-src="./img/IMG_0141.jpg" data-natural-width="1306"
+     data-natural-height="980" data-speed="0.1">
+    <div class="content_centered" style="display:none;">
+        <h2 lang=en> I enjoy working on team projects. </h2>
+        <h2 lang=zh_CN> 我喜欢团队合作的项目。 </h2>
+
+        <div class="quotes_container">
+            <h3 lang=en>Working on engineering projects requires everyone to work together, and that's another thing I like
+                about engineering: you get to know everyone and learn what other people is good at. </h3>
+            <h3 lang=zh_CN>工程项目的完成需要所有人共同努力，这是我喜欢工程的另一个原因：可以认识各种人，并且学习各种人身上厉害的事情。</h3>
+        </div>
+    </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/myhelp.png" data-natural-width="1075"
+     data-natural-height="652" data-speed="0.1">
+    <div class="quotes_container">
+        <h2 lang=en>I usually work on web applications. </h2>
+        <h2 lang=zh_CN>我的工作通常都是和WebApp相关。 </h2>
+
+        <h3 lang=en>I have worked on several contracts-based projects for the past years. </h3>
+        <h3 lang=zh_CN>过去我已经完成了许多合约项目。</h3>
+
+        <p lang=en>My major responsibility in these project is most likely to deal with development and testing of MVC web applications.
+        These projects frequently use Spring MVC or Struts, and I frequently utilize Hibernate as the ORM tool with several relational databases.
+        In addition, most of these projects require developing web services and functions for data access. </p>
+        <p lang=zh_CN> 在这些项目中我主要参与开发并测试WebApp。
+          这些项目通常都运用Spring MVC框架或者Struts框架，Hibernate配合不同的数据库。
+          一些WebApp也需要RESTFul Web Service。
+        </p>
+
+    </div>
+</div>
+<div class="slide2">
+    <div class="quotes_container"><h2 lang=en>I find myself good at programming.</h2><h2 lang=zh_CN>我发现我码代码的能力还蛮强的。</h2>
+
+        <h3 lang=en>I mean, we are literally using a "language" to talk to computers. Isn't that exciting? <br>
+            (...except when compilers throw errors...) </h3>
+        <h3 lang=zh_CN>事实上我们确实是在用一个“语言”和计算机“对话”不是吗？是不是很有趣？<br>
+            (……当然了，当编译器报错的时候或者Debug那就……)
+        </h3>
+
+
+        <div style="width:500px;height:250px;float:left">
+            <img src="img/capstone1.png" width="487" height="220" alt="uav_ugv">
+        </div>
+        <div class="quotes">
+            <p lang=en> In my college studies, I found myself more interested in coding and I am good at it.
+            my undergraduate senior year capstone project is Hands-free Presentation using Microsoft Kinect. The program
+            uses Microsoft Visual Studio with C# language and contains 724 lines of codes.
+            The team implemented a program utilizing Microsoft Kinect sensor to track human skeletons to control PowerPoint
+                slides. The program include hand motions as well as voice recognition features to navigate through
+                slides.</p>
+            <p lang=zh_CN> 我从大学的时候就发现我对码代码非常感兴趣，并且我也确实挺擅长这个。
+              我本科的毕业项目是用微软Kinect体感传感器来做简单PowerPoint控制。这个小项目用了C#，虽然只是Microsoft Visual Studio里面写的
+              724行代码，但是这些代码让Kinect传感器追踪人体结构，利用手势和声音控制PPT。
+            </p>
+        </div>
+    </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide3.jpg" data-natural-width="923"
+     data-natural-height="794" data-speed="0.1">
+    <div class="quotes_container">
+      <h2 lang=en>I worked as a research assistant in ECE at OSU. </h2>
+      <h2 lang=zh_CN>我曾经在俄亥俄州立大学ECE研究生院做过研究助理。</h2>
+
+        <h3 lang=en> The majority of my work focuses on communication networks in Unmanned Vehicles. </h3>
+
+        <h3 lang=zh_CN> 我研究的是无人机器小车的802.11p通讯网络。 </h3>
+
+        <div style="width:450px;float:left;"><img src="img/UAV_UGV.jpg" width="414" height="166" alt="uav_ugv"></div>
+        <p lang=en>The purpose of this project is to design a robust communication architecture for an autonomous ground swarm
+            performing specific tasks while an aerial swarm performs aerial verification. The network uses IEEE 802.11p
+            protocol standard.</p>
+        <p lang=zh_CN>这个研究的目的是为一群自动控制的群体机器人设计一个稳定的通讯结构，地面的机器车可以执行一些特殊任务，天空中的飞行机器人可以进行空中确认行为。
+        这个网络需要使用IEEE 802.11p通讯协议。</p>
+
+        <p lang=en>My role in this project is to implement the MAC frame for the messages and simulate the network behavior in
+            GNU Radio Companion. </p>
+        <p lang=zh_CN>我的主要任务是搭建通讯信息当中的MAC层，并且利用GNU Radio Companion模拟网络的通讯拥堵情况。 </p>
+
+        <p lang=en>Most of my work involves C++ and python programming in a cmake source tree. </p>
+        <p lang=zh_CN>我的工作都是在Linux系统下用C++和Python，这个项目是用cmake来编译的。</p>
+    </div>
+    <div id="formore" class="quotes_container"><a lang=en href="https://fiorentini-mslab.engineering.osu.edu/projects/robust-communication-autonomous-systems"
+                                                  target="_blank">CLICK HERE FOR PROJECT WEBSITE</a>
+                                              <a lang=zh_CN href="https://fiorentini-mslab.engineering.osu.edu/projects/robust-communication-autonomous-systems"
+                                                  target="_blank">点我浏览项目网站</a>
+                                                </div>
+
+
+
+
+    <div style="width:100%;text-align:center;padding:5px 0;height: auto;">
+        <div style="display:inline-block;"><img class="img-zoom" src="img/802_11_p.jpg" alt="802_11_p"></div>
+        <div style="display:inline-block;"><img class="img-zoom" src="img/IMG_0204.jpg" alt="desktop"></div>
+        <div style="display:inline-block;"><img class="img-zoom" src="img/IMG_screenshot_report.jpg" alt="desktop"></div>
+        <div style="display:inline-block;"><img class="img-zoom" src="img/IMG_0211.jpg" alt="desktop"></div>
+        <div style="display:inline-block;"><img class="img-zoom" src="img/IMG_screenshot_gnuradio.png" alt="desktop"></div>
+    </div>
+    <div style="text-align: center"><img id="bigger-view" src="img/802_11_p.jpg" style="border-radius: 1%;width:720px;height:450px"
+                                         alt="bigger-view"></div>
+</div>
+
+
+
+<!--- SLIDES END -->
+
+<div id="f">
+    <div class="content" style="text-align: center"><a href="https://twitter.com/garygml" target="_blank"><i
+            class="ion-social-twitter"></i></a> <a href="https://instagram.com/garygml/" target="_blank"><i
+            class="ion-social-instagram"></i></a> <a href="https://www.facebook.com/garygemingliang" target="_blank"><i
+            class="ion-social-facebook"></i></a> <a href="https://www.linkedin.com/in/garygemingliang"
+                                                    target="_blank"><i class="ion-social-linkedin"></i></a> <a
+            href="https://plus.google.com/+MingliangGe" target="_blank"><i class="ion-icon-social-google-plus"></i></a>
+    </div>
+</div>
+</body>
+</html>

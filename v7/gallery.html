@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gallery | Mingliang Ge</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./assets/css/style.css"/>
+    <link rel="stylesheet" href="./assets/css/ionicons.min.css"/>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/angularjs/1.5.0/angular-animate.min.js"></script>
+    <script type="text/javascript" src="./assets/js/galleryScript.js"></script>
+    <script type="text/javascript" src="./assets/js/garygml-animations.js"></script>
+    <script type="text/javascript" src="./assets/js/parallax.min.js"></script>
+    <script>
+
+        $(function () {
+            if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+                $('#ios-notice').removeClass('hidden');
+                $('#images-bar').css('overflow-x','scroll');
+            }
+        });
+
+        $(document).ready(function () {
+
+          var locale = getURLParameter('lang');
+            if (locale == null ){
+                select_language('en');
+            } else {
+                select_language(locale);
+            }
+
+        });
+        function select_language(language) {
+        $("[lang]").each(function () {
+            if ($(this).attr("lang") == language)
+                $(this).show();
+            else
+                $(this).hide();
+        });
+        }
+        function getURLParameter(sParam){
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+
+    </script>
+
+</head>
+
+<body ng-app="app" >
+    <div id="spinner">
+        <img src="./assets/img/page-loader.gif" /> 
+    </div>
+
+<!-- SLIDES START -->
+
+
+<div class="slide" style="height: 100vh" data-parallax="scroll" data-bleed="10" data-image-src="./assets/img/slide7.jpg" data-natural-width="520"
+     data-natural-height="332" data-speed="0.1">
+
+    <div ng-controller="galleryController">
+
+
+    	<div id="gallery-viewport">
+	        <div id="left-switch" ng-click="previousPhoto()" class="arrow" style="background-image: url('./assets/img/left_arrow.png');"></div>
+	        <div id="detail-pic" class="thumb" style="height: 70vh;width: 70vw;background-image: url({{photos[_Index].src}});"></div>
+	         <div id="right-switch" ng-click="nextPhoto();" class="arrow" style="background-image: url('./assets/img/right-arrow.png');;"></div>
+		</div>
+        <div id="select-panel">
+                <div id="images-bar">
+                <img ng-repeat="photo in photos" ng-src="{{photo.thumb}}" style="display:inline-block;" class="thumbnail thumb" alt="{{photo.desc}}" ng-mouseover="showPhoto($index);">
+                </div>
+        </div>
+
+    </div>
+</div>
+
+
+
+
+
+
+<!--- SLIDES END -->
+
+<div id="f">
+    <div class="content" style="text-align: center; opacity:1"><a href="https://twitter.com/garygml" target="_blank"><i
+            class="ion-social-twitter"></i></a> <a href="https://instagram.com/garygml/" target="_blank"><i
+            class="ion-social-instagram"></i></a> <a href="https://www.facebook.com/garygemingliang" target="_blank"><i
+            class="ion-social-facebook"></i></a> <a href="https://www.linkedin.com/in/garygemingliang"
+                                                    target="_blank"><i class="ion-social-linkedin"></i></a> <a
+            href="https://plus.google.com/+MingliangGe" target="_blank"><i class="ion-icon-social-google-plus"></i></a>
+    </div>
+</div>
+
+
+<script>
+	$(document).ready(function () {
+		$('.thumbnail').click(function(){
+			$('#select-panel').animate({'top':'100vh'}, 200);
+
+			setTimeout(function(){ 
+				$('#select-panel').css('display','none');
+			}, 200);
+		});
+
+		$('#detail-pic').click(function(){
+			$('#select-panel').css('display','block');
+			$('#select-panel').animate({'top':'0'},200);
+		});	
+		
+
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,334 @@
+
+/*= GENERAL STYLING
+--------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Salsa|Ubuntu:300');
+
+body{
+	margin: 0;
+	padding: 0;
+	width:100%;
+	overflow:hidden;
+	background-color:#333333;
+}
+
+h1 {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	margin: 0;
+	padding: 0;
+}
+
+h2 {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 15px;
+	padding: 0;
+}
+
+h3 {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 25px;
+	padding: 0;
+	z-index: 1;
+	position: relative;
+}
+
+p {
+	font-family:  'Ubuntu', sans-serif;
+	text-align: left;
+	font-size: 15px;
+	line-height: 25px;
+	margin-bottom:15px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+.vertical {
+	writing-mode: vertical-rl;
+	text-orientation: mixed;
+	height: 40rem;
+	text-align: start;
+	float: right;
+	line-height: 1.8;
+	padding: 1rem;
+}
+
+
+
+/*= HEADER & NAVIGATION
+--------------------------------------------------------*/
+
+#spinner {
+	width: 100vw;
+	height: 100vh;
+	background: rgba(0,0,0,0.6);
+	position:fixed;
+	z-index: 9999;
+}
+
+#spinner img {
+	width: 30px;
+	height: 30px;
+	margin-top: 50vh;
+	margin-left: 50vw;
+	transform: translate(-50%);
+}
+
+#menu-button-container {
+	position: fixed;
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+	font-size: 15px;
+	color: #fff;
+	height: 40px;
+	width: 45px;
+	background: rgba(0,0,0,0.6);
+	border-radius: 0 20px 20px 0;
+	top: 25px;
+	left: 250px;
+	opacity: 0;
+	z-index: 9998;
+}
+#menu-button-container img {
+	width: 30px;
+	height: 30px;
+	margin: 5px 10px;
+	cursor: pointer;
+	-moz-transition: transform .2s;
+  	-webkit-transition: transform .2s;
+  	transition: transform .2s;
+}
+.flip{
+	transform: rotate(180deg);
+}
+
+#myNavbar {
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+	position: fixed;
+	background: rgba(0,0,0,0.6);
+	padding-top: 5px;
+	width: 250px;
+	height: 100vh;
+	left:0;
+	top: 0;
+	z-index: 9998;
+	opacity:0;
+	-moz-transition: transform 200ms;
+  	-webkit-transition: transform 200ms;
+  	transition: transform 200ms;
+}
+#myNavbar a {
+	color: #fff;
+}
+#myNavbar ul {
+	list-style: none;
+	text-align: right;
+	padding: 0 35px;
+	top: 50vh;
+	transform: translateY(-50%);
+}
+
+.center { margin: 0 auto; }
+.content{
+	margin: 0 auto;
+	width: 100%;
+	opacity: 0;
+}
+
+/** skills blocks
+*/
+.skillblock {
+	margin: auto;
+	display: block;
+
+}
+
+.skydiving-note {
+	opacity: 0;
+	position: absolute;
+	margin-top: 15%;
+	width: 30%;
+}
+
+#view-skill-button {
+    background-color: rgba(0,0,0,0.6);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    z-index: 99;
+    cursor: pointer;
+}
+
+.thumbnail {
+    width:100px;
+	height:63px;
+	display: inline;
+}
+.ece-lab-gallery {
+    position: relative;
+}
+
+
+#formore a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Ubuntu";
+	font-weight: bold;
+}
+#formore a:hover {
+	text-decoration: underline;
+}
+
+#resume a {
+	color: #fff;
+	font-size: 30px;
+	font-family: "Ubuntu";
+	font-weight: bold;
+	opacity: 1;
+	text-decoration: none;
+
+}
+#resume a:hover {
+	text-decoration: underline;
+}
+
+
+.thumb {
+	width: 80px;
+	height: 80px;
+	background-repeat: no-repeat;
+	background-position: 50%;
+	background-size: contain;
+	vertical-align: top;
+	display:inline-block;
+	cursor: pointer;
+}
+
+
+
+/*= SLIDES STYLING
+--------------------------------------------------------*/
+.parallax-mirror {
+	opacity: 0;
+}
+.slide1{
+
+	height:100vh;
+	width:100%;
+	color: #fff;
+	overflow: hidden;
+    padding: 5vh 10vw;
+
+}
+
+.slide2{
+	background-color: #fff;
+	color: #333333;
+	height: auto;
+	margin: 0 auto;
+	overflow: hidden;
+    padding: 5vh 10vw;
+    overflow: hidden;
+
+
+}
+
+.slide{
+	height: auto;
+	margin: 0 auto;
+    padding: 5vh 10vw;
+	color: #fff;
+    overflow: hidden;
+
+
+}
+
+.slide3{
+	height: auto;
+	margin: 0 auto;
+    padding: 5vh 10vw;
+	color: #fff;
+    overflow: hidden;
+
+}
+
+
+
+/* FOOTER */
+#f {
+	padding-top: 15px;
+	padding-bottom: 15px;
+    background-color: #4d4d4d;
+}
+
+#f i {
+    margin-left: 15px;
+	margin-right: 15px;
+	font-size: 25px;
+}
+
+#f a {
+	color: white;
+}
+.social-network {
+	letter-spacing: 1rem;
+}
+
+.social-network a{
+	font-size: 60px;
+}
+.social-network a :hover{
+	color: white;
+}
+
+.website-history-gallery {
+    display: inline-block;
+	max-width: 200px;
+}
+
+
+/*media queries for computer screens*/
+@media screen
+  and (min-device-width: 1200px)  {
+
+    body {
+        width:100%;
+	}
+	
+    .content{
+        margin: 0 auto;
+		width: 100%;
+	}	
+	
+	.skillblock {
+		margin: 0;
+		display: block;
+		height: 480px;
+		width: 120vw;
+		left: -30%;
+	}
+
+}

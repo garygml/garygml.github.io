@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Information | Mingliang Ge</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="./css/style.css"/>
+    <link rel="stylesheet" href="./css/ionicons.min.css"/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="./js/parallax.min.js"></script>
+    <script>
+
+        $(document).ready(function () {
+
+            function centerFade() {
+                $('.content_centered').fadeIn(2000);
+            }
+            function navFade() {
+              $('.navbar-fixed-top').fadeIn(3000);
+            }
+
+            setTimeout(centerFade, 1000);
+            setTimeout(navFade, 2000);
+            
+
+            var locale = getURLParameter('lang');
+            if (locale == null ){
+                select_language('en');
+            } else {
+                select_language(locale);
+            }
+        });
+
+        $(document).scroll(function () {
+
+            var y = $(this).scrollTop();
+            if (y > 100 && y < 350) {
+                $('.desktop_note').fadeIn(0);
+            } else {
+                $('.desktop_note').fadeOut(0);
+            };
+
+
+        });
+
+        /* Every time the window is scrolled ... */
+        $(window).scroll( function(){
+
+            /* Check the location of each desired element */
+            $('.skills').each( function(i){
+
+                var bottom_of_object = $('.skillblock').offset().top + $('.skillblock').outerHeight();
+                var bottom_of_window = $(window).scrollTop() + $(window).height();
+
+                /* If the object is completely visible in the window, fade it it */
+                if( bottom_of_window > bottom_of_object + Math.floor(Math.random() * 750) -300  ){
+
+                  var opacity = parseFloat($(this).css("font-size"))/45;
+                  console.log(opacity);
+                    $(this).animate({'opacity':opacity},500);
+
+                }
+
+            });
+
+        });
+
+
+        $(function () {
+            if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+                $('#ios-notice').removeClass('hidden');
+
+                $('.skillblock').css('margin-top','50px');
+                $('.skills').each(function(){
+                    var randomFontSize = Math.floor(Math.random() * 20) + 7;
+//                    var randomNumber1 = Math.floor(Math.random() * 200) + 1;
+//                    var randomNumber2 = Math.floor(Math.random() * 200) + 1;
+//                    $(this).css('top',randomNumber1 + 'px');
+//                    $(this).css('left',randomNumber2 + 'px');
+                    $(this).css('top', '0px');
+                    $(this).css('left', '0px');
+                    $(this).css('font-size',randomFontSize + 'px');
+                });
+            }
+        });
+        function select_language(language) {
+        $("[lang]").each(function () {
+            if ($(this).attr("lang") == language)
+                $(this).show();
+            else
+                $(this).hide();
+        });
+        }
+
+        function getURLParameter(sParam){
+            var sPageURL = window.location.search.substring(1);
+            var sURLVariables = sPageURL.split('&');
+
+            for (var i = 0; i < sURLVariables.length; i++)
+            {
+                var sParameterName = sURLVariables[i].split('=');
+                if (sParameterName[0] == sParam)
+                {
+                    return sParameterName[1];
+                }
+            }
+        }
+
+
+
+    </script>
+</head>
+
+<body>
+
+<!-- SLIDES START -->
+
+
+<nav class="navbar navbar-inverse navbar-fixed-top" style="margin:auto; display:none">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a lang=en class="navbar-brand" href="index.html?lang=en">MINGLIANG GE</a>
+            <a lang=zh_CN class="navbar-brand" href="index.html?lang=zh_CN">葛明亮</a>
+        </div>
+        <div class="collapse navbar-collapse nav navbar-nav navbar-right" id="myNavbar">
+            <ul class="nav navbar-nav">
+                <li class="active"><a lang=en href="index.html?lang=en">Home</a><a lang=zh_CN href="index.html?lang=zh_CN">主页</a></li>
+                <li><a lang=en href="projects.html?lang=en">Projects</a><a lang=zh_CN href="projects.html?lang=zh_CN">项目</a></li>
+                <!--        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="projects.html">Overview</a></li>
+                                <li><a href="#">Page 1-2</a></li>
+                                <li><a href="#">Page 1-3</a></li>
+                            </ul>
+                        </li>
+                -->
+                <li><a lang=en href="life.html?lang=en">My Life</a><a lang=zh_CN href="life.html?lang=zh_CN">我的生活</a></li>
+                <li><a lang=en href="resume.html?lang=en">Resume</a><a lang=zh_CN href="resume.html?lang=zh_CN">简历</a></li>
+                <li><a lang=en href="contact.html?lang=en">Contact Me</a><a lang=zh_CN href="contact.html?lang=zh_CN">联系我</a></li>
+                <li>
+                <a lang=en class="nav-link" href="#" onclick="event.preventDefault();select_language('zh_CN')">查看中文</a>
+                <a lang=zh_CN class="nav-link" href="#" onclick="event.preventDefault();select_language('en')">View In English</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div id="discontinued-notice" class="alert alert-warning">
+        <p lang=en><strong>Notice:</strong> Hello, this is a legacy website that I used earlier, my information might not be up-to-date on this site. Please visit <a href='http://garygemingliang.info' target='_blank'>http://garygemingliang.info</a> for the new information. </p>
+        <p lang=zh_CN><strong>注意：</strong> 你好，这个网站是我之前写的比较旧的页面，
+        这个页面上的信息也许不是最新的。请访问我的新主页 <a href='http://garygemingliang.info' target='_blank'>http://garygemingliang.info</a>。</p>
+    </div>
+    <div id="ios-notice" class="alert alert-info hidden" style="margin:auto;padding-top: 50px">
+        <p lang=en><strong>Notice:</strong> Hello mobile user. This site looks better on desktop browsers. Please visit this page on
+            a desktop browser to see its full parallax effect.</p>
+        <p lang=zh_CN><strong>注意：</strong> 亲爱的手机用户，这个网站在电脑上浏览效果更好哦。请在电脑上浏览，可以体验动画效果。</p>
+    </div>
+</nav>
+<div class="slide1" bleed="50" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide1.jpg" data-natural-width="1224"
+     data-natural-height="740" data-speed="0.1">
+    <div class="content_centered" style="display:none; padding: 0 20px;">
+        <h1 lang=en>Hello, my name is <b>Mingliang Ge</b>.</h1>
+        <h1 lang=zh_CN>你好, 我的名字是 <b>葛明亮</b>。</h1>
+    </div>
+    <div class="desktop_note" style="display:none;">
+        <h3 lang=en>... btw that was me skydiving. :P</h3>
+        <h3 lang=zh_CN>……那个，顺便说一下，这张照片是我在跳伞。 :P</h3>
+    </div>
+</div>
+<div class="slide2">
+    <div class="content">
+        <div style="text-align: center"><h2 lang=en>Engineering is awesome.</h2><h2 lang=zh_CN>学工程最棒了。</h2></div>
+    </div>
+    <div class="quotes_container">
+        <div style="width:370px;float:left;"><img src="img/avatar.jpeg" width="339" height="508" alt="Avatar"></div>
+        <p lang=en>I graduated from The Ohio State University with a degree in Electrical and Computer
+            Engineering, focusing on digital systems and communication. In my college studies, I completed several
+            essential programming courses, including Java, C, etc.. In addition, I was acquainted with computer
+            architectures, microcontrollers, semiconductors, etc., which builds my fundamental electrical engineering
+            practice. </p>
+
+        <p lang=zh_CN>我毕业于俄亥俄州立大学电子工程与计算机系，专攻电子系统和通讯。在我的大学生涯里，我完成了许多编程课程，
+            比如Java，C语言等等。同时，我也熟知了许多硬件工程的知识，比如计算机架构，微处理器，半导体，等等。
+            </p>
+
+        <p lang=en>During free time I love to learn new computer or programming skills. I am most comfortable with Java and
+            C++, and I am willing to learn new programming languages. In addition, I like web designing and I was
+            teaching myself how to use the HTML and CSS when I was free. I set the website up during my leisure time,
+            using a
+            little bit of CSS, jQuery, PHP, and connect the form to MySQL database.  </p>
+
+        <p lang=zh_CN>在业余时间里我喜欢自学新的电脑技能并且练习编程，我对于Java最熟悉，C++其次，我也乐意学习其他新的编程语言。
+          我喜欢写网页代码，通过看别的网页的源代码我自学了HTML和CSS。 我用了一些平常空闲的时间写了这个网站。这个网站用了一些
+          HTML，CSS和jQuery，然后留言板用的是PHP和MySQL数据库。</p>
+
+        <p lang=en>Now I am working as a developer and most of my client projects use Spring MVC framework, Hibernate (JPA) with
+            various relational databases. For the past years I have worked on many exciting
+            projects, most of which are web applications. I think the most exciting part of my job is to learn new
+            frameworks and coding skills while delivering quality codes/products to customers. </p>
+        <p lang=zh_CN>我现在是一名网页开发者，我的项目一般是用Spring MVC，Hibernate／JPA配合各种数据库。我已经完成了一些非常有意思的WebApp。
+        我觉得我的工作非常有趣，因为我可以一直学习新的框架，新的语言或者设计图案。我觉得用户使用这些WebApp然我非常满足。 </p>
+
+        <p lang=en>I like challenges, and I love engineering. I'd love to hear from you and hopefully we can work on some nice
+            projects. </p>
+
+        <p lang=zh_CN>我喜欢挑战，我喜欢学工程，我爱我的工作。我希望有机会和你合作，完成这些有趣的项目。</p>
+    </div>
+</div>
+<div class="slide" bleed="50" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide12.jpg" data-natural-width="1836"
+     data-natural-height="945" data-speed="0.1">
+    <div class="quotes_container">
+        <div>
+            <h2 lang=en>I fell in love with coding. </h2>
+            <h2 lang=zh_CN>我爱上了码代码。 </h2>
+
+            <h3 lang=en>I started off with electrical engineering in college that deals with 0s and 1s in microcontrollers, but
+                I start to lean towards computer engineering and coding because I love to deal with code logics. </h3>
+            <h3 lang=zh_CN>我一开始是学电子工程，偏向硬件方向，所以以前学的是微控制器里的逻辑0和1，但我自己都没想到自己最后是靠向了计算机工程和码代码，因为我突然爱上了代码里的逻辑。</h3>
+        </div>
+        <div id="formore">
+            <a lang=en href="projects.html?lang=en">CLICK HERE TO CHECK OUT WHAT I'VE BEEN DOING</a>
+            <a lang=zh_CN href="projects.html?lang=zh_CN">点此看看我完成了哪些事情</a>
+        </div>
+        <div style="width: 100%;">
+            <div id="skillblock" class="skillblock">
+                <div class="skills" style="top: 320px; left: 280px;font-size: 80px;"> Java </div>
+                <div class="skills" style="top: 65px; left: 0px; font-size: 24px;"> C++ </div>
+                <div class="skills" style="top: 12px; left: 0px; font-size: 30px;"> HTML </div>
+                <div class="skills" style="top: 0px; left: 34px; font-size: 28px;"> CSS </div>
+                <div class="skills" style="top: 23px; left: 78px; font-size: 19px;"> Design Patterns </div>
+                <div class="skills" style="top: 176px; left: 0px; font-size: 32px;"> UNIX </div>
+                <div class="skills" style="top: 34px; left: -73px; font-size: 35px;"> Spring Framework </div>
+                <div class="skills" style="top: 0px; left: 0px; font-size: 60px;"> Spring MVC </div>
+                <div class="skills" style="top: 0px; left: 0px; font-size: 32px;"> JPA </div>
+                <div class="skills" style="top: 0px; left: 69px; font-size: 75px;"> Hibernate </div>
+                <div class="skills" style="top: 89px; left: -489px; font-size: 20px;"> Oracle Database </div>
+                <div class="skills" style="top: -189px; left: 0px; font-size: 24px;"> Glassfish </div>
+                <div class="skills" style="top: 0px; left: 0px; font-size: 45px;"> Tomcat </div>
+                <div class="skills" style="top: -10px; left: 164px; font-size: 34px;"> JSP </div>
+                <div class="skills" style="top: 120px; left: 134px; font-size: 45px;"> Struts </div>
+                <div class="skills" style="top: 0px; left: 60px; font-size: 40px;"> Ajax </div>
+                <div class="skills" style="top: 10px; left: -32px; font-size: 55px;"> jQuery </div>
+                <div class="skills" style="top: -345px; left: -168px; font-size: 24px;"> Javascript </div>
+                <div class="skills" style="top: 34px; left: 45px; font-size: 28px;"> Bootstrap </div>
+                <div class="skills" style="top: -289px; left: 243px; font-size: 24px;"> JSON </div>
+                <div class="skills" style="top: -75px; left: 165px; font-size: 18px;"> XML </div>
+                <div class="skills" style="top: 0px; left:95px; font-size: 21px;"> Jersey Framework </div>
+                <div class="skills" style="top: -65px; left: 384px; font-size: 40px;"> Maven </div>
+                <div class="skills" style="top: -400px; left: -455px; font-size: 32px;"> Gradle </div>
+                <div class="skills" style="top: -95px; left: -250px; font-size: 24px;"> Ant </div>
+                <div class="skills" style="top: -364px; left: 340px; font-size: 18px;"> GNU Radio </div>
+                <div class="skills" style="top: -123px; left: 145px; font-size: 45px;"> SQL </div>
+                <div class="skills" style="top: -480px; left: 500px; font-size: 18px;"> RESTFul Web Services </div>
+
+                <div class="skills" style="top: -89px; left: 443px; font-size: 12px;"> Tiles Framework </div>
+                <div class="skills" style="top: -144px; left: -454px; font-size: 14px;"> MySQL </div>
+                <div class="skills" style="top: -430px; left:-423px; font-size: 18px;"> Spring Security </div>
+                <div class="skills" style="top: -325px; left: 184px; font-size: 40px;"> Oracle </div>
+                <div class="skills" style="top: -323px; left: 625px; font-size: 32px;"> Code Smell </div>
+                <div class="skills" style="top: -425px; left: -350px; font-size: 24px;"> JUnit </div>
+                <div class="skills" style="top: -244px; left: 355px; font-size: 18px;"> JSTL </div>
+                <div class="skills" style="top: -323px; left: -445px; font-size: 45px;"> Linux </div>
+                <div class="skills" style="top: -500px; left: -300px; font-size: 18px;"> Photoshop </div>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>
+</div>
+
+
+<div class="slide" bleed="50" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide8.jpg" data-natural-width="1836"
+     data-natural-height="945" data-speed="0.1">
+    <div class="quotes_container">
+
+        <div style="padding: 0 0">
+            <!-- <h2 lang=en>Now I am available since I have finished my previous project. I am looking forward to working with you as a back-end or front-end Java developer.</h2> -->
+            <h2 lang=en>Currently I am working as a contractor and I am in a middle of a client project. I will update this message once I am available again. </h2>
+
+            <!-- <h2 lang=zh_CN>我的上一个工作完成了。我很期待与你联系。</h2> -->
+            <h2 lang=zh_CN>我现在正在一个项目当中。当我完成的时候我会更新这条信息。</h2>
+
+        </div>
+    </div>
+</div>
+
+<!--- SLIDES END -->
+
+<div id="f">
+    <div class="content" style="text-align: center"><a href="https://twitter.com/garygml" target="_blank"><i
+            class="ion-social-twitter"></i></a> <a href="https://instagram.com/garygml/" target="_blank"><i
+            class="ion-social-instagram"></i></a> <a href="https://www.facebook.com/garygemingliang" target="_blank"><i
+            class="ion-social-facebook"></i></a> <a href="https://www.linkedin.com/in/garygemingliang"
+                                                    target="_blank"><i class="ion-social-linkedin"></i></a> <a
+            href="https://plus.google.com/+MingliangGe" target="_blank"><i class="ion-icon-social-google-plus"></i></a>
+    </div>
+</div>
+</body>
+</html>

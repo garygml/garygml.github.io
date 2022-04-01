@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="shortcut icon" href="icon.png" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Information | Mingliang Ge</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+<link rel="stylesheet" href="./css/style.css"/>
+<link rel="stylesheet" href="./css/ionicons.min.css"/>
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="./js/parallax.min.js"></script>
+<script>
+$(document).ready(function(){
+
+  function centerFade() {
+    $('.content_centered').fadeIn(2000);  
+  }
+  setTimeout(centerFade, 1000)
+  function logoFade() {
+    $('.logo').fadeIn(2000);
+  }
+  setTimeout(logoFade, 2000);           
+
+  $('.img-zoom').hover(function() {     
+      $(this).addClass('transition');
+    $('#bigger-view').attr("src",$(this).attr("src"));
+ 
+  }, function() {
+      $(this).removeClass('transition');
+  });
+
+
+});
+
+$(document).scroll(function(){   
+
+  var y = $(this).scrollTop();
+  if (y > 100 && y < 500) {
+      $('.desktop_note').fadeIn();
+  } else {
+      $('.desktop_note').fadeOut();
+  }
+
+
+});
+
+$(function(){
+  if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+    $('#ios-notice').removeClass('hidden');
+  } 
+});
+
+
+</script>
+</head>
+
+<body>
+
+<!-- SLIDES START -->
+
+<div id="ios-notice" class="alert alert-info hidden" style="margin:auto;">
+  <p><strong>Notice:</strong> Hello mobile user. This site looks better on desktop browsers. Please visit this page on a desktop browser to see its full parallax effect.</p>
+</div>
+<div class="slide1" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide1.jpg" data-natural-width="1224" data-natural-height="740">
+  <div class="logo" style="display: none;">
+    <h2>MINGLIANG GE</h2>
+  </div>
+  <div class="content_centered" style="display:none;">
+    <h1>Hello, my name is <b>Mingliang Ge</b>.</h1>
+  </div>
+  <div class="desktop_note" style="display:none;">
+    <h3>... btw this is me skydiving :P</h3>
+  </div>
+</div>
+<div class="slide2">
+  <div class="content" align="center"> <h2>Engineering is awesome.</h2> </div>
+    <div class="quotes_container">
+      <div style="width:40%;float:left"><img src="img/avatar.jpeg" width="339" height="508" alt="Avatar" longdesc="avatar" align="center" ></div>
+      <div style="width: 60%; float:left">
+        <p>I graduated from The Ohio State University with a Master of Science degree in Electrical and Computer Engineering in December, 2015, focusing on digital systems and communication. I also completed my Bachelor of Science degree at Ohio State in May, 2014. </p>
+        <p>In my college studies, I completed several essential programming courses, including Java, C, etc.. In addition, I was acquainted with computer architectures, microcontrollers, semiconductors, etc., which builds my fundamental electrical engineering practice. </p>
+        <p>During free time I love to learn new computer or programming skills. I am most comfortable with Java and C++, and I am willing to learn new programming languages. In addition, I like web designing and I am trying to teach myself how to use the HTML and CSS. I set the website up during my leisure time, using a little bit of CSS, jQuery, PHP, and connect the form to MySQL database. I am quite happy about it. </p>
+        <p>Currently, I am learning Spring frameworks, JPA, Hibernate as I am implementing a ticket system using these frameworks with MySQL database. I am also learning MVC frameworks including Spring MVC and AngularJS for web applications. </p>
+        <p>I like challenges, and I love engineering. </p>
+      </div>
+    </div>
+</div>
+<div class="slide"  data-parallax="scroll" data-bleed="10" data-image-src="./img/slide3.jpg" data-natural-width="923" data-natural-height="794">
+  <div class="quotes_container"> <h2>I worked as a research assistant in ECE at OSU. </h2>
+    <h3> The majority of my work focuses on communication networks in Unmanned Vehicles. </h3>
+    <div style="width:50%;float:left;"><img src="img/UAV_UGV.jpg" width="414" height="166" alt="uav_ugv" longdesc="uav_ugv" align="center" ></div>
+    <p>The purpose of this project is to design a robust communication architecture for an autonomous ground swarm performing specific tasks while an aerial swarm performs aerial verification. The network uses IEEE 802.11p protocol standard.</p>
+    <p>My role in this project is to implement the MAC frame for the messages and simulate the network behavior in GNU Radio Companion. </p>
+    <p>Most of my work involves C++ and python programming in a cmake source tree. </p>
+  </div>
+  <div id="formore" class="quotes_container"> <a href="http://www2.ece.ohio-state.edu/~fiorentini/Research.html" target="_blank">CLICK HERE FOR PROJECT WEBSITE</a></div>
+  <div class="quotes_container" style="text-align:center;padding:5px 0;">
+    <div style="width:100px;display:inline-block;"><img class="img-zoom" src="img/802_11_p.jpg" width="100" height="63" alt="802_11_p" longdesc="802_11_p" align="center" ></div>
+    <div style="width:100px;display:inline-block;"><img class="img-zoom" src="img/IMG_0204.jpg" width="100" height="63" alt="desktop" longdesc="desktop" align="center" ></div>
+    <div style="width:100px;display:inline-block;"><img class="img-zoom" src="img/IMG_screenshot_report.jpg" width="100" height="63" alt="desktop" longdesc="desktop" align="center" ></div>
+    <div style="width:100px;display:inline-block;"><img class="img-zoom" src="img/IMG_0211.jpg" width="100" height="63" alt="desktop" longdesc="desktop" align="center" ></div>
+    <div style="width:100px;display:inline-block;"><img class="img-zoom" src="img/IMG_screenshot_gnuradio.png" width="100" height="63" alt="desktop" longdesc="desktop" align="center" ></div>
+  </div>
+  <div align="center"> <img id="bigger-view" src="img/802_11_p.jpg" width="720" height="450"></div>
+</div>
+
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide10.jpg" data-natural-width="983" data-natural-height="737">
+  <div class="quotes_container"> <h2>I really enjoy creating stuff. </h2>
+    <h3>... I mean, when I discover things that are fun, either from Internet or from a toy store, I want to build that by myself. </h3>
+    <div style="height:250px">
+      <div style="width:50%;float:left;">
+        <img src="img/work.gif" width="168" height="224" alt="work" longdesc="work" align="left" >
+      </div>
+      <div style="width:50%;float:left;">
+        <p>This is what I built based on the "Useless-Box" I found on the Internet in 2013.</p>
+      </div>
+    </div>
+    <div style="height:220px">
+      <div style="width:50%;float:left;">
+        <img src="img/iuforolling.png" width="334" height="213" alt="work" longdesc="work" align="left" >
+      </div>
+
+      <div style="width:50%;float:left;">
+        <p>I built a lottery system for a student organization in my freshman year in 2011.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="slide2">
+  <div class="quotes_container"> <h2>I find myself good at programming.</h2>
+    <h3>I mean, we are literally using a "language" to talk to computers. Isn't that exciting? <br>
+      (...except when compilers throw errors...) </h3>
+
+    <div style="width:500px;height:250px;float:left;">
+      <img src="img/capstone1.png" width="487" height="220" alt="uav_ugv" longdesc="uav_ugv" align="center" >
+    </div>
+    <div class="quotes">
+      <p> My undergraduate senior year capstone project is Hands-free Presentation using Microsoft Kinect. The program uses Microsoft Visual Studio with C# language and contains 724 lines of codes. The team implemented a program utilizing Microsoft Kinect sensor to track human skeletons to control PowerPoint slides. The program include hand motions as well as voice recognition features to navigate through slides.</p>
+    </div>
+  </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide5.jpg" data-natural-width="899" data-natural-height="675">
+  <div class="quotes_container"> <h2> I enjoy working on team projects. </h2>
+    <h3>Working on engineering projects requires everyone to work together, and that's another thing I like about engineering: you get to know everyone and learn what other people is good at. </h3>
+    <div>
+      <p>I was accepted to the Engineering Scholars Program at OSU. We are able to get involved in more hand-on experience on engineering and more Honors and Scholars Events, such as H&S social events or research info-sessions, around campus. In addition to these activities on campus, I also completed 30 credit hours of community service for 2 years outside the campus. I was awarded with Participation Award during the Scholars Banquet at the end of my freshman year.</p>
+    </div>
+  </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide6.jpg" data-natural-width="1040" data-natural-height="663">
+  <div class="quotes_container"> <h2>What do I usually do in my free time? </h2>
+    <h3>Hmm... where do I start?...there are so many of them...</h3>
+  </div>
+  <div class="quotes_container">
+    <div style="width:250px;height:250px;float:left;">
+      <img src="img/my_latte_art.gif" width="230" height="234" alt="latte" longdesc="latte" align="center">
+    </div>
+    <h3>I make specialty coffees! </h3>
+    <p>I was working at campus grab'n'go cafes when I was in my sophomore year, and I can make hot, ice and frozen drinks, such as cafe latte, cafe mocha, americano and cappuccino. </p>
+    <p>I am learning latte art recently! I am a beginner for this but I think I am doing quite well. </p>
+    <p>I also enjoy cooking and I like to try out differnet styles in cooking in my free time. </p>
+  </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide9.jpg" data-natural-width="1040" data-natural-height="663">
+  <div class="quotes_container">
+    <h3>In my free time, I enjoy working out at the gym. </h3>
+    <h3>I try to maintain a healthy lifestyle. </h3>
+    <p>I do stay up quite late though, I am trying not to. </p>
+  </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide7.jpg" data-natural-width="1040" data-natural-height="663">
+  <div class = "quotes_container">
+    <h3>I also love travelling and I do photography a little. </h3>
+    <h3> ... by saying "a little" I mean I may not be a professional photographer. I just like to take awesome pictures and do a bit photoshop to make it awesome-r! </h3>
+    <p> I like pictures that records instant moments, or the ones that has deep meanings or presenting old memories. </p>
+  </div>
+</div>
+<div class="slide" data-parallax="scroll" data-bleed="10" data-image-src="./img/slide8.jpg" data-natural-width="1836" data-natural-height="945">
+  <div class="quotes_container">
+    <h2>Currently I am looking for an electrical engineering / computer science related, full-time position. </h2>
+  </div>
+</div>
+<div class="slide1" data-parallax="scroll" data-bleed="10" data-image-src="./img/end.jpg" data-natural-width="1200" data-natural-height="799">
+  <div id="resume" class="quotes_container" style="position:relative;top:40%">
+    <h1>I am looking forward to hearing from you! </h1>
+    <h3>... only if you want to know about me first. :) </h3>
+    <div>
+      <p><a href="resume6.3.pdf" target="_blank"> CLICK HERE TO DOWNLOAD RESUME </a></p>
+    </div>
+    <div>
+      <p><a href="/msgboard" target="_blank" style="font-size:18px;font-weight:normal"> or leave a message on the message board </a></p>
+    </div>
+  </div>
+</div>
+
+<!--- SLIDES END -->
+
+<div id="f">
+  <div class="content" align="center"> <a href="https://twitter.com/garygml" target="_blank"><i class="ion-social-twitter"></i></a> <a href="https://instagram.com/garygml/" target="_blank"><i class="ion-social-instagram"></i></a> <a href="https://www.facebook.com/garygemingliang" target="_blank"><i class="ion-social-facebook"></i></a> <a href="https://www.linkedin.com/in/garygemingliang" target="_blank"><i class="ion-social-linkedin"></i></a> <a href="https://plus.google.com/+MingliangGe" target="_blank"><i class="ion-icon-social-google-plus"></i></a> </div>
+</div>
+</body>
+</html>

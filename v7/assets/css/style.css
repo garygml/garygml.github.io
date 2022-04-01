@@ -1,0 +1,425 @@
+@import url('https://fonts.googleapis.com/css?family=Salsa|Ubuntu:300');
+
+
+body{
+	margin: 0;
+	padding: 0;
+	width:100%;
+}
+
+h1 {
+	font-family: "Courier New",'Ubuntu', sans-serif;
+	font-weight: 300;
+	font-size: 35px;
+	margin: 0;
+    padding: 0;
+}
+
+h2 {
+	font-family: "Courier New","Ubuntu", sans-serif;
+	font-weight: 300;
+	font-size: 30px;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 15px;
+    padding: 0;
+}
+
+h3 {
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: 5px;
+	margin-right: 0;
+	margin-left: 0;
+	margin-bottom: 25px;
+	padding: 0;
+	z-index: 1;
+	position: relative;
+}
+
+
+p {
+	font-family:  'Ubuntu', sans-serif;
+	text-align: left;
+	font-size: 15px;
+	line-height: 25px;
+	margin-bottom:15px;
+}
+
+#spinner {
+	width: 100vw;
+	height: 100vh;
+	background: rgba(0,0,0,0.6);
+	position:fixed;
+	z-index: 9999;
+}
+
+#spinner img {
+	width: 30px;
+	height: 30px;
+	margin-top: 50vh;
+	margin-left: 50vw;
+	transform: translate(-50%);
+}
+
+.cover-section .fp-bg{
+    background-image: url("/assets/img/cover-bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.section-bio .fp-bg{
+    background-image: url("/assets/img/IMG_0176.jpg");
+    background-size: cover;
+    background-position: 0 50%;
+}
+
+
+.heading {
+    padding: 20px 75px;
+	width: 50vw;
+}
+
+.content {
+	padding: 20px 75px;
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Ubuntu";
+	font-weight: bold;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+.text-white {
+    color:#fff;
+}
+
+#myNavbar {
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+	position: fixed;
+	background: rgba(0,0,0,0.6);
+	padding-top: 5px;
+	width: 250px;
+	height: 100vh;
+	left:0;
+	top: 0;
+	z-index: 9998;
+	opacity:0;
+	-moz-transition: transform 200ms;
+  	-webkit-transition: transform 200ms;
+  	transition: transform 200ms;
+}
+#myNavbar a {
+	color: #fff;
+}
+
+#myNavbar ul {
+	list-style: none;
+	text-align: right;
+	padding: 0 35px;
+	top: 50vh;
+	transform: translateY(-50%);
+}
+
+#menu-button-container {
+	position: fixed;
+	font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+	font-size: 15px;
+	color: #fff;
+	height: 40px;
+	width: 45px;
+	background: rgba(0,0,0,0.6);
+	border-radius: 0 20px 20px 0;
+	top: 25px;
+	left: 250px;
+	opacity: 0;
+	z-index: 9998;
+}
+#menu-button-container img {
+	width: 30px;
+	height: 30px;
+	margin: 5px 10px;
+	cursor: pointer;
+	-moz-transition: transform .2s;
+  	-webkit-transition: transform .2s;
+  	transition: transform .2s;
+}
+.flip{
+	transform: rotate(180deg);
+}
+
+.cover-title {
+    position: absolute;
+	width: 100%;
+	text-align: center;
+	padding: 0;
+	transform: translateY(-50%);
+}
+.cover-note {
+    opacity: 0;
+    position: absolute;
+    left: 65vw;
+    top: 43vh;
+    padding: 0 50px;
+}
+
+.cover-note-arrow {
+    width: 100px; 
+    height:33px; 
+    position: relative; 
+    left: -8vw;
+}
+
+.project-code-slide .fp-bg{
+    background-image: url("/assets/img/slide10.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.project-skill-slide .fp-bg{
+    background-image: url("/assets/img/slide12.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.skillblock {
+	display:inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    position: absolute;
+    width: 99vw;
+    height: 100vh;
+    top: 50vh;
+    left: 50vw;
+	transform: translate(-50vw, -50vh);
+	z-index: 1;
+	pointer-events: none;
+}
+
+#view-skill-button {
+    background-color: rgba(0,0,0,0.6);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    z-index: 99;
+    cursor: pointer;
+}
+
+.resume-section .fp-bg{
+    background-image: url("/assets/img/slide1.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.contact-me-status-slide .fp-bg{
+    background-image: url("/assets/img/slide8.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-life-cover-slide .fp-bg{
+    background-image: url("/assets/img/slide11.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-life-coffee-slide .fp-bg{
+    background-image: url("/assets/img/IMG_0182.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-life-gym-slide .fp-bg{
+    background-image: url("/assets/img/slide9.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.my-life-photography-slide .fp-bg{
+    background-image: url("/assets/img/slide7.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.teamwork-cover-slide .fp-bg{
+    background-image: url("/assets/img/slide5.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.teamwork-webapp-slide .fp-bg{
+    background-image: url("/assets/img/myhelp.png");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.teamwork-ece-slide .fp-bg{
+    background-image: url("/assets/img/slide3.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.perseverance-relocate-slide .fp-bg{
+    background-image: url("/assets/img/IMG_1245.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.perseverance-struggle-slide .fp-bg{
+    background-image: url("/assets/img/IMG_2557.jpg");
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#social-network {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 50vw;
+    padding: 20px 75px;
+}
+
+#social-network i {
+    font-size: 65px;
+    letter-spacing: 15px;
+}
+
+.thumbnail {
+    width:100px;
+	height:63px;
+}
+.ece-lab-gallery {
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 50vw;
+}
+
+.website-history-gallery {
+	display: inline-block;
+	max-width: 200px;
+
+}
+
+/** animations **/
+.section h1 {
+	transform: translateX(-200px);
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .22s;
+}
+
+.section.active {
+	background-position: 50% 30%;
+    -webkit-transition:background-position .1s ease-in;  
+    -moz-transition:background-position .1s ease-in;  
+    -o-transition:background-position .1s ease-in;  
+    transition:background-position .1s ease-in; 
+}
+
+.section.active .slide.active h1,
+.section.active > .fp-tableCell .heading h1, 
+.section.active > .fp-tableCell .content h1, 
+.section.active .slide.active .heading h1, 
+.section.active .slide.active .content h1 {
+	transform: translateX(0);
+	opacity: 1;
+}
+.section h2  {
+	transform: translateY(100px);
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .44s;
+
+}
+.section.active .slide.active h2,
+.section.active > .fp-tableCell .heading h2, 
+.section.active > .fp-tableCell .content h2, 
+.section.active .slide.active .heading h2, 
+.section.active .slide.active .content h2 {
+	transform: translateY(0);
+	opacity: 1;
+}
+.section h3 {
+	transform: translateY(100px);
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .55s;
+}
+
+.section.active .slide.active h3,
+.section.active > .fp-tableCell .heading h3, 
+.section.active > .fp-tableCell .content h3, 
+.section.active .slide.active .heading h3, 
+.section.active .slide.active .content h3 {
+	transform: translateY(0);
+	opacity: 1;
+}
+
+.section p {
+	transform: translateY(50px);
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .65s;
+}
+
+.section.active .slide.active p,
+.section.active > .fp-tableCell .heading p, 
+.section.active > .fp-tableCell .content p, 
+.section.active .slide.active .heading p, 
+.section.active .slide.active .content p {
+	transform: translateY(0);
+	opacity: 1;
+}
+
+.section img {
+	transform: translateX(0);
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .65s;
+}
+
+.section.active .slide.active img,
+.section.active > .fp-tableCell .heading img, 
+.section.active > .fp-tableCell .content img, 
+.section.active .slide.active .heading img, 
+.section.active .slide.active .content img{
+	transform: translateX(0);
+	opacity: 1;
+}
+
+.section a {
+	opacity: 0;
+	transition: transform .66s cubic-bezier(0.16, 0.68, 0.43, 0.99),
+				opacity .66s ease-in-out;
+	transition-delay: .85s;
+}
+
+.section.active .slide.active a,
+.section.active > .fp-tableCell .heading a, 
+.section.active > .fp-tableCell .content a, 
+.section.active .slide.active .heading a, 
+.section.active .slide.active .content a{
+	opacity: 1;
+}
+
+#fp-nav ul li a, .fp-slidesNav ul li a {
+	opacity: 1;
+}
+.fp-slidesNav {
+	text-align: center;
+}
+
+
