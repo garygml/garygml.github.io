@@ -154,6 +154,7 @@ a {
 }
 
 .avatar {
+	position: static;
     top: 0;
     bottom: 0;
     height: 100vh;
