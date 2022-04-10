@@ -153,6 +153,23 @@ a {
 	opacity: 0;
 }
 
+.avatar {
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+}
+
+.avatar-img {
+    height: 65vh;
+    position: absolute;
+    max-height: 650px;
+    min-height: 300px;
+    bottom: 0;
+	left: 50vw;
+	transform: translateX(-50%);
+}
+
 /** skills blocks
 */
 .skillblock {
