@@ -154,20 +154,21 @@ a {
 }
 
 .avatar {
-	position: static;
+	position: absolute;
     top: 0;
+    left: 0;
     bottom: 0;
     height: 100vh;
+    width: 100vw;
 }
 
 .avatar-img {
-    height: 65vh;
-    position: absolute;
-    max-height: 650px;
-    min-height: 300px;
+	position: absolute;
+    max-width: 100vw;
+    max-height: 500px;
     bottom: 0;
-	left: 50vw;
-	transform: translateX(-50%);
+    left: 50vw;
+    transform: translateX(-50%);
 }
 
 /** skills blocks
