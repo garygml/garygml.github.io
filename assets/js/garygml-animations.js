@@ -100,6 +100,11 @@ $(document).ready(function(){
         animateThumb: false
     });
 
+    lightGallery(document.getElementById('photo-gallery'),{
+        thumbnail:true,
+        animateThumb: false
+    });
+
 
 });
 
