@@ -180,11 +180,15 @@ a {
 
 }
 
-.skydiving-note {
-	opacity: 0;
+.skydiving-note-border {
 	position: absolute;
 	margin-top: 15%;
 	width: 30%;
+}
+
+.skydiving-note {
+	opacity: 0;
+	margin: 0 10%;
 }
 
 #view-skill-button {
