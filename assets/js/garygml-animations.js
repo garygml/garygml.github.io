@@ -105,6 +105,11 @@ $(document).ready(function(){
         speed: 500
     });
 
+    lightGallery(document.getElementById('karaoke-gallery'),{
+        plugins: [lgFullscreen, lgVideo],
+        speed: 500
+    });
+
 
 });
 

@@ -278,8 +278,18 @@ a:visited, a:focus, a:hover, a:active {
 	overflow: hidden;
     padding: 5vh 10vw;
     overflow: hidden;
+}
 
-
+.slide2 a {
+	color: #333333;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "Ubuntu";
+	font-weight: bold;
+}
+.slide2 a:visited, a:focus, a:hover, a:active {
+	color: #333333;
+	text-decoration: underline;
 }
 
 .slide{
