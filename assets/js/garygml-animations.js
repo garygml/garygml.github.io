@@ -96,8 +96,8 @@ $(document).ready(function(){
     })
 
     lightGallery(document.getElementById('ece-lab'),{
-        thumbnail:true,
-        animateThumb: false
+        plugins: [lgFullscreen, lgThumbnail],
+        speed: 500
     });
 
     lightGallery(document.getElementById('photo-gallery'),{
