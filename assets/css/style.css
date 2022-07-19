@@ -329,6 +329,7 @@ a {
 .website-history-gallery {
     display: inline-block;
 	max-width: 200px;
+	width: 30vw;
 }
 
 
