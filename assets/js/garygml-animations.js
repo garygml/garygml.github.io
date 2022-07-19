@@ -101,8 +101,8 @@ $(document).ready(function(){
     });
 
     lightGallery(document.getElementById('photo-gallery'),{
-        thumbnail:true,
-        animateThumb: false
+        plugins: [lgFullscreen],
+        speed: 500
     });
 
 
