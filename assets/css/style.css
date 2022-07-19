@@ -58,7 +58,7 @@ a {
 	font-family: "Ubuntu";
 	font-weight: bold;
 }
-a:hover, a:active, a:visited {
+a:visited, a:focus, a:hover, a:active {
 	color: #fff;
 	text-decoration: underline;
 }
