@@ -65,14 +65,14 @@ p {
 }
 
 .cover-section .fp-bg{
-    background-image: url("/assets/img/cover-bg.jpg");
+    background-image: url("/v7/assets/img/cover-bg.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
     background-position: 50% 50%;
 }
 
 .section-bio .fp-bg{
-    background-image: url("/assets/img/IMG_0176.jpg");
+    background-image: url("/v7/assets/img/IMG_0176.jpg");
     background-size: cover;
     background-position: 0 50%;
 }
@@ -182,13 +182,13 @@ a:hover {
 }
 
 .project-code-slide .fp-bg{
-    background-image: url("/assets/img/slide10.jpg");
+    background-image: url("/v7/assets/img/slide10.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .project-skill-slide .fp-bg{
-    background-image: url("/assets/img/slide12.jpg");
+    background-image: url("/v7/assets/img/slide12.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
@@ -221,63 +221,63 @@ a:hover {
 }
 
 .resume-section .fp-bg{
-    background-image: url("/assets/img/slide1.jpg");
+    background-image: url("/v7/assets/img/slide1.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .contact-me-status-slide .fp-bg{
-    background-image: url("/assets/img/slide8.jpg");
+    background-image: url("/v7/assets/img/slide8.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .my-life-cover-slide .fp-bg{
-    background-image: url("/assets/img/slide11.jpg");
+    background-image: url("/v7/assets/img/slide11.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .my-life-coffee-slide .fp-bg{
-    background-image: url("/assets/img/IMG_0182.jpg");
+    background-image: url("/v7/assets/img/IMG_0182.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .my-life-gym-slide .fp-bg{
-    background-image: url("/assets/img/slide9.jpg");
+    background-image: url("/v7/assets/img/slide9.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .my-life-photography-slide .fp-bg{
-    background-image: url("/assets/img/slide7.jpg");
+    background-image: url("/v7/assets/img/slide7.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 
 .teamwork-cover-slide .fp-bg{
-    background-image: url("/assets/img/slide5.jpg");
+    background-image: url("/v7/assets/img/slide5.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 .teamwork-webapp-slide .fp-bg{
-    background-image: url("/assets/img/myhelp.png");
+    background-image: url("/v7/assets/img/myhelp.png");
     background-size: cover;
     background-position: 50% 50%;
 }
 .teamwork-ece-slide .fp-bg{
-    background-image: url("/assets/img/slide3.jpg");
+    background-image: url("/v7/assets/img/slide3.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 .perseverance-relocate-slide .fp-bg{
-    background-image: url("/assets/img/IMG_1245.jpg");
+    background-image: url("/v7/assets/img/IMG_1245.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
 .perseverance-struggle-slide .fp-bg{
-    background-image: url("/assets/img/IMG_2557.jpg");
+    background-image: url("/v7/assets/img/IMG_2557.jpg");
     background-size: cover;
     background-position: 50% 50%;
 }
