@@ -110,6 +110,9 @@ $(document).ready(function(){
         speed: 500
     });
 
+    $('.karaoke-link').click(function(){
+        $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
+    })
 
 });
 
