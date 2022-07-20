@@ -104,7 +104,7 @@ a:visited, a:focus, a:hover, a:active {
 	width: 45px;
 	background: rgba(0,0,0,0.6);
 	border-radius: 0 20px 20px 0;
-	top: 25px;
+	top: 50px;
 	left: 250px;
 	opacity: 0;
 	z-index: 9998;
