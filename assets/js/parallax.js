@@ -90,7 +90,7 @@
       this.positionX + (isNaN(this.positionX)? '' : 'px') + ' ' +
       this.positionY + (isNaN(this.positionY)? '' : 'px');
 
-    if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
+    if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) && this.iosFix) {
       if (this.iosFix && !this.$element.is('img')) {
         var dataSrc = this.$element.attr("data-static-image-src")
         this.$element.css({
@@ -102,7 +102,7 @@
       return this;
     }
 
-    if (navigator.userAgent.match(/(Android)/)) {
+    if (navigator.userAgent.match(/(Android)/) && this.androidFix) {
       if (this.androidFix && !this.$element.is('img')) {
         var dataSrc = this.$element.attr("data-static-image-src")
         this.$element.css({
