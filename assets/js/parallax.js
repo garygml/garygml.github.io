@@ -91,9 +91,10 @@
       this.positionY + (isNaN(this.positionY)? '' : 'px');
 
     if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) {
-      if (this.imageSrc && this.iosFix && !this.$element.is('img')) {
+      if (this.iosFix && !this.$element.is('img')) {
+        var dataSrc = this.$element.attr("data-static-image-src")
         this.$element.css({
-          backgroundImage: 'url(' + this.imageSrc + ')',
+          backgroundImage: 'url(' + dataSrc + ')',
           backgroundSize: 'cover',
           backgroundPosition: this.position
         });
@@ -102,9 +103,10 @@
     }
 
     if (navigator.userAgent.match(/(Android)/)) {
-      if (this.imageSrc && this.androidFix && !this.$element.is('img')) {
+      if (this.androidFix && !this.$element.is('img')) {
+        var dataSrc = this.$element.attr("data-static-image-src")
         this.$element.css({
-          backgroundImage: 'url(' + this.imageSrc + ')',
+          backgroundImage: 'url(' + dataSrc + ')',
           backgroundSize: 'cover',
           backgroundPosition: this.position
         });
