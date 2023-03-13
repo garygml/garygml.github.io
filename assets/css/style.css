@@ -176,6 +176,12 @@ a:visited, a:focus, a:hover, a:active {
     transform: translateX(-50%);
 }
 
+.avatar-inline {
+    position: relative;
+    top: -5vh;
+    height: 25vh;
+}
+
 .avatar-img-inline {
 	bottom: -5vh;
     position: relative;
