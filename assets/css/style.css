@@ -194,15 +194,18 @@ a:visited, a:focus, a:hover, a:active {
 /** skills blocks
 */
 .skillblock {
-	margin: auto;
+	margin: 0;
 	display: block;
-
+	height: 480px;
+	width: 120vw;
+	left: -30%;
 }
 
 .skydiving-note-border {
 	position: absolute;
     margin-top: 40vh;
-    width: 40vw;
+    width: 80vw;
+	max-width: 320px;
 	transform: translateY(-50%);
 	border-radius: 10vw;
     padding: 5vw;
@@ -382,6 +385,16 @@ a:visited, a:focus, a:hover, a:active {
 		height: 480px;
 		width: 120vw;
 		left: -30%;
+	}
+
+	.skydiving-note-border {
+		position: absolute;
+		margin-top: 40vh;
+		width: 80vw;
+		max-width: 720px;
+		transform: translateY(-50%);
+		border-radius: 10vw;
+		padding: 5vw;
 	}
 
 }
