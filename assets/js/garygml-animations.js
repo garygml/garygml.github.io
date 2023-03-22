@@ -89,7 +89,7 @@ $(document).ready(function(){
     });
 
 
-    $(".skydiving-note").hover(()=>{
+    $(".skydiving-note-border").hover(()=>{
         $(".skydiving-note").css("opacity",1)
     },()=>{
         $(".skydiving-note").css("opacity",0);
