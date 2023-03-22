@@ -201,7 +201,7 @@ a:visited, a:focus, a:hover, a:active {
 
 .skydiving-note-border {
 	position: absolute;
-    margin-top: 50vh;
+    margin-top: 40vh;
     width: 40vw;
 	transform: translateY(-50%);
 	border-radius: 10vw;
