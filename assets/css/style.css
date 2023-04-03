@@ -383,10 +383,4 @@ a:visited, a:focus, a:hover, a:active {
 		left: -30%;
 	}
 
-	.skydiving-note-border {
-		max-width: 720px;
-		border-radius: 10vw;
-		padding: 5vw;
-	}
-
 }
