@@ -228,7 +228,7 @@
 
       
       //  garygml's custom implementation on image lazy loading
-      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom) {
+      if (this.boxOffsetBottom > scrollTop + 200 && this.boxOffsetTop <= scrollBottom + 200) {
         var dataSrc=this.$slider.attr('data-src');
         this.$slider.attr('src',dataSrc);
       } 
