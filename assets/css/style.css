@@ -373,6 +373,7 @@ a:visited, a:focus, a:hover, a:active {
     .content{
         margin: 0 auto;
 		width: 100%;
+		max-width: 900px;
 	}	
 	
 	.skillblock {
