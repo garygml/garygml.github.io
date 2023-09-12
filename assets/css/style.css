@@ -195,10 +195,10 @@ a:visited, a:focus, a:hover, a:active {
 */
 .skillblock {
 	margin: 0;
-	display: block;
-	height: 480px;
-	width: 120vw;
-	left: -30%;
+    height: 480px;
+    width: 100vw;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .skydiving-note-border {
@@ -365,23 +365,11 @@ a:visited, a:focus, a:hover, a:active {
 /*media queries for computer screens*/
 @media screen
   and (min-device-width: 1200px)  {
-
-    body {
-        width:100%;
-	}
 	
     .content{
         margin: 0 auto;
 		width: 100%;
 		max-width: 900px;
 	}	
-	
-	.skillblock {
-		margin: 0;
-		display: block;
-		height: 480px;
-		width: 120vw;
-		left: -30%;
-	}
 
 }
