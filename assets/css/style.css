@@ -202,13 +202,21 @@ a:visited, a:focus, a:hover, a:active {
 }
 
 .skydiving-note-border {
-	max-width: 720px;
+	max-width: 570px;
 	border-radius: 10vw;
 	padding: 5vw;
 }
 
 .skydiving-note {
 	opacity: 0;
+}
+
+.skydiving-note-arrow {
+	width: 100px; 
+	height:33px; 
+	position: absolute; 
+	left:30vw; 
+	transform: rotate(30deg);
 }
 
 #view-skill-button {
@@ -371,5 +379,8 @@ a:visited, a:focus, a:hover, a:active {
 		width: 100%;
 		max-width: 720px;
 	}	
+	.skydiving-note-arrow {
+		left:60vw; 
+	}
 
 }
