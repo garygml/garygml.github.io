@@ -219,6 +219,12 @@ a:visited, a:focus, a:hover, a:active {
 	transform: rotate(30deg);
 }
 
+.skydiving-note-click {
+	position: absolute; 
+	left:30vw; 
+	transform: rotate(30deg);
+}
+
 #view-skill-button {
     background-color: rgba(0,0,0,0.6);
     position: absolute;
@@ -276,6 +282,31 @@ a:visited, a:focus, a:hover, a:active {
 	display:inline-block;
 	cursor: pointer;
 }
+
+@keyframes fadeInUp {
+	from {
+	  transform: translate3d(-10vw,0,0);
+	}
+  
+	to {
+	  transform: translate3d(0,0,0);
+	  opacity: 1    
+	}
+  }
+  
+  .animated {
+	animation-duration: .5s;
+	animation-fill-mode: both;
+  }
+  
+  .animatedFadeInUp {
+	opacity: 0;
+  }
+  
+  .fadeInUp {
+	opacity: 0;
+	animation-name: fadeInUp;
+  }
 
 
 

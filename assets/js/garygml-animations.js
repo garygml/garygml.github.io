@@ -89,10 +89,31 @@ $(document).ready(function(){
     });
 
 
-    $(".skydiving-note-border").hover(()=>{
-        $(".skydiving-note").css("opacity",1)
-    },()=>{
-        $(".skydiving-note").css("opacity",0);
+    // $(".skydiving-note-border").hover(()=>{
+    //     $(".skydiving-note").css("opacity",1)
+    // },()=>{
+    //     $(".skydiving-note").css("opacity",0);
+    // })
+
+    $(".skydiving-note-click").click(()=>{
+        $(".skydiving-note").css("opacity",1);
+        $(".skydiving-note-click").addClass('skydiving-note-hide');
+        $(".skydiving-note-border").addClass('animated');
+        $(".skydiving-note-border").addClass('animatedFadeInUp');
+        $(".skydiving-note-border").addClass('fadeInUp');
+        $(".skydiving-note-click").css("opacity",0);
+    })
+
+    $(".skydiving-note-border").click(()=>{
+        if ($(".skydiving-note-border").hasClass('fadeInUp')){
+            $(".skydiving-note").css("opacity",0);
+            $(".skydiving-note-click").removeClass('skydiving-note-hide');
+            $(".skydiving-note-border").removeClass('animated');
+            $(".skydiving-note-border").removeClass('animatedFadeInUp');
+            $(".skydiving-note-border").removeClass('fadeInUp');
+            $(".skydiving-note-click").css("opacity",1);
+        } 
+
     })
 
     lightGallery(document.getElementById('ece-lab'),{
