@@ -67,18 +67,19 @@ $(document).ready(function(){
         $(this).parent('.note-container').children('.note-body').addClass('animated');
         $(this).parent('.note-container').children('.note-body').addClass('animatedFadeInUp');
         $(this).parent('.note-container').children('.note-body').addClass('fadeInUp');
-        $(this).css("opacity",0);
+        if (!$(this).hasClass('note-click-nohide')) {
+            $(this).hide();
+        }
     });
 
-    $('.note-container .note-body').on('click', function() {
-        if ($(this).hasClass('fadeInUp')){
-            $(this).css("opacity",0);
-            $(this).removeClass('animated');
-            $(this).removeClass('animatedFadeInUp');
-            $(this).removeClass('fadeInUp');
-            $(this).parent('.note-container').children('.note-click').css("opacity",1);
-        } 
-    });      
+    // $('.note-container .note-body').on('click', function() {
+    //     if ($(this).hasClass('fadeInUp')){
+    //         $(this).removeClass('animated');
+    //         $(this).removeClass('animatedFadeInUp');
+    //         $(this).removeClass('fadeInUp');
+    //         $(this).parent('.note-container').children('.note-click').show();
+    //     } 
+    // });      
 
     // Galleries
     lightGallery(document.getElementById('ece-lab'),{
@@ -96,10 +97,10 @@ $(document).ready(function(){
         speed: 500
     });
 
-    // Karaoke Thank You Note
-    $('.karaoke-link').click(function(){
-        $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
-    })
+    // // Karaoke Thank You Note
+    // $('.karaoke-link').click(function(){
+    //     $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
+    // })
 
 });
 

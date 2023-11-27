@@ -57,6 +57,7 @@ a {
 	font-size: 20px;
 	font-family: "Ubuntu";
 	font-weight: bold;
+	cursor: pointer;
 }
 a:visited, a:focus, a:hover, a:active {
 	color: #fff;
