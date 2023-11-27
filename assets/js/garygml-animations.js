@@ -103,13 +103,14 @@ $(document).ready(function(){
 
 });
 
+var bottom_of_window = $(window).height();
 // When Scrolling
 $(window).scroll(function () {
+    bottom_of_window = $(window).scrollTop() + $(window).height();
 
     $('.skillblock').not('.shown').each( function(){
 
         var bottom_of_object = $(this).offset().top + $(this).outerHeight()/1.5;
-        var bottom_of_window = $(window).scrollTop() + $(window).height();
     
         /* If the object is completely visible in the window, fade it it */
         if (bottom_of_window > bottom_of_object) {
@@ -152,7 +153,6 @@ $(window).scroll(function () {
     
      $('.content').not('.shown').each( function(){
         var bottom_of_object = $(this).offset().top + $(this).outerHeight() / 10 + $(window).height() / 4;
-        var bottom_of_window = $(window).scrollTop() + $(window).height();
         
         /* If the object is completely visible in the window, fade it it */
         if( bottom_of_window > bottom_of_object ){    
