@@ -58,14 +58,14 @@
             </div>
 
         </app-nav>
-        <app-home>
+        <app-home id="div-home">
 
             <div id="ios-notice" class="alert alert-info hidden" style="margin:auto">
                 <p lang=en><strong>Notice:</strong> Hello mobile user. <br/> This site uses some JavaScript plugins that look better on desktop browsers. Give it a try when you get a chance!</p>
                 <p lang=zh_CN><strong>注意：</strong> 亲爱的手机用户，<br/>这个网站使用了一些JavaScript插件，在桌面浏览器中看起来效果更好哦。有机会的话请试试吧！</p>
             </div>
             <div class="slide1" data-bleed="10" data-natural-height="3024" data-static-image-src="./assets/img/IMG_7540.jpg"
-                data-natural-width="4032" data-parallax="scroll" data-speed="0.1" id="div-home" data-ios-fix="false">
+                data-natural-width="4032" data-parallax="scroll" data-speed="0.1" data-ios-fix="false">
                 <!-- <img class="parallax-slider" src="./assets/img/IMG_7540.jpg" /> -->
                 <video class="parallax-slider" width="320" autoplay loop muted playsinline>
                     <source src="./assets/videos/cover-1440p.mp4" type="video/mp4">
@@ -224,9 +224,9 @@
 
 
         </app-home>
-        <app-projects>
+        <app-projects id="div-projects">
             <div class="slide1" data-bleed="10" data-natural-height="1511"
-                data-natural-width="2016" data-parallax="scroll" data-position-x="-550px" data-speed="0.1" data-static-image-src="./assets/img/cover-bg.jpg" data-ios-fix="false" id="div-projects">
+                data-natural-width="2016" data-parallax="scroll" data-position-x="-550px" data-speed="0.1" data-static-image-src="./assets/img/cover-bg.jpg" data-ios-fix="false">
                 <img class="parallax-slider" data-src="./assets/img/cover-bg.jpg"/>
                 <div class="content">
                     <h2 lang="en"> I enjoy teamwork projects.</h2>
@@ -359,9 +359,9 @@
                 </div>
             </div>
         </app-projects>
-        <app-my-life>
+        <app-my-life id="div-my-life">
             <div class="slide1" data-bleed="10" data-natural-height="1512" data-static-image-src="./assets/img/IMG_5596.jpg"
-                data-natural-width="2016" data-parallax="scroll" data-speed="0.1" data-ios-fix="false" id="div-my-life">
+                data-natural-width="2016" data-parallax="scroll" data-speed="0.1" data-ios-fix="false">
                 <img class="parallax-slider" data-src="./assets/img/IMG_5596.jpg" />
                 <div class="content">
                     <h2 lang="en">What do I usually do in my spare time?</h2>
@@ -504,9 +504,9 @@
                 </div>
             </div>
         </app-my-life>
-        <app-resume>
+        <app-resume id="div-resume">
             <div class="slide1" data-bleed="10" data-natural-height="1287" data-static-image-src="./assets/img/slide1.jpg"
-            data-natural-width="1224" data-parallax="scroll" data-speed="0.1" data-ios-fix="false" id="div-resume">
+            data-natural-width="1224" data-parallax="scroll" data-speed="0.1" data-ios-fix="false">
             <img class="parallax-slider" data-src="./assets/img/slide1.jpg" />
                 <div class="content">
 
@@ -521,24 +521,24 @@
                         </a>
 
 
-                    <div class="skydiving-note-border">
-                        <div class="skydiving-note" style="opacity: 0;">
+                    <div class="skydiving-note-border note-container">
+                        <div class="skydiving-note note-body">
                             <img src="./assets/img/MingliangSWC2015-06-24-19h26m40s561.jpg" style="position: relative; width:100%;" />
                             <p lang="en">... btw the background image was me skydiving in Jun 2015. :P</p>
                             <p lang="zh_CN">……那个，顺便说一下，这张背景照片是我在2015年6月跳伞的照片。 :P</p>
                         </div>
                         <!-- <img class="skydiving-note-arrow" src="./assets/img/desknote_arrow.png"/> -->
-                    </div>
-                    <div class="skydiving-note-click">
-                        <p lang="en">...hey I bet you don't know you can click here~</p>
-                        <p lang="zh_CN">...哎 点这边点这边～</p>
+                        <div class="skydiving-note-click note-click">
+                            <p lang="en">...hey I bet you don't know you can click here~</p>
+                            <p lang="zh_CN">...哎 点这边点这边～</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </app-resume>
-        <app-contact-me>
+        <app-contact-me id="div-contact-me">
             <div class="slide" data-bleed="10" data-natural-height="473" data-static-image-src="./assets/img/slide8.jpg"
-                data-natural-width="918" data-parallax="scroll" data-speed="0.1" data-ios-fix="false" id="div-contact-me">
+                data-natural-width="918" data-parallax="scroll" data-speed="0.1" data-ios-fix="false">
                 <img class="parallax-slider" data-src="./assets/img/slide8.jpg" />
                 <div class="content">
                     <h1 lang="en">Hit me up!</h1>
