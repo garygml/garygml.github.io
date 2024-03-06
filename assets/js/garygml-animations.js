@@ -9,6 +9,7 @@ $(document).ready(function(){
     // Start Up Animations
     setTimeout(parallaxFade, 1000);
     setTimeout(headingFade, 2000);
+    setTimeout(scrollGifFade, 2000);
     setTimeout(navFade, 2500);
     setTimeout(navHide, 3000);
 
@@ -198,6 +199,11 @@ function parallaxFade() {
 
 function headingFade() {
     $('#page-heading').animate({'opacity':'1'},1000);
+    $('.parallax-mirror').animate({'opacity':'1'},1000);
+}
+
+function scrollGifFade() {
+    $('#scroll-down').animate({'opacity':'1'},1000);
     $('.parallax-mirror').animate({'opacity':'1'},1000);
 }
 

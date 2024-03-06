@@ -158,6 +158,22 @@ a:visited, a:focus, a:hover, a:active {
 	opacity: 0;
 }
 
+.scroll-down {
+	top: 90vh;
+    height: 10vh;
+    width: 80vw;
+    position: absolute;
+	opacity: 0;
+}
+
+.scroll-down-img {
+	position: relative;
+    left: 40vw;
+    transform: translateX(-50%);
+    max-width: 100vw;
+    max-height: 10vh;
+}
+
 .avatar {
     position: absolute;
     top: 0;
