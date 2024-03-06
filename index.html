@@ -60,12 +60,15 @@
         </app-nav>
         <app-home id="div-home">
 
-            <div id="ios-notice" class="alert alert-info hidden" style="margin:auto">
-                <p lang=en><strong>Notice:</strong> Hello mobile user. <br/> This site uses some JavaScript plugins that look better on desktop browsers. Give it a try when you get a chance!</p>
-                <p lang=zh_CN><strong>注意：</strong> 亲爱的手机用户，<br/>这个网站使用了一些JavaScript插件，在桌面浏览器中看起来效果更好哦。有机会的话请试试吧！</p>
-            </div>
             <div class="slide1" data-bleed="10" data-natural-height="3024" data-static-image-src="./assets/img/IMG_7540.jpg"
                 data-natural-width="4032" data-parallax="scroll" data-speed="0.1" data-ios-fix="false">
+                <div id="ios-notice" class="alert alert-info hidden">
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 lang="en">Hey it looks like you're using a web browser on a mobile device! </h4>
+                    <h4 lang="zh_CN">你似乎在使用移动端的浏览器哦! </h4>
+                    <p lang=en>This site uses some JavaScript libraries that will look better on desktop browsers. Give it a try when you get a chance!</p>
+                    <p lang=zh_CN>这个网站使用了一些JavaScript库，在桌面浏览器中看起来效果会更好哦。有机会的话请试试吧！</p>
+                </div>
                 <!-- <img class="parallax-slider" src="./assets/img/IMG_7540.jpg" /> -->
                 <video class="parallax-slider" width="320" autoplay loop muted playsinline>
                     <source src="./assets/videos/cover-1440p.mp4" type="video/mp4">
