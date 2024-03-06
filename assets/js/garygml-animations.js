@@ -199,18 +199,15 @@ function parallaxFade() {
 
 function headingFade() {
     $('#page-heading').animate({'opacity':'1'},1000);
-    $('.parallax-mirror').animate({'opacity':'1'},1000);
 }
 
 function scrollGifFade() {
     $('#scroll-down').animate({'opacity':'1'},1000);
-    $('.parallax-mirror').animate({'opacity':'1'},1000);
 }
 
 function navFade() {
     $('#myNavbar').animate({'opacity':'1'},200);
     $('#menu-button-container').animate({'opacity':'1'},200);
-    
 }
 
 function navHide() {
