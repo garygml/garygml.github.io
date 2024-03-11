@@ -98,6 +98,11 @@ $(document).ready(function(){
         speed: 500
     });
 
+    lightGallery(document.getElementById('skydiving-gallery'),{
+        plugins: [lgFullscreen, lgThumbnail],
+        speed: 500
+    });
+
     // // Karaoke Thank You Note
     // $('.karaoke-link').click(function(){
     //     $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
