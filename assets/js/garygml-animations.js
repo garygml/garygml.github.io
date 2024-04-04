@@ -32,9 +32,12 @@ $(document).ready(function(){
     // Language Selection based on URL lang param
     var locale = getURLParameter('lang');
     if (locale == null) {
-        select_language('en');
+        locale = navigator.language;
+    } 
+    if (locale.startsWith('zh')) {
+        select_language('zh-CN');
     } else {
-        select_language(locale);
+        select_language('en');
     }
 
     // Add smooth scrolling when clicking on menu links
