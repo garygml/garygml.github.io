@@ -1,6 +1,6 @@
 //When page load completes
 $(window).bind("load", function() {
-    $('#spinner').hide();
+    $('#spinner-wrapper').hide();
     $('body').css('overflow','auto');
 });
 
