@@ -270,7 +270,6 @@ a:visited, a:focus, a:hover, a:active {
 .skydiving-note-click {
 	position: absolute; 
 	left:30vw; 
-	transform: rotate(-7deg);
 }
 
 #view-skill-button {
