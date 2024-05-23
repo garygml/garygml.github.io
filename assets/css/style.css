@@ -192,7 +192,6 @@ a:visited, a:focus, a:hover, a:active {
 .scroll-down {
 	top: 90vh;
     height: 10vh;
-    width: 80vw;
     position: absolute;
 	opacity: 0;
 }
