@@ -166,6 +166,7 @@
     zIndex:   -100,
     iosFix:   true,
     iosSpeed: 0,
+    androidSpeed: 0,
     androidFix: true,
     position: 'center',
     overScrollFix: false,
@@ -175,6 +176,9 @@
 
       if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) ) {
         this.speed = this.iosSpeed;
+      }
+      if (navigator.userAgent.match(/(Android)/) ) {
+        this.speed = this.androidSpeed;
       }
 
       this.boxWidth        = this.$element.outerWidth();
@@ -230,6 +234,9 @@
 
       if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) ) {
         this.speed = this.iosSpeed;
+      }
+      if (navigator.userAgent.match(/(Android)/) ) {
+        this.speed = this.androidSpeed;
       }
       
       var scrollTop    = Parallax.scrollTop;
