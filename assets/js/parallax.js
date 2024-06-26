@@ -165,12 +165,18 @@
     bleed:    0,
     zIndex:   -100,
     iosFix:   true,
+    iosSpeed: 0,
     androidFix: true,
     position: 'center',
     overScrollFix: false,
     mirrorContainer: 'body',
 
     refresh: function() {
+
+      if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) ) {
+        this.speed = this.iosSpeed;
+      }
+
       this.boxWidth        = this.$element.outerWidth();
       this.boxHeight       = this.$element.outerHeight() + this.bleed * 2;
       this.boxOffsetTop    = this.$element.offset().top - this.bleed;
@@ -221,6 +227,11 @@
     },
 
     render: function() {
+
+      if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) ) {
+        this.speed = this.iosSpeed;
+      }
+      
       var scrollTop    = Parallax.scrollTop;
       var scrollLeft   = Parallax.scrollLeft;
       var overScroll   = this.overScrollFix ? Parallax.overScroll : 0;
