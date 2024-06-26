@@ -180,6 +180,42 @@ a:visited, a:focus, a:hover, a:active {
 	padding: 0 35px;
 	top: 50vh;
 	transform: translateY(-50%);
+	li {
+		padding: 0px 0;
+	
+		a {
+		  position: relative;
+		  display: block;
+		  padding: 0px 0;
+		  /* font-family: Lato, sans-serif; */
+		  color: #ecf0f1;
+		  text-decoration: none;
+		  text-transform: uppercase;
+		  transition: 0.5s;
+	
+		  &::after {
+			position: absolute;
+			content: "";
+			top: 100%;
+			left: 0;
+			width: 100%;
+			height: 1px;
+			background: #fff;
+			transform: scaleX(0);
+			transform-origin: right;
+			transition: transform 0.5s;
+		  }
+	
+		  &:hover {
+			color: #95a5a6;
+		  }
+	
+		  &:hover::after {
+			transform: scaleX(1);
+			transform-origin: left;
+		  }
+		}
+	  }
 }
 
 .center { margin: 0 auto; }
@@ -389,36 +425,13 @@ a:visited, a:focus, a:hover, a:active {
 }
 
 .thumbnail {
-	height:63px;
 	display: inline;
+	width: 15vw;
+	min-width: 80px;
+	max-width: 150px;
 }
 .ece-lab-gallery {
     position: relative;
-}
-
-
-#formore a {
-	color: #fff;
-	text-decoration: none;
-	font-size: 20px;
-	font-family: "Ubuntu";
-	font-weight: bold;
-}
-#formore a:hover {
-	text-decoration: underline;
-}
-
-#resume a {
-	color: #fff;
-	font-size: 30px;
-	font-family: "Ubuntu";
-	font-weight: bold;
-	opacity: 1;
-	text-decoration: none;
-
-}
-#resume a:hover {
-	text-decoration: underline;
 }
 
 
@@ -483,18 +496,6 @@ a:visited, a:focus, a:hover, a:active {
 	overflow: hidden;
     padding: 5vh 10vw;
     overflow: hidden;
-}
-
-.slide2 a {
-	color: #333333;
-	text-decoration: none;
-	font-size: 20px;
-	font-family: "Ubuntu";
-	font-weight: bold;
-}
-.slide2 a:visited, .slide2 a:focus, .slide2 a:hover, .slide2 a:active {
-	color: #333333;
-	text-decoration: underline;
 }
 
 .slide{
