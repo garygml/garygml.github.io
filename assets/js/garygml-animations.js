@@ -116,6 +116,9 @@ $(document).ready(function(){
 var bottom_of_window = $(window).height();
 // When Scrolling
 $(window).scroll(function () {
+
+    scrollTextFade();
+
     bottom_of_window = $(window).scrollTop() + $(window).height();
 
     $('.skillblock').not('.shown').each( function(){
@@ -230,6 +233,12 @@ function navShow() {
     $('#myNavbar').animate({'left':'0'},400);
     $('#menu-button-container').animate({"left":"250px"},400);
     $('#menu-button-img').addClass("flip");
+}
+
+function scrollTextFade() {
+    if (!$('.scroll-down-text').hasClass('scrolled')) {
+        $('.scroll-down-text').addClass('scrolled');
+    }
 }
 
 

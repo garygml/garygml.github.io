@@ -238,6 +238,50 @@ a:visited, a:focus, a:hover, a:active {
 	transform: translateX(-50%);
 }
 
+.scrolled {
+	pointer-events: none;
+	opacity: 0;
+	-webkit-animation: text-disappear .5s; 
+	-moz-animation: text-disappear .5s;
+}
+
+@-webkit-keyframes text-disappear {
+	0% {
+		opacity: 1;
+		-webkit-transform: translateY(0);
+		-ms-transform: translateY(0);
+		transform: translateY(0);
+	}
+	100% {
+		opacity: 0;
+		-webkit-transform: translateY(6px);
+		-ms-transform: translateY(6px);
+		transform: translateY(6px);
+	}
+}
+@-webkit-keyframes text-disappear {
+	0% {
+		opacity: 1;
+	}
+	50% {
+		opacity: .5;
+	}
+	100% {
+		opacity: 0;
+	} 
+}
+@keyframes text-disappear {
+	0% {
+	  opacity: 1;
+	}
+	50% {
+	  opacity: 0.5;
+	}
+	100% {
+	  opacity: 0;
+	}
+}
+
 .scroll-down-img {
 	position: relative;
     left: 40vw;
