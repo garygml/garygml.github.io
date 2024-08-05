@@ -237,7 +237,7 @@ function navShow() {
 
 function scrollTextFade() {
     if (!$('.scroll-down-text').hasClass('scrolled')) {
-        $('.scroll-down-text').addClass('scrolled');
+        setTimeout(function(){$('.scroll-down-text').addClass('scrolled')},2000);
     }
 }
 
