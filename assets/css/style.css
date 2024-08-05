@@ -58,10 +58,12 @@ a {
 	font-family: "Ubuntu";
 	font-weight: bold;
 	cursor: pointer;
+	outline: none;
 }
 a:visited, a:focus, a:hover, a:active {
 	color: #fff;
 	text-decoration: underline;
+	outline: none;
 }
 
 .vertical {
@@ -230,6 +232,10 @@ a:visited, a:focus, a:hover, a:active {
     height: 10vh;
     position: absolute;
 	opacity: 0;
+}
+
+.scroll-down-text {
+	transform: translateX(-50%);
 }
 
 .scroll-down-img {
