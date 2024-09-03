@@ -474,8 +474,8 @@ a:visited, a:focus, a:hover, a:active {
 }
 
 .skydiving-note-click {
-	position: absolute; 
-	left:30vw; 
+	position: relative;
+	/* left: 30vw; */
 }
 
 #view-skill-button {
