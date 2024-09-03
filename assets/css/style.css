@@ -79,11 +79,10 @@ a:visited, a:focus, a:hover, a:active {
 .title {
 	top: 50vh;
 	position: absolute;
+	transform: translateY(-50%);
 }
 
 .title-vertical {
-	top: 50vh;
-	transform: translateY(-50%);
 	writing-mode: vertical-rl;
 	padding: 1rem;
 	line-height: 1.8;
