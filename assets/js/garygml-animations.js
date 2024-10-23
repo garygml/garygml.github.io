@@ -146,7 +146,7 @@ $(window).scroll(function () {
                     ,['Microcontroller',17],['Design Pattern',8]
                     ,['Dependency Injection',13],['Maven',24]
                     ,['Gradle',18]
-                    ,['iPhone screen repair',2]
+                    ,['iPhone screen repair lol',2]
                 ];
                 WordCloud(document.getElementById('skillblock'), { 
                     list: list, 
@@ -157,7 +157,7 @@ $(window).scroll(function () {
                     wait: 250,
                     rotateRatio: 0.5,
                     fontFamily:"Times New Roman, Charcoal, sans-serif",
-                    gridSize:35,
+                    gridSize:20,
                     weightFactor: 2,
                     shape: "square"
                     } );
