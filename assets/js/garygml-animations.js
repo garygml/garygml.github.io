@@ -128,8 +128,8 @@ $(window).scroll(function () {
         /* If the object is completely visible in the window, fade it it */
         if (bottom_of_window > bottom_of_object) {
                 var list = [
-                    ['Java',90],['Spring',80],['Hibernate',65],['Adobe Photoshop',28]
-                    ,['JavaScript',34],['HTML',34],['CSS',44]
+                    ['Java',90],['Spring',55],['Hibernate',45],['Adobe Photoshop',28]
+                    ,['JavaScript',34],['HTML',34],['CSS',38]
                     ,['jQuery',35],['SQL',11]
                     ,['Linux',23],['Python',54],['JUnit',34]
                     ,['JSON',57],['RESTful Web Service',23]
