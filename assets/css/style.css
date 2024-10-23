@@ -301,7 +301,6 @@ a:visited, a:focus, a:hover, a:active {
 #mouse-scroll {
 	position: absolute;
 	bottom: 0;
-	z-index: 9999;
 }
 #mouse-scroll span{
 	display: block;

@@ -239,6 +239,7 @@ function navShow() {
 function scrollTextFade() {
     if (!$('.scroll-down-text').hasClass('scrolled')) {
         setTimeout(function(){$('.scroll-down-text').addClass('scrolled')},2000);
+        setTimeout(function(){$('.scroll-down-text').css('display','none')},3000);
     }
 }
 
