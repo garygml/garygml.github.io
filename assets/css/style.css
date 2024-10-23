@@ -69,11 +69,12 @@ a:visited, a:focus, a:hover, a:active {
 .vertical {
 	writing-mode: vertical-rl;
 	text-orientation: mixed;
-	height: 41rem;
+	height: auto;
+	max-height: 70vh;
 	text-align: start;
 	float: left;
-	line-height: 1.8;
-	padding: 1rem;
+	line-height: 1.2;
+	padding: 2rem;
 }
 
 .title {
@@ -84,8 +85,8 @@ a:visited, a:focus, a:hover, a:active {
 
 .title-vertical {
 	writing-mode: vertical-rl;
-	padding: 1rem;
-	line-height: 1.8;
+	padding: 2rem;
+	line-height: 1.2;
 }
 
 
@@ -432,12 +433,11 @@ a:visited, a:focus, a:hover, a:active {
 }
 
 .avatar-img-inline {
-	bottom: -5vh;
-    position: relative;
-    left: 40vw;
-    transform: translateX(-50%);
-    max-width: 100vw;
-    max-height: 30vh;
+	position: absolute;
+	left: 40vw;
+	transform: translate(-50%, 5vh);
+	max-width: 100vw;
+	max-height: 30vh;
 }
 
 /** skills blocks
