@@ -128,23 +128,24 @@ $(window).scroll(function () {
         /* If the object is completely visible in the window, fade it it */
         if (bottom_of_window > bottom_of_object) {
                 var list = [
-                    ['SPRING',90],['HIBERNATE',65],['PHOTOSHOP',38]
+                    ['Java',90],['Spring',80],['Hibernate',65],['Adobe Photoshop',28]
                     ,['JavaScript',34],['HTML',34],['CSS',44]
-                    ,['JQuery',35],['Java',97],['SQL',11]
-                    ,['LINUX',23],['Python',54],['JUnit',34]
+                    ,['jQuery',35],['SQL',11]
+                    ,['Linux',23],['Python',54],['JUnit',34]
                     ,['JSON',57],['RESTful Web Service',23]
                     ,['Cassandra',23],['XML',12]
-                    ,['Bootstrap',15],['UNIX',13]
-                    ,['AngularJS',13],['node.js',25],['C++',12]
+                    ,['Bootstrap',15],['Unix',13]
+                    ,['Angular',13],['node.js',25],['CICD',12]
                     ,['Spring MVC',12],['Docker',12],['Spring Boot',34]
                     ,['git',34],['Kubernetes',23],['GraphQL',18]
-                    ,['GlassFish',18],['API',25],['Spring Data',17]
+                    ,['React',18],['API',25],['Spring Data',17]
                     ,['Neo4J',15],['Command Lines',12],['Log4J',12]
                     ,['MongoDB',14],['Oracle',13],['MySQL',13]
                     ,['Spring Security',17],['Spring Web',15]
-                    ,['Jenkins',12],['Raspberry Pi',7]
+                    ,['Jenkins',12],['Apache Kafka',7]
                     ,['Microcontroller',17],['Design Pattern',8]
                     ,['Dependency Injection',13],['Maven',24]
+                    ,['Gradle',18]
                     ,['iPhone screen repair',2]
                 ];
                 WordCloud(document.getElementById('skillblock'), { 
@@ -153,7 +154,7 @@ $(window).scroll(function () {
                     backgroundColor: 'transparent',
                     shuffle: true,
                     drawOutOfBound: false,
-                    wait: 300,
+                    wait: 250,
                     rotateRatio: 0.5,
                     fontFamily:"Times New Roman, Charcoal, sans-serif",
                     gridSize:35,
