@@ -123,10 +123,10 @@ $(window).scroll(function () {
 
     $('.skillblock').not('.shown').each( function(){
 
-        var bottom_of_object = $(this).offset().top + $(this).outerHeight()/1.5;
+        var top_of_object = $(this).offset().top;
     
         /* If the object is completely visible in the window, fade it it */
-        if (bottom_of_window > bottom_of_object) {
+        if (bottom_of_window > top_of_object + $(this).outerHeight() / 1.5) {
                 var list = [
                     ['Java',90],['Spring',55],['Hibernate',45],['Adobe Photoshop',28]
                     ,['JavaScript',34],['HTML',34],['CSS',38]
@@ -166,10 +166,10 @@ $(window).scroll(function () {
     }); 
     
      $('.content').not('.shown').each( function(){
-        var bottom_of_object = $(this).offset().top + $(this).outerHeight() / 10 + $(window).height() / 4;
+        var top_of_object = $(this).offset().top;
         
         /* If the object is completely visible in the window, fade it it */
-        if( bottom_of_window > bottom_of_object ){    
+        if( bottom_of_window > top_of_object + $(window).height() / 3 ){    
             $(this).animate({'opacity':'1'}, 200);
             $(this).addClass('shown');
         }
