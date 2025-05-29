@@ -62,29 +62,10 @@ a:visited, a:focus, a:hover, a:active {
 	outline: none;
 }
 
-.vertical {
-	writing-mode: vertical-rl;
-	text-orientation: mixed;
-	height: auto;
-	max-height: 50rem;
-	text-align: start;
-	float: left;
-	line-height: 1.2;
-	margin: 0 2rem 2rem 0;
-	min-width: 8rem;
-}
-
 .title {
 	top: 50vh;
 	position: absolute;
 	transform: translateY(-50%);
-}
-
-.title-vertical {
-	writing-mode: vertical-rl;
-	margin: 0 2rem 2rem 0;
-	line-height: 1.2;
-	min-width: 8rem;
 }
 
 
