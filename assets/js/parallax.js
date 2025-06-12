@@ -252,7 +252,7 @@
       } 
       
 
-      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom) {
+      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom + 500) {
         this.visibility = 'visible';
         this.mirrorTop = this.boxOffsetTop  - scrollTop;
         this.mirrorLeft = this.boxOffsetLeft - scrollLeft;
