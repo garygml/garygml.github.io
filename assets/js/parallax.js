@@ -192,6 +192,12 @@
       var maxOffset = Math.min(this.boxOffsetTop, docHeight - winHeight);
       var minOffset = Math.max(this.boxOffsetTop + this.boxHeight - winHeight, 0);
       var imageHeightMin = this.boxHeight + (maxOffset - minOffset) * (1 - this.speed) | 0;
+
+      // garygml's fix for iOS menu bar height
+      if (navigator.userAgent.match(/(iPod|iPhone|iPad)/) ) {
+        imageHeightMin = imageHeightMin + 50;
+      }
+
       var imageOffsetMin = (this.boxOffsetTop - maxOffset) * (1 - this.speed) | 0;
       var margin;
 
