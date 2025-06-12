@@ -75,7 +75,7 @@ a:visited, a:focus, a:hover, a:active {
 
 #spinner-wrapper {
 	width: 100vw;
-	height: 100svh;
+	height: 100lvh;
 	background: rgba(0,0,0,0.6);
 	position:fixed;
 	z-index: 9999;
@@ -154,7 +154,7 @@ a:visited, a:focus, a:hover, a:active {
 	background: rgba(0,0,0,0.6);
 	padding-top: 5px;
 	width: 250px;
-	height: 100svh;
+	height: 100lvh;
 	left:0;
 	top: 0;
 	z-index: 9998;
