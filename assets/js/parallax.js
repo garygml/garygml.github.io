@@ -252,13 +252,13 @@
 
       
       //  garygml's custom implementation on image lazy loading
-      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom + 500) {
+      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom + 200) {
         var dataSrc=this.$slider.attr('data-src');
         this.$slider.attr('src',dataSrc);
       } 
       
 
-      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom + 500) {
+      if (this.boxOffsetBottom > scrollTop && this.boxOffsetTop <= scrollBottom + 200) {
         this.visibility = 'visible';
         this.mirrorTop = this.boxOffsetTop  - scrollTop;
         this.mirrorLeft = this.boxOffsetLeft - scrollLeft;
