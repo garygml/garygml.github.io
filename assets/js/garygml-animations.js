@@ -209,6 +209,7 @@ $(window).scroll(function () {
 $(function () {
     if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
         $('#ios-notice').removeClass('hidden');
+        $('.ios-hidden').addClass('hidden');
     }
 });
 
