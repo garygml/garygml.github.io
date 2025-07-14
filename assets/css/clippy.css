@@ -1,9 +1,12 @@
+.clippy {
+    top: 75lvh;
+    left: 75lvw;
+}
+
 .clippy, .clippy-balloon {
     position: fixed;
     z-index: 1000;
     cursor: pointer;
-    top: 80lvh;
-    left: 70lvw;
 }
 
 .clippy-balloon {

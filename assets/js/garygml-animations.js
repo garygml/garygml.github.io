@@ -10,15 +10,15 @@ $(document).ready(function(){
     $('.clippy-activate').on('click',function() {   
 
         // Remove all previous Clippy agents
-        $('.clippy').remove();
-        $('.clippy-balloon').remove();
+        $('.clippy:hidden').remove();
+        $('.clippy-balloon:hidden').remove();
 
         // List of available agents
         const agents = ['Bonzi', 'Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin','Peedy', 'Rocky', 'Rover'];
         // Pick a random agent
         const randomAgent = agents[Math.floor(Math.random() * agents.length)];
 
-        clippy.load(randomAgent, function(agent){
+        setTimeout(clippy.load(randomAgent, function(agent){
             // do anything with the loaded agent
             
             // Generate random position using viewport units
@@ -28,9 +28,23 @@ $(document).ready(function(){
             // agent.moveTo(randomLeft, randomTop);
             // agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
             agent.show();
+            agent.speak("Hello! I'm " + randomAgent + ".");
             agent.animate();
-            // agent.hide();
-        });    
+            let lastAnimateTime = Date.now();
+
+            $('.clippy').on('mouseover', function() {
+                if (Date.now() - lastAnimateTime > 7000) {
+                    // agent.speak("You clicked me! \n I can do animations too!");
+                    agent.animate();
+                    lastAnimateTime = Date.now();
+                }
+            });
+            
+            $('.clippy-activate').on('click',function() {  
+                agent.hide();
+            });
+
+        }),1000);    
     });
 
 
