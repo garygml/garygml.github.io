@@ -14,23 +14,22 @@ $(document).ready(function(){
         $('.clippy-balloon').remove();
 
         // List of available agents
-        const agents = ['Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Rocky', 'Rover'];
+        const agents = ['Bonzi', 'Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin','Peedy', 'Rocky', 'Rover'];
         // Pick a random agent
         const randomAgent = agents[Math.floor(Math.random() * agents.length)];
 
         clippy.load(randomAgent, function(agent){
             // do anything with the loaded agent
-            agent.show();
+            
             // Generate random position using viewport units
             // const randomLeft = Math.random() * window.innerWidth * 0.8; // 0-80vw
             // const randomTop = Math.random() * window.innerHeight * 0.8; // 0-80vh
 
             // agent.moveTo(randomLeft, randomTop);
-            agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
+            // agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
+            agent.show();
             agent.animate();
             // agent.hide();
-            // agent.speak('Nostalgia mode activated. My name is Clippy. Double click on me to see some of my tricks.');
-
         });    
     });
 
