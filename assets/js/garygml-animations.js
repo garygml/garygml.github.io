@@ -14,7 +14,7 @@ $(document).ready(function(){
         $('.clippy-balloon:hidden').remove();
 
         // List of available agents
-        const agents = ['Bonzi', 'Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin','Peedy', 'Rocky', 'Rover'];
+        const agents = ['Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Rocky', 'Rover'];
         // Pick a random agent
         const randomAgent = agents[Math.floor(Math.random() * agents.length)];
 
