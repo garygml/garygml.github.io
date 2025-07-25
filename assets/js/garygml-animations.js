@@ -14,9 +14,10 @@ $(document).ready(function(){
         $('.clippy-balloon:hidden').remove();
 
         // List of available agents
-        const agents = ['Clippy', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Rocky', 'Rover'];
+        const agents = ['Clippy', 'Dolphin', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Rocky', 'Rover'];
         // Pick a random agent
         const randomAgent = agents[Math.floor(Math.random() * agents.length)];
+        console.log("Loading Clippy agent:", randomAgent);
 
         setTimeout(clippy.load(randomAgent, function(agent){
             // do anything with the loaded agent
