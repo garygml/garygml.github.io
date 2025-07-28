@@ -31,15 +31,43 @@ $(document).ready(function(){
             agent.show();
             agent.speak("Hello! I'm " + randomAgent + ".");
             agent.animate();
-            let lastAnimateTime = Date.now();
+            // Get all animations and create clickable links
+            const animations = agent.animations();
+            const animationsContainer = $('.clippy-animations-select');
+            
+            // Clear existing content
+            animationsContainer.empty();
+            
+            // Loop through animations and create a dropdown select
+            const selectElement = $('<select class="animation-select"><option value="">-- Select Animation --</option></select>');
 
-            $('.clippy').on('mouseover', function() {
-                if (Date.now() - lastAnimateTime > 7000) {
-                    // agent.speak("You clicked me! \n I can do animations too!");
-                    agent.animate();
-                    lastAnimateTime = Date.now();
+            animations.forEach(function(animationName) {
+                const option = $('<option value="' + animationName + '">' + animationName + '</option>');
+                selectElement.append(option);
+            });
+
+            // Add change handler to play the selected animation
+            selectElement.on('change', function() {
+                const selectedAnimation = $(this).val();
+                if (selectedAnimation) {
+                    agent.stop(); // Stop any current animation
+                    agent.play(selectedAnimation);
+                    // // Optional: reset to default option after playing
+                    // $(this).val('');
                 }
             });
+
+            // Append to container
+            animationsContainer.append(selectElement);
+
+            // let lastAnimateTime = Date.now();
+            // $('.clippy').on('mouseover', function() {
+            //     if (Date.now() - lastAnimateTime > 7000) {
+            //         // agent.speak("You clicked me! \n I can do animations too!");
+            //         agent.animate();
+            //         lastAnimateTime = Date.now();
+            //     }
+            // });
             
             $('.clippy-activate').on('click',function() {  
                 agent.hide();

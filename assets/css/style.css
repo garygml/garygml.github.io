@@ -598,6 +598,16 @@ a:visited, a:focus, a:hover, a:active {
 	font-size: 10px;
 }
 
+.clippy-animations-select {
+    position: fixed;
+    left: 75lvw;
+    top: 90lvh;
+}
+.animation-select{
+    background-color: transparent;
+	border: none;
+}
+
 
 /*media queries for computer screens*/
 @media screen
