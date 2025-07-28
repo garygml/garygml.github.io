@@ -52,8 +52,7 @@ clippy.ready('Monkey King', {
                             124,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -62,8 +61,7 @@ clippy.ready('Monkey King', {
                             248,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -72,8 +70,7 @@ clippy.ready('Monkey King', {
                             372,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -82,8 +79,7 @@ clippy.ready('Monkey King', {
                             496,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -92,8 +88,7 @@ clippy.ready('Monkey King', {
                             620,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -102,8 +97,7 @@ clippy.ready('Monkey King', {
                             744,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -112,8 +106,7 @@ clippy.ready('Monkey King', {
                             868,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -122,8 +115,7 @@ clippy.ready('Monkey King', {
                             992,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -132,8 +124,7 @@ clippy.ready('Monkey King', {
                             1116,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -142,8 +133,7 @@ clippy.ready('Monkey King', {
                             1240,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -152,8 +142,7 @@ clippy.ready('Monkey King', {
                             1364,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -162,8 +151,7 @@ clippy.ready('Monkey King', {
                             1488,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -182,8 +170,7 @@ clippy.ready('Monkey King', {
                             1736,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -193,7 +180,7 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -202,8 +189,7 @@ clippy.ready('Monkey King', {
                             1984,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -213,7 +199,7 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -232,8 +218,7 @@ clippy.ready('Monkey King', {
                             2356,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -242,8 +227,7 @@ clippy.ready('Monkey King', {
                             2480,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -252,8 +236,7 @@ clippy.ready('Monkey King', {
                             2108,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -262,8 +245,7 @@ clippy.ready('Monkey King', {
                             2232,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -272,8 +254,7 @@ clippy.ready('Monkey King', {
                             2356,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -282,8 +263,7 @@ clippy.ready('Monkey King', {
                             2480,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -302,8 +282,7 @@ clippy.ready('Monkey King', {
                             2728,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -312,8 +291,7 @@ clippy.ready('Monkey King', {
                             2852,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -322,8 +300,7 @@ clippy.ready('Monkey King', {
                             2976,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -332,8 +309,7 @@ clippy.ready('Monkey King', {
                             3100,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -342,8 +318,7 @@ clippy.ready('Monkey King', {
                             3224,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -352,8 +327,7 @@ clippy.ready('Monkey King', {
                             3348,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -362,8 +336,7 @@ clippy.ready('Monkey King', {
                             3472,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -372,8 +345,7 @@ clippy.ready('Monkey King', {
                             3596,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -382,8 +354,7 @@ clippy.ready('Monkey King', {
                             3720,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -392,8 +363,7 @@ clippy.ready('Monkey King', {
                             3844,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -402,8 +372,7 @@ clippy.ready('Monkey King', {
                             3968,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -412,8 +381,7 @@ clippy.ready('Monkey King', {
                             4092,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -422,8 +390,7 @@ clippy.ready('Monkey King', {
                             4216,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -432,8 +399,7 @@ clippy.ready('Monkey King', {
                             4340,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -442,8 +408,7 @@ clippy.ready('Monkey King', {
                             4464,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -452,8 +417,7 @@ clippy.ready('Monkey King', {
                             0,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -462,8 +426,7 @@ clippy.ready('Monkey King', {
                             124,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -472,8 +435,7 @@ clippy.ready('Monkey King', {
                             248,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -482,8 +444,7 @@ clippy.ready('Monkey King', {
                             372,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -493,7 +454,7 @@ clippy.ready('Monkey King', {
                             93
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 46
                 },
                 {
                     "duration": 0,
@@ -502,8 +463,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -526,8 +486,7 @@ clippy.ready('Monkey King', {
                             620,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -536,8 +495,7 @@ clippy.ready('Monkey King', {
                             744,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -546,8 +504,7 @@ clippy.ready('Monkey King', {
                             868,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -556,8 +513,7 @@ clippy.ready('Monkey King', {
                             992,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -566,8 +522,7 @@ clippy.ready('Monkey King', {
                             1116,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -576,8 +531,7 @@ clippy.ready('Monkey King', {
                             1240,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -586,8 +540,7 @@ clippy.ready('Monkey King', {
                             1364,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -606,8 +559,7 @@ clippy.ready('Monkey King', {
                             1612,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -616,8 +568,7 @@ clippy.ready('Monkey King', {
                             1736,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -626,8 +577,7 @@ clippy.ready('Monkey King', {
                             1860,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -636,8 +586,7 @@ clippy.ready('Monkey King', {
                             1984,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -646,8 +595,7 @@ clippy.ready('Monkey King', {
                             2108,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -656,8 +604,7 @@ clippy.ready('Monkey King', {
                             2232,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -667,7 +614,7 @@ clippy.ready('Monkey King', {
                             93
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28
                 },
                 {
                     "duration": 100,
@@ -676,8 +623,7 @@ clippy.ready('Monkey King', {
                             2480,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -686,8 +632,7 @@ clippy.ready('Monkey King', {
                             2604,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -696,8 +641,7 @@ clippy.ready('Monkey King', {
                             2728,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -707,7 +651,7 @@ clippy.ready('Monkey King', {
                             93
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28
                 },
                 {
                     "duration": 100,
@@ -716,8 +660,7 @@ clippy.ready('Monkey King', {
                             2480,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -726,8 +669,7 @@ clippy.ready('Monkey King', {
                             2604,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -736,8 +678,7 @@ clippy.ready('Monkey King', {
                             2728,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -747,7 +688,15 @@ clippy.ready('Monkey King', {
                             93
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 28,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -756,8 +705,7 @@ clippy.ready('Monkey King', {
                             2480,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -766,8 +714,7 @@ clippy.ready('Monkey King', {
                             2604,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -776,8 +723,7 @@ clippy.ready('Monkey King', {
                             2728,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -786,8 +732,7 @@ clippy.ready('Monkey King', {
                             2356,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -796,8 +741,7 @@ clippy.ready('Monkey King', {
                             2852,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -806,8 +750,7 @@ clippy.ready('Monkey King', {
                             2976,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -826,8 +769,7 @@ clippy.ready('Monkey King', {
                             3224,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -836,8 +778,7 @@ clippy.ready('Monkey King', {
                             3348,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -846,8 +787,7 @@ clippy.ready('Monkey King', {
                             3472,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -856,8 +796,7 @@ clippy.ready('Monkey King', {
                             3596,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -866,8 +805,7 @@ clippy.ready('Monkey King', {
                             3720,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -876,8 +814,7 @@ clippy.ready('Monkey King', {
                             3844,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -886,8 +823,7 @@ clippy.ready('Monkey King', {
                             3968,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -896,8 +832,7 @@ clippy.ready('Monkey King', {
                             4092,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -906,8 +841,7 @@ clippy.ready('Monkey King', {
                             4216,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 550,
@@ -916,8 +850,7 @@ clippy.ready('Monkey King', {
                             4340,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -926,8 +859,7 @@ clippy.ready('Monkey King', {
                             4464,
                             93
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -936,8 +868,7 @@ clippy.ready('Monkey King', {
                             0,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -946,8 +877,7 @@ clippy.ready('Monkey King', {
                             124,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -956,8 +886,7 @@ clippy.ready('Monkey King', {
                             248,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -966,8 +895,7 @@ clippy.ready('Monkey King', {
                             372,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -976,8 +904,7 @@ clippy.ready('Monkey King', {
                             496,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -986,8 +913,7 @@ clippy.ready('Monkey King', {
                             620,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -997,7 +923,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49
                 },
                 {
                     "duration": 100,
@@ -1006,8 +932,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -1016,7 +941,19 @@ clippy.ready('Monkey King', {
                 {
                     "duration": 0,
                     "images": [],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 72,
+                                "weight": 33
+                            },
+                            {
+                                "frameIndex": 125,
+                                "weight": 33
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -1025,8 +962,7 @@ clippy.ready('Monkey King', {
                             868,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1035,8 +971,7 @@ clippy.ready('Monkey King', {
                             992,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1045,8 +980,7 @@ clippy.ready('Monkey King', {
                             1116,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1055,8 +989,7 @@ clippy.ready('Monkey King', {
                             1240,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 450,
@@ -1066,7 +999,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 12
                 },
                 {
                     "duration": 100,
@@ -1075,8 +1008,7 @@ clippy.ready('Monkey King', {
                             1488,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1086,7 +1018,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 12
                 },
                 {
                     "duration": 100,
@@ -1095,8 +1027,7 @@ clippy.ready('Monkey King', {
                             1488,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1106,7 +1037,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 12
                 },
                 {
                     "duration": 100,
@@ -1115,8 +1046,7 @@ clippy.ready('Monkey King', {
                             1488,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1125,8 +1055,7 @@ clippy.ready('Monkey King', {
                             1364,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1145,8 +1074,7 @@ clippy.ready('Monkey King', {
                             1736,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1155,8 +1083,7 @@ clippy.ready('Monkey King', {
                             1860,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1165,8 +1092,7 @@ clippy.ready('Monkey King', {
                             1984,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1175,8 +1101,7 @@ clippy.ready('Monkey King', {
                             2108,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1185,8 +1110,7 @@ clippy.ready('Monkey King', {
                             2232,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1195,8 +1119,7 @@ clippy.ready('Monkey King', {
                             2356,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1205,8 +1128,7 @@ clippy.ready('Monkey King', {
                             2480,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1215,8 +1137,7 @@ clippy.ready('Monkey King', {
                             2604,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1235,8 +1156,7 @@ clippy.ready('Monkey King', {
                             2852,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1246,7 +1166,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 300,
@@ -1255,8 +1175,7 @@ clippy.ready('Monkey King', {
                             3100,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1266,7 +1185,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -1275,8 +1194,7 @@ clippy.ready('Monkey King', {
                             3348,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1286,7 +1204,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -1295,8 +1213,7 @@ clippy.ready('Monkey King', {
                             3348,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1306,7 +1223,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -1315,8 +1232,7 @@ clippy.ready('Monkey King', {
                             3348,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1325,8 +1241,7 @@ clippy.ready('Monkey King', {
                             3472,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1335,8 +1250,7 @@ clippy.ready('Monkey King', {
                             3596,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1345,8 +1259,7 @@ clippy.ready('Monkey King', {
                             3720,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1356,7 +1269,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 100,
@@ -1365,8 +1278,7 @@ clippy.ready('Monkey King', {
                             3968,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1376,7 +1288,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 100,
@@ -1385,8 +1297,7 @@ clippy.ready('Monkey King', {
                             3968,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1396,7 +1307,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 100,
@@ -1405,8 +1316,7 @@ clippy.ready('Monkey King', {
                             3968,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1416,7 +1326,7 @@ clippy.ready('Monkey King', {
                             186
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 100,
@@ -1425,8 +1335,7 @@ clippy.ready('Monkey King', {
                             3968,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -1435,8 +1344,7 @@ clippy.ready('Monkey King', {
                             3844,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1445,8 +1353,7 @@ clippy.ready('Monkey King', {
                             4092,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1455,8 +1362,7 @@ clippy.ready('Monkey King', {
                             4216,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1465,8 +1371,7 @@ clippy.ready('Monkey King', {
                             4340,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1475,8 +1380,7 @@ clippy.ready('Monkey King', {
                             4464,
                             186
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1486,7 +1390,8 @@ clippy.ready('Monkey King', {
                             279
                         ]
                     ],
-                    "sound": "0006.wav"
+                    "sound": "0006.wav",
+                    "exitBranch": 182
                 },
                 {
                     "duration": 250,
@@ -1495,8 +1400,7 @@ clippy.ready('Monkey King', {
                             124,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1505,8 +1409,7 @@ clippy.ready('Monkey King', {
                             248,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1515,8 +1418,7 @@ clippy.ready('Monkey King', {
                             372,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1525,8 +1427,7 @@ clippy.ready('Monkey King', {
                             496,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1535,8 +1436,7 @@ clippy.ready('Monkey King', {
                             620,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1545,8 +1445,7 @@ clippy.ready('Monkey King', {
                             744,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1555,8 +1454,7 @@ clippy.ready('Monkey King', {
                             868,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1565,8 +1463,7 @@ clippy.ready('Monkey King', {
                             992,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1575,8 +1472,7 @@ clippy.ready('Monkey King', {
                             1116,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1585,8 +1481,7 @@ clippy.ready('Monkey King', {
                             1240,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1595,8 +1490,7 @@ clippy.ready('Monkey King', {
                             1364,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1605,8 +1499,7 @@ clippy.ready('Monkey King', {
                             1488,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1615,8 +1508,7 @@ clippy.ready('Monkey King', {
                             1612,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1625,8 +1517,7 @@ clippy.ready('Monkey King', {
                             1736,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1635,8 +1526,7 @@ clippy.ready('Monkey King', {
                             1860,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1646,7 +1536,7 @@ clippy.ready('Monkey King', {
                             279
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 68
                 },
                 {
                     "duration": 100,
@@ -1655,8 +1545,7 @@ clippy.ready('Monkey King', {
                             2108,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1665,8 +1554,7 @@ clippy.ready('Monkey King', {
                             2232,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1675,8 +1563,7 @@ clippy.ready('Monkey King', {
                             1860,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1685,8 +1572,7 @@ clippy.ready('Monkey King', {
                             1984,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1695,8 +1581,7 @@ clippy.ready('Monkey King', {
                             2356,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1705,8 +1590,7 @@ clippy.ready('Monkey King', {
                             2480,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1715,8 +1599,7 @@ clippy.ready('Monkey King', {
                             2604,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1726,7 +1609,15 @@ clippy.ready('Monkey King', {
                             279
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -1735,8 +1626,7 @@ clippy.ready('Monkey King', {
                             2852,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1745,8 +1635,7 @@ clippy.ready('Monkey King', {
                             2976,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1755,8 +1644,7 @@ clippy.ready('Monkey King', {
                             3100,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1765,8 +1653,7 @@ clippy.ready('Monkey King', {
                             3224,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -1775,8 +1662,7 @@ clippy.ready('Monkey King', {
                             3348,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1785,8 +1671,7 @@ clippy.ready('Monkey King', {
                             3472,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1795,8 +1680,7 @@ clippy.ready('Monkey King', {
                             3596,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1805,8 +1689,7 @@ clippy.ready('Monkey King', {
                             3720,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1815,8 +1698,7 @@ clippy.ready('Monkey King', {
                             3844,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1825,8 +1707,7 @@ clippy.ready('Monkey King', {
                             3968,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1845,8 +1726,7 @@ clippy.ready('Monkey King', {
                             4216,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1855,8 +1735,7 @@ clippy.ready('Monkey King', {
                             4340,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1865,8 +1744,7 @@ clippy.ready('Monkey King', {
                             4464,
                             279
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -1875,8 +1753,7 @@ clippy.ready('Monkey King', {
                             0,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1885,8 +1762,7 @@ clippy.ready('Monkey King', {
                             124,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1895,8 +1771,7 @@ clippy.ready('Monkey King', {
                             248,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1905,8 +1780,7 @@ clippy.ready('Monkey King', {
                             372,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1915,8 +1789,7 @@ clippy.ready('Monkey King', {
                             496,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1925,8 +1798,7 @@ clippy.ready('Monkey King', {
                             620,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1935,8 +1807,7 @@ clippy.ready('Monkey King', {
                             744,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1945,8 +1816,7 @@ clippy.ready('Monkey King', {
                             868,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1955,8 +1825,7 @@ clippy.ready('Monkey King', {
                             992,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1965,8 +1834,7 @@ clippy.ready('Monkey King', {
                             1116,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1975,8 +1843,7 @@ clippy.ready('Monkey King', {
                             1240,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1985,8 +1852,7 @@ clippy.ready('Monkey King', {
                             1364,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -1995,8 +1861,7 @@ clippy.ready('Monkey King', {
                             1488,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2005,8 +1870,7 @@ clippy.ready('Monkey King', {
                             1612,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2015,8 +1879,7 @@ clippy.ready('Monkey King', {
                             1736,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -2025,8 +1888,7 @@ clippy.ready('Monkey King', {
                             1860,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2036,7 +1898,7 @@ clippy.ready('Monkey King', {
                             372
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 187
                 },
                 {
                     "duration": 100,
@@ -2055,8 +1917,7 @@ clippy.ready('Monkey King', {
                             2232,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2065,8 +1926,7 @@ clippy.ready('Monkey King', {
                             2356,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2075,8 +1935,7 @@ clippy.ready('Monkey King', {
                             2480,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2085,8 +1944,7 @@ clippy.ready('Monkey King', {
                             2604,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2095,8 +1953,7 @@ clippy.ready('Monkey King', {
                             2728,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2105,8 +1962,7 @@ clippy.ready('Monkey King', {
                             2852,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2125,8 +1981,7 @@ clippy.ready('Monkey King', {
                             3100,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2135,8 +1990,7 @@ clippy.ready('Monkey King', {
                             3224,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2145,8 +1999,7 @@ clippy.ready('Monkey King', {
                             3348,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2155,8 +2008,7 @@ clippy.ready('Monkey King', {
                             3472,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2165,8 +2017,7 @@ clippy.ready('Monkey King', {
                             3596,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2175,8 +2026,7 @@ clippy.ready('Monkey King', {
                             3720,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2185,8 +2035,7 @@ clippy.ready('Monkey King', {
                             3844,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2195,8 +2044,7 @@ clippy.ready('Monkey King', {
                             3968,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2205,8 +2053,7 @@ clippy.ready('Monkey King', {
                             4092,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2215,8 +2062,7 @@ clippy.ready('Monkey King', {
                             4216,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2225,8 +2071,7 @@ clippy.ready('Monkey King', {
                             4340,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2235,8 +2080,7 @@ clippy.ready('Monkey King', {
                             4464,
                             372
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2245,8 +2089,7 @@ clippy.ready('Monkey King', {
                             0,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2256,7 +2099,15 @@ clippy.ready('Monkey King', {
                             465
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -2265,8 +2116,7 @@ clippy.ready('Monkey King', {
                             248,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2275,8 +2125,7 @@ clippy.ready('Monkey King', {
                             372,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2285,8 +2134,7 @@ clippy.ready('Monkey King', {
                             496,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2295,8 +2143,7 @@ clippy.ready('Monkey King', {
                             620,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -2305,8 +2152,7 @@ clippy.ready('Monkey King', {
                             744,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2325,8 +2171,7 @@ clippy.ready('Monkey King', {
                             992,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2335,8 +2180,7 @@ clippy.ready('Monkey King', {
                             1116,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -2345,8 +2189,7 @@ clippy.ready('Monkey King', {
                             1240,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2355,8 +2198,7 @@ clippy.ready('Monkey King', {
                             1364,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 650,
@@ -2365,8 +2207,7 @@ clippy.ready('Monkey King', {
                             1488,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2375,8 +2216,7 @@ clippy.ready('Monkey King', {
                             1612,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2385,8 +2225,7 @@ clippy.ready('Monkey King', {
                             1736,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2395,8 +2234,7 @@ clippy.ready('Monkey King', {
                             1860,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2405,8 +2243,7 @@ clippy.ready('Monkey King', {
                             1984,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2415,8 +2252,7 @@ clippy.ready('Monkey King', {
                             2108,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2425,8 +2261,7 @@ clippy.ready('Monkey King', {
                             2232,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2435,8 +2270,7 @@ clippy.ready('Monkey King', {
                             2356,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 50,
@@ -2445,8 +2279,7 @@ clippy.ready('Monkey King', {
                             2480,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2455,8 +2288,7 @@ clippy.ready('Monkey King', {
                             2604,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2465,8 +2297,7 @@ clippy.ready('Monkey King', {
                             2728,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2475,8 +2306,7 @@ clippy.ready('Monkey King', {
                             2852,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2485,8 +2315,7 @@ clippy.ready('Monkey King', {
                             2976,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2495,8 +2324,7 @@ clippy.ready('Monkey King', {
                             3100,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2505,8 +2333,7 @@ clippy.ready('Monkey King', {
                             3224,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2515,8 +2342,7 @@ clippy.ready('Monkey King', {
                             3348,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2525,8 +2351,7 @@ clippy.ready('Monkey King', {
                             3472,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2535,8 +2360,7 @@ clippy.ready('Monkey King', {
                             3596,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2555,8 +2379,7 @@ clippy.ready('Monkey King', {
                             3844,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2565,8 +2388,7 @@ clippy.ready('Monkey King', {
                             3968,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2575,8 +2397,7 @@ clippy.ready('Monkey King', {
                             4092,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2585,8 +2406,7 @@ clippy.ready('Monkey King', {
                             4216,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2595,8 +2415,7 @@ clippy.ready('Monkey King', {
                             4340,
                             465
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -2606,7 +2425,7 @@ clippy.ready('Monkey King', {
                             465
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 192
                 },
                 {
                     "duration": 100,
@@ -2615,8 +2434,7 @@ clippy.ready('Monkey King', {
                             0,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2625,8 +2443,7 @@ clippy.ready('Monkey King', {
                             124,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2635,8 +2452,7 @@ clippy.ready('Monkey King', {
                             248,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2645,8 +2461,7 @@ clippy.ready('Monkey King', {
                             372,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2665,8 +2480,7 @@ clippy.ready('Monkey King', {
                             620,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2675,8 +2489,7 @@ clippy.ready('Monkey King', {
                             744,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2685,8 +2498,7 @@ clippy.ready('Monkey King', {
                             868,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2695,8 +2507,7 @@ clippy.ready('Monkey King', {
                             992,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2705,8 +2516,7 @@ clippy.ready('Monkey King', {
                             1116,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2715,8 +2525,7 @@ clippy.ready('Monkey King', {
                             1240,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2725,8 +2534,7 @@ clippy.ready('Monkey King', {
                             1364,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2735,8 +2543,7 @@ clippy.ready('Monkey King', {
                             1488,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2755,8 +2562,7 @@ clippy.ready('Monkey King', {
                             1736,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2765,8 +2571,7 @@ clippy.ready('Monkey King', {
                             1860,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2775,8 +2580,7 @@ clippy.ready('Monkey King', {
                             1984,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2785,8 +2589,7 @@ clippy.ready('Monkey King', {
                             2108,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2795,8 +2598,7 @@ clippy.ready('Monkey King', {
                             2232,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2805,8 +2607,7 @@ clippy.ready('Monkey King', {
                             2356,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2815,8 +2616,7 @@ clippy.ready('Monkey King', {
                             2480,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2826,7 +2626,15 @@ clippy.ready('Monkey King', {
                             558
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -2835,8 +2643,7 @@ clippy.ready('Monkey King', {
                             2728,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2845,8 +2652,7 @@ clippy.ready('Monkey King', {
                             2852,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2855,8 +2661,7 @@ clippy.ready('Monkey King', {
                             2976,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2865,8 +2670,7 @@ clippy.ready('Monkey King', {
                             3100,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2876,7 +2680,15 @@ clippy.ready('Monkey King', {
                             558
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -2895,8 +2707,7 @@ clippy.ready('Monkey King', {
                             3472,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2905,8 +2716,7 @@ clippy.ready('Monkey King', {
                             3596,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2915,8 +2725,7 @@ clippy.ready('Monkey King', {
                             3720,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2926,7 +2735,15 @@ clippy.ready('Monkey King', {
                             558
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -2935,8 +2752,7 @@ clippy.ready('Monkey King', {
                             3968,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2945,8 +2761,7 @@ clippy.ready('Monkey King', {
                             4092,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2955,8 +2770,7 @@ clippy.ready('Monkey King', {
                             4216,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2965,8 +2779,7 @@ clippy.ready('Monkey King', {
                             4340,
                             558
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -2976,7 +2789,15 @@ clippy.ready('Monkey King', {
                             558
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 197,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 197,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -2985,8 +2806,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -3000,7 +2820,15 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 29,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -3009,8 +2837,7 @@ clippy.ready('Monkey King', {
                             0,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3019,8 +2846,7 @@ clippy.ready('Monkey King', {
                             124,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3029,8 +2855,7 @@ clippy.ready('Monkey King', {
                             248,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3039,8 +2864,7 @@ clippy.ready('Monkey King', {
                             372,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3049,8 +2873,7 @@ clippy.ready('Monkey King', {
                             496,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3059,8 +2882,7 @@ clippy.ready('Monkey King', {
                             620,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3069,8 +2891,7 @@ clippy.ready('Monkey King', {
                             744,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -3079,8 +2900,7 @@ clippy.ready('Monkey King', {
                             868,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3090,7 +2910,7 @@ clippy.ready('Monkey King', {
                             651
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 11
                 },
                 {
                     "duration": 600,
@@ -3099,8 +2919,7 @@ clippy.ready('Monkey King', {
                             1116,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3109,8 +2928,7 @@ clippy.ready('Monkey King', {
                             1240,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3129,8 +2947,7 @@ clippy.ready('Monkey King', {
                             1488,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3139,8 +2956,7 @@ clippy.ready('Monkey King', {
                             1612,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3149,8 +2965,7 @@ clippy.ready('Monkey King', {
                             1736,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3159,8 +2974,7 @@ clippy.ready('Monkey King', {
                             1860,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3169,8 +2983,7 @@ clippy.ready('Monkey King', {
                             1984,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3179,8 +2992,7 @@ clippy.ready('Monkey King', {
                             2108,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3189,8 +3001,7 @@ clippy.ready('Monkey King', {
                             2232,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3199,8 +3010,7 @@ clippy.ready('Monkey King', {
                             2356,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3209,8 +3019,7 @@ clippy.ready('Monkey King', {
                             2480,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3219,8 +3028,7 @@ clippy.ready('Monkey King', {
                             2604,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3229,8 +3037,7 @@ clippy.ready('Monkey King', {
                             2728,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3249,8 +3056,7 @@ clippy.ready('Monkey King', {
                             2976,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3259,8 +3065,7 @@ clippy.ready('Monkey King', {
                             3100,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3269,8 +3074,7 @@ clippy.ready('Monkey King', {
                             3224,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3280,7 +3084,15 @@ clippy.ready('Monkey King', {
                             651
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 90,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 90,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -3289,8 +3101,7 @@ clippy.ready('Monkey King', {
                             3472,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3299,8 +3110,7 @@ clippy.ready('Monkey King', {
                             3596,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3319,8 +3129,7 @@ clippy.ready('Monkey King', {
                             3844,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3329,8 +3138,7 @@ clippy.ready('Monkey King', {
                             3968,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3339,8 +3147,7 @@ clippy.ready('Monkey King', {
                             4092,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3349,8 +3156,7 @@ clippy.ready('Monkey King', {
                             4216,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3359,8 +3165,7 @@ clippy.ready('Monkey King', {
                             4340,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3369,8 +3174,7 @@ clippy.ready('Monkey King', {
                             4464,
                             651
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3380,7 +3184,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 70
                 },
                 {
                     "duration": 100,
@@ -3389,8 +3193,7 @@ clippy.ready('Monkey King', {
                             124,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3399,8 +3202,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3409,8 +3211,7 @@ clippy.ready('Monkey King', {
                             372,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3429,8 +3230,7 @@ clippy.ready('Monkey King', {
                             620,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3439,8 +3239,7 @@ clippy.ready('Monkey King', {
                             744,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3450,7 +3249,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 67
                 },
                 {
                     "duration": 100,
@@ -3459,8 +3258,7 @@ clippy.ready('Monkey King', {
                             992,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3470,7 +3268,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 67
                 },
                 {
                     "duration": 100,
@@ -3479,8 +3277,7 @@ clippy.ready('Monkey King', {
                             744,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3489,8 +3286,7 @@ clippy.ready('Monkey King', {
                             620,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3499,8 +3295,7 @@ clippy.ready('Monkey King', {
                             496,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3509,8 +3304,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3519,8 +3313,7 @@ clippy.ready('Monkey King', {
                             124,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3530,7 +3323,8 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": "0009.wav"
+                    "sound": "0009.wav",
+                    "exitBranch": 70
                 },
                 {
                     "duration": 100,
@@ -3539,8 +3333,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3549,8 +3342,7 @@ clippy.ready('Monkey King', {
                             496,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3560,7 +3352,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -3569,8 +3361,7 @@ clippy.ready('Monkey King', {
                             992,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3580,7 +3371,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -3589,8 +3380,7 @@ clippy.ready('Monkey King', {
                             496,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3599,8 +3389,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3610,7 +3399,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 72
                 },
                 {
                     "duration": 100,
@@ -3619,8 +3408,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3629,8 +3417,7 @@ clippy.ready('Monkey King', {
                             496,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 50,
@@ -3649,8 +3436,7 @@ clippy.ready('Monkey King', {
                             992,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3660,7 +3446,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -3669,8 +3455,7 @@ clippy.ready('Monkey King', {
                             496,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3679,8 +3464,7 @@ clippy.ready('Monkey King', {
                             248,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3689,8 +3473,7 @@ clippy.ready('Monkey King', {
                             0,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3699,8 +3482,7 @@ clippy.ready('Monkey King', {
                             1116,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3709,8 +3491,7 @@ clippy.ready('Monkey King', {
                             1240,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3719,8 +3500,7 @@ clippy.ready('Monkey King', {
                             1364,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3729,8 +3509,7 @@ clippy.ready('Monkey King', {
                             1488,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3749,8 +3528,7 @@ clippy.ready('Monkey King', {
                             1736,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3759,8 +3537,7 @@ clippy.ready('Monkey King', {
                             1860,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3769,8 +3546,7 @@ clippy.ready('Monkey King', {
                             1984,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3779,8 +3555,7 @@ clippy.ready('Monkey King', {
                             2108,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3789,8 +3564,7 @@ clippy.ready('Monkey King', {
                             2232,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3799,8 +3573,7 @@ clippy.ready('Monkey King', {
                             2356,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3809,8 +3582,7 @@ clippy.ready('Monkey King', {
                             2480,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3819,8 +3591,7 @@ clippy.ready('Monkey King', {
                             2604,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3829,8 +3600,7 @@ clippy.ready('Monkey King', {
                             2728,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3839,8 +3609,7 @@ clippy.ready('Monkey King', {
                             2852,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3849,8 +3618,7 @@ clippy.ready('Monkey King', {
                             2976,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3859,8 +3627,7 @@ clippy.ready('Monkey King', {
                             3100,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3869,8 +3636,7 @@ clippy.ready('Monkey King', {
                             3224,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3879,8 +3645,7 @@ clippy.ready('Monkey King', {
                             3348,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3890,12 +3655,11 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 90
                 },
                 {
                     "duration": 100,
-                    "images": [],
-                    "sound": null
+                    "images": []
                 }
             ]
         },
@@ -3909,7 +3673,7 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 18
                 },
                 {
                     "duration": 100,
@@ -3918,8 +3682,7 @@ clippy.ready('Monkey King', {
                             3596,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3928,8 +3691,7 @@ clippy.ready('Monkey King', {
                             3720,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3938,8 +3700,7 @@ clippy.ready('Monkey King', {
                             3844,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3948,8 +3709,7 @@ clippy.ready('Monkey King', {
                             3968,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3958,8 +3718,7 @@ clippy.ready('Monkey King', {
                             4092,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -3969,7 +3728,7 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 15
                 },
                 {
                     "duration": 100,
@@ -3978,8 +3737,7 @@ clippy.ready('Monkey King', {
                             4340,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3988,8 +3746,7 @@ clippy.ready('Monkey King', {
                             4464,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -3998,8 +3755,7 @@ clippy.ready('Monkey King', {
                             4340,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4008,8 +3764,7 @@ clippy.ready('Monkey King', {
                             4216,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4018,8 +3773,7 @@ clippy.ready('Monkey King', {
                             4340,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4028,8 +3782,7 @@ clippy.ready('Monkey King', {
                             4464,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4038,8 +3791,7 @@ clippy.ready('Monkey King', {
                             4340,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -4048,8 +3800,7 @@ clippy.ready('Monkey King', {
                             4216,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4058,8 +3809,7 @@ clippy.ready('Monkey King', {
                             0,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4068,8 +3818,7 @@ clippy.ready('Monkey King', {
                             124,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4079,7 +3828,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 18
                 },
                 {
                     "duration": 0,
@@ -4088,8 +3837,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -4103,7 +3851,20 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "exitBranch": 120,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 40,
+                                "weight": 33
+                            },
+                            {
+                                "frameIndex": 83,
+                                "weight": 33
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -4112,8 +3873,7 @@ clippy.ready('Monkey King', {
                             372,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4123,7 +3883,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120
                 },
                 {
                     "duration": 100,
@@ -4132,8 +3892,7 @@ clippy.ready('Monkey King', {
                             620,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4143,7 +3902,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 2
                 },
                 {
                     "duration": 100,
@@ -4153,7 +3912,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 4
                 },
                 {
                     "duration": 100,
@@ -4162,8 +3921,7 @@ clippy.ready('Monkey King', {
                             992,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4173,7 +3931,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 5
                 },
                 {
                     "duration": 100,
@@ -4192,8 +3950,7 @@ clippy.ready('Monkey King', {
                             1364,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4202,8 +3959,7 @@ clippy.ready('Monkey King', {
                             1488,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4212,8 +3968,7 @@ clippy.ready('Monkey King', {
                             1612,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4222,8 +3977,7 @@ clippy.ready('Monkey King', {
                             1736,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4232,8 +3986,7 @@ clippy.ready('Monkey King', {
                             1860,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4242,8 +3995,7 @@ clippy.ready('Monkey King', {
                             1984,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4252,8 +4004,7 @@ clippy.ready('Monkey King', {
                             2108,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4262,8 +4013,7 @@ clippy.ready('Monkey King', {
                             2232,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4272,8 +4022,7 @@ clippy.ready('Monkey King', {
                             2356,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4292,8 +4041,7 @@ clippy.ready('Monkey King', {
                             2604,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4302,8 +4050,7 @@ clippy.ready('Monkey King', {
                             2728,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4313,7 +4060,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4322,8 +4069,7 @@ clippy.ready('Monkey King', {
                             2976,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4333,7 +4079,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4342,8 +4088,7 @@ clippy.ready('Monkey King', {
                             3224,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4353,7 +4098,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4362,8 +4107,7 @@ clippy.ready('Monkey King', {
                             3472,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4373,7 +4117,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4382,8 +4126,7 @@ clippy.ready('Monkey King', {
                             3720,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4393,7 +4136,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4402,8 +4145,7 @@ clippy.ready('Monkey King', {
                             3968,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4413,7 +4155,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4422,8 +4164,7 @@ clippy.ready('Monkey King', {
                             4216,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4433,7 +4174,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -4442,8 +4183,7 @@ clippy.ready('Monkey King', {
                             3720,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4452,8 +4192,7 @@ clippy.ready('Monkey King', {
                             3844,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4462,8 +4201,7 @@ clippy.ready('Monkey King', {
                             4340,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4472,8 +4210,7 @@ clippy.ready('Monkey King', {
                             4464,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4482,8 +4219,7 @@ clippy.ready('Monkey King', {
                             0,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4493,7 +4229,15 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 120,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -4503,7 +4247,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120
                 },
                 {
                     "duration": 100,
@@ -4512,8 +4256,7 @@ clippy.ready('Monkey King', {
                             372,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4523,7 +4266,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 40
                 },
                 {
                     "duration": 100,
@@ -4532,8 +4275,7 @@ clippy.ready('Monkey King', {
                             620,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4543,7 +4285,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 42
                 },
                 {
                     "duration": 100,
@@ -4552,8 +4294,7 @@ clippy.ready('Monkey King', {
                             868,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4562,8 +4303,7 @@ clippy.ready('Monkey King', {
                             992,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4583,7 +4323,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 76
                 },
                 {
                     "duration": 100,
@@ -4592,8 +4332,7 @@ clippy.ready('Monkey King', {
                             1364,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4603,7 +4342,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 79
                 },
                 {
                     "duration": 100,
@@ -4622,8 +4361,7 @@ clippy.ready('Monkey King', {
                             1736,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4632,8 +4370,7 @@ clippy.ready('Monkey King', {
                             1860,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4642,8 +4379,7 @@ clippy.ready('Monkey King', {
                             1984,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4652,8 +4388,7 @@ clippy.ready('Monkey King', {
                             2108,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4673,7 +4408,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 76
                 },
                 {
                     "duration": 100,
@@ -4682,8 +4417,7 @@ clippy.ready('Monkey King', {
                             1364,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4693,7 +4427,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 79
                 },
                 {
                     "duration": 100,
@@ -4712,8 +4446,7 @@ clippy.ready('Monkey King', {
                             1736,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4722,8 +4455,7 @@ clippy.ready('Monkey King', {
                             1860,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4732,8 +4464,7 @@ clippy.ready('Monkey King', {
                             1984,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4742,8 +4473,7 @@ clippy.ready('Monkey King', {
                             2108,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4763,7 +4493,15 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 76,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 76,
+                                "weight": 60
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -4772,8 +4510,7 @@ clippy.ready('Monkey King', {
                             1364,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4783,7 +4520,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 79
                 },
                 {
                     "duration": 100,
@@ -4802,8 +4539,7 @@ clippy.ready('Monkey King', {
                             1736,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4812,8 +4548,7 @@ clippy.ready('Monkey King', {
                             1860,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4822,8 +4557,7 @@ clippy.ready('Monkey King', {
                             1984,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4832,8 +4566,7 @@ clippy.ready('Monkey King', {
                             2108,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4852,8 +4585,7 @@ clippy.ready('Monkey King', {
                             1240,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4862,8 +4594,7 @@ clippy.ready('Monkey King', {
                             1364,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4872,8 +4603,7 @@ clippy.ready('Monkey King', {
                             1488,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4892,8 +4622,7 @@ clippy.ready('Monkey King', {
                             2356,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4902,8 +4631,7 @@ clippy.ready('Monkey King', {
                             2480,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4912,8 +4640,7 @@ clippy.ready('Monkey King', {
                             2604,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4923,7 +4650,15 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 120,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -4933,7 +4668,7 @@ clippy.ready('Monkey King', {
                             930
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120
                 },
                 {
                     "duration": 100,
@@ -4942,8 +4677,7 @@ clippy.ready('Monkey King', {
                             2976,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4952,8 +4686,7 @@ clippy.ready('Monkey King', {
                             3100,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4962,8 +4695,7 @@ clippy.ready('Monkey King', {
                             3224,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4972,8 +4704,7 @@ clippy.ready('Monkey King', {
                             3348,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4982,8 +4713,7 @@ clippy.ready('Monkey King', {
                             3472,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -4992,8 +4722,7 @@ clippy.ready('Monkey King', {
                             3596,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5002,8 +4731,7 @@ clippy.ready('Monkey King', {
                             3720,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5012,8 +4740,7 @@ clippy.ready('Monkey King', {
                             3844,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5022,8 +4749,7 @@ clippy.ready('Monkey King', {
                             3968,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5032,8 +4758,7 @@ clippy.ready('Monkey King', {
                             4092,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5042,8 +4767,7 @@ clippy.ready('Monkey King', {
                             4216,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5052,8 +4776,7 @@ clippy.ready('Monkey King', {
                             4340,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5062,8 +4785,7 @@ clippy.ready('Monkey King', {
                             4464,
                             930
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5072,8 +4794,7 @@ clippy.ready('Monkey King', {
                             0,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5082,8 +4803,7 @@ clippy.ready('Monkey King', {
                             124,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5092,8 +4812,7 @@ clippy.ready('Monkey King', {
                             248,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5102,8 +4821,7 @@ clippy.ready('Monkey King', {
                             372,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5112,8 +4830,7 @@ clippy.ready('Monkey King', {
                             496,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5122,8 +4839,7 @@ clippy.ready('Monkey King', {
                             620,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5133,7 +4849,7 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 116
                 },
                 {
                     "duration": 100,
@@ -5142,8 +4858,7 @@ clippy.ready('Monkey King', {
                             868,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5152,8 +4867,7 @@ clippy.ready('Monkey King', {
                             992,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5162,8 +4876,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5173,7 +4886,7 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 116
                 },
                 {
                     "duration": 100,
@@ -5182,8 +4895,7 @@ clippy.ready('Monkey King', {
                             868,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5192,8 +4904,7 @@ clippy.ready('Monkey King', {
                             992,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5202,8 +4913,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5213,7 +4923,15 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 116,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 116,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -5222,8 +4940,7 @@ clippy.ready('Monkey King', {
                             868,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5232,8 +4949,7 @@ clippy.ready('Monkey King', {
                             992,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5242,8 +4958,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5253,7 +4968,7 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 116
                 },
                 {
                     "duration": 100,
@@ -5262,8 +4977,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5272,8 +4986,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5282,8 +4995,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5293,7 +5005,7 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120
                 },
                 {
                     "duration": 100,
@@ -5302,8 +5014,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -5336,8 +5047,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5346,8 +5056,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5356,8 +5065,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5366,8 +5074,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5376,8 +5083,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5386,8 +5092,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -5396,8 +5101,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5406,8 +5110,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5416,8 +5119,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5426,8 +5128,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5436,8 +5137,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5446,8 +5146,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5456,8 +5155,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5466,8 +5164,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5476,8 +5173,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5496,8 +5192,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5507,7 +5202,15 @@ clippy.ready('Monkey King', {
                             1023
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -5516,8 +5219,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5526,8 +5228,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5536,8 +5237,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5546,8 +5246,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1023
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5556,8 +5255,7 @@ clippy.ready('Monkey King', {
                             0,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5566,8 +5264,7 @@ clippy.ready('Monkey King', {
                             124,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5576,8 +5273,7 @@ clippy.ready('Monkey King', {
                             248,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5587,7 +5283,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -5597,7 +5293,15 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 32,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -5606,8 +5310,7 @@ clippy.ready('Monkey King', {
                             620,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5616,8 +5319,7 @@ clippy.ready('Monkey King', {
                             744,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5626,8 +5328,7 @@ clippy.ready('Monkey King', {
                             620,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5636,8 +5337,7 @@ clippy.ready('Monkey King', {
                             868,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5646,8 +5346,7 @@ clippy.ready('Monkey King', {
                             992,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5657,7 +5356,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -5666,8 +5365,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5676,8 +5374,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5686,8 +5383,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5697,7 +5393,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -5706,8 +5402,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5726,8 +5421,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5737,7 +5431,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -5746,8 +5440,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5756,8 +5449,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5766,8 +5458,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5777,7 +5468,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -5786,8 +5477,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5796,8 +5486,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5806,8 +5495,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5817,7 +5505,15 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 73,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -5826,8 +5522,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5837,7 +5532,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 71
                 },
                 {
                     "duration": 100,
@@ -5846,8 +5541,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5857,7 +5551,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -5866,8 +5560,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5876,8 +5569,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5886,8 +5578,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5897,7 +5588,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 71
                 },
                 {
                     "duration": 100,
@@ -5906,8 +5597,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5917,7 +5607,15 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 69,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -5926,8 +5624,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5936,8 +5633,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5946,8 +5642,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5957,7 +5652,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 71
                 },
                 {
                     "duration": 100,
@@ -5966,8 +5661,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5977,7 +5671,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -5986,8 +5680,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -5996,8 +5689,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6006,8 +5698,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6016,8 +5707,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6026,8 +5716,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6036,8 +5725,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6046,8 +5734,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6056,8 +5743,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6066,8 +5752,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6077,7 +5762,7 @@ clippy.ready('Monkey King', {
                             1116
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -6086,8 +5771,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1116
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6096,8 +5780,7 @@ clippy.ready('Monkey King', {
                             0,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6106,8 +5789,7 @@ clippy.ready('Monkey King', {
                             124,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6117,7 +5799,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -6126,8 +5808,7 @@ clippy.ready('Monkey King', {
                             372,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6146,8 +5827,7 @@ clippy.ready('Monkey King', {
                             620,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6157,7 +5837,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -6166,8 +5846,7 @@ clippy.ready('Monkey King', {
                             868,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6176,8 +5855,7 @@ clippy.ready('Monkey King', {
                             992,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6186,8 +5864,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6197,7 +5874,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 110
                 },
                 {
                     "duration": 100,
@@ -6206,8 +5883,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6216,8 +5892,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -6227,7 +5902,15 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 108,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 108,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -6236,8 +5919,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6246,8 +5928,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6256,8 +5937,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6266,8 +5946,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6276,8 +5955,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6287,7 +5965,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 106
                 },
                 {
                     "duration": 100,
@@ -6296,8 +5974,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6307,7 +5984,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 106
                 },
                 {
                     "duration": 100,
@@ -6316,8 +5993,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6327,7 +6003,15 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 106,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 106,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -6336,8 +6020,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6347,7 +6030,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 106
                 },
                 {
                     "duration": 100,
@@ -6356,8 +6039,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6366,8 +6048,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6376,8 +6057,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6386,8 +6066,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6406,8 +6085,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6416,8 +6094,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6426,8 +6103,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6436,8 +6112,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6446,8 +6121,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6457,7 +6131,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 115
                 },
                 {
                     "duration": 300,
@@ -6466,8 +6140,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6480,8 +6153,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6490,8 +6162,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6500,8 +6171,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6510,8 +6180,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6520,8 +6189,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6530,8 +6198,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -6540,8 +6207,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6550,8 +6216,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6560,8 +6225,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6571,7 +6235,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10
                 },
                 {
                     "duration": 0,
@@ -6580,8 +6244,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6594,8 +6257,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6604,8 +6266,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6614,8 +6275,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6624,8 +6284,7 @@ clippy.ready('Monkey King', {
                             0,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -6634,8 +6293,7 @@ clippy.ready('Monkey King', {
                             124,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6644,8 +6302,7 @@ clippy.ready('Monkey King', {
                             0,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6654,8 +6311,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1209
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6665,7 +6321,7 @@ clippy.ready('Monkey King', {
                             1209
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 8
                 },
                 {
                     "duration": 0,
@@ -6674,8 +6330,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6688,8 +6343,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6698,8 +6352,7 @@ clippy.ready('Monkey King', {
                             248,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6708,8 +6361,7 @@ clippy.ready('Monkey King', {
                             372,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -6718,8 +6370,7 @@ clippy.ready('Monkey King', {
                             496,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6728,8 +6379,7 @@ clippy.ready('Monkey King', {
                             372,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6739,7 +6389,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 6
                 },
                 {
                     "duration": 0,
@@ -6748,8 +6398,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6762,8 +6411,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6772,8 +6420,7 @@ clippy.ready('Monkey King', {
                             620,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6782,8 +6429,7 @@ clippy.ready('Monkey King', {
                             744,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6792,8 +6438,7 @@ clippy.ready('Monkey King', {
                             868,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -6802,8 +6447,7 @@ clippy.ready('Monkey King', {
                             992,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6812,8 +6456,7 @@ clippy.ready('Monkey King', {
                             868,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6822,8 +6465,7 @@ clippy.ready('Monkey King', {
                             744,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6833,7 +6475,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 8
                 },
                 {
                     "duration": 0,
@@ -6842,8 +6484,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6856,8 +6497,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6866,8 +6506,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6876,8 +6515,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6886,8 +6524,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -6896,8 +6533,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6906,8 +6542,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6916,8 +6551,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6927,7 +6561,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 8
                 },
                 {
                     "duration": 0,
@@ -6936,8 +6570,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -6950,8 +6583,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6960,8 +6592,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6970,8 +6601,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6980,8 +6610,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -6990,8 +6619,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -7000,8 +6628,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7010,8 +6637,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7020,8 +6646,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7031,7 +6656,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 9
                 },
                 {
                     "duration": 0,
@@ -7040,8 +6665,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -7054,8 +6678,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7064,8 +6687,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7074,8 +6696,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7084,8 +6705,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7094,8 +6714,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7104,8 +6723,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -7114,8 +6732,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7124,8 +6741,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7134,8 +6750,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7145,7 +6760,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10
                 },
                 {
                     "duration": 0,
@@ -7154,8 +6769,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -7168,8 +6782,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7178,8 +6791,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7188,8 +6800,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7198,8 +6809,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7208,8 +6818,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7218,8 +6827,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -7228,8 +6836,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7238,8 +6845,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7248,8 +6854,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1302
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7259,7 +6864,7 @@ clippy.ready('Monkey King', {
                             1302
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10
                 },
                 {
                     "duration": 0,
@@ -7268,8 +6873,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -7283,7 +6887,15 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 40,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -7302,8 +6914,7 @@ clippy.ready('Monkey King', {
                             0,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7312,8 +6923,7 @@ clippy.ready('Monkey King', {
                             124,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7323,7 +6933,23 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 13,
+                                "weight": 25
+                            },
+                            {
+                                "frameIndex": 21,
+                                "weight": 25
+                            },
+                            {
+                                "frameIndex": 29,
+                                "weight": 25
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -7332,8 +6958,7 @@ clippy.ready('Monkey King', {
                             372,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7342,8 +6967,7 @@ clippy.ready('Monkey King', {
                             496,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7353,7 +6977,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10
                 },
                 {
                     "duration": 800,
@@ -7362,8 +6986,7 @@ clippy.ready('Monkey King', {
                             744,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7372,8 +6995,7 @@ clippy.ready('Monkey King', {
                             620,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7393,7 +7015,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -7402,8 +7024,7 @@ clippy.ready('Monkey King', {
                             248,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7412,8 +7033,7 @@ clippy.ready('Monkey King', {
                             372,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7423,7 +7043,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 18
                 },
                 {
                     "duration": 100,
@@ -7432,8 +7052,7 @@ clippy.ready('Monkey King', {
                             992,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 800,
@@ -7442,8 +7061,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7452,8 +7070,7 @@ clippy.ready('Monkey King', {
                             992,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7473,7 +7090,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -7482,8 +7099,7 @@ clippy.ready('Monkey King', {
                             248,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7492,8 +7108,7 @@ clippy.ready('Monkey King', {
                             372,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7502,8 +7117,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7513,7 +7127,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 26
                 },
                 {
                     "duration": 800,
@@ -7522,8 +7136,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7532,8 +7145,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7553,7 +7165,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -7562,8 +7174,7 @@ clippy.ready('Monkey King', {
                             248,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7572,8 +7183,7 @@ clippy.ready('Monkey King', {
                             372,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7582,8 +7192,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7593,7 +7202,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 34
                 },
                 {
                     "duration": 800,
@@ -7602,8 +7211,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7612,8 +7220,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7623,7 +7230,8 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": "0016.wav"
+                    "sound": "0016.wav",
+                    "exitBranch": 35
                 },
                 {
                     "duration": 100,
@@ -7632,8 +7240,7 @@ clippy.ready('Monkey King', {
                             124,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7642,8 +7249,7 @@ clippy.ready('Monkey King', {
                             248,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7652,8 +7258,7 @@ clippy.ready('Monkey King', {
                             372,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7662,8 +7267,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7673,7 +7277,15 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 72,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 72,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -7682,8 +7294,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7692,8 +7303,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7702,8 +7312,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7712,8 +7321,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7723,7 +7331,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 67
                 },
                 {
                     "duration": 450,
@@ -7732,8 +7340,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7742,8 +7349,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7753,7 +7359,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 65
                 },
                 {
                     "duration": 100,
@@ -7762,8 +7368,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7772,8 +7377,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7782,8 +7386,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7793,7 +7396,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62
                 },
                 {
                     "duration": 100,
@@ -7802,8 +7405,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7812,8 +7414,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7822,8 +7423,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7833,7 +7433,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62
                 },
                 {
                     "duration": 100,
@@ -7842,8 +7442,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7852,8 +7451,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7863,7 +7461,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 66
                 },
                 {
                     "duration": 100,
@@ -7872,8 +7470,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7882,8 +7479,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7892,8 +7488,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7902,8 +7497,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7913,7 +7507,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 66
                 },
                 {
                     "duration": 100,
@@ -7922,8 +7516,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7933,7 +7526,15 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 66,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 45,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 300,
@@ -7942,8 +7543,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7952,8 +7552,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7962,8 +7561,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7972,8 +7570,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7982,8 +7579,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -7993,7 +7589,7 @@ clippy.ready('Monkey King', {
                             1395
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 72
                 },
                 {
                     "duration": 100,
@@ -8002,8 +7598,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -8026,8 +7621,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8036,8 +7630,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8056,8 +7649,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8066,8 +7658,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1395
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8076,8 +7667,7 @@ clippy.ready('Monkey King', {
                             0,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8096,8 +7686,7 @@ clippy.ready('Monkey King', {
                             248,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8106,8 +7695,7 @@ clippy.ready('Monkey King', {
                             372,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8116,8 +7704,7 @@ clippy.ready('Monkey King', {
                             496,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8136,8 +7723,7 @@ clippy.ready('Monkey King', {
                             744,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8146,8 +7732,7 @@ clippy.ready('Monkey King', {
                             868,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8156,8 +7741,7 @@ clippy.ready('Monkey King', {
                             992,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8166,8 +7750,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8177,7 +7760,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29
                 },
                 {
                     "duration": 100,
@@ -8186,8 +7769,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8196,8 +7778,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8217,7 +7798,15 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 22,
+                                "weight": 80
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -8236,8 +7825,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8246,8 +7834,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8257,7 +7844,15 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 26,
+                                "weight": 80
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -8266,8 +7861,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8276,8 +7870,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8286,8 +7879,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8297,7 +7889,15 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -8306,8 +7906,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8316,8 +7915,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8326,8 +7924,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8337,7 +7934,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 33
                 },
                 {
                     "duration": 0,
@@ -8346,8 +7943,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -8361,7 +7957,20 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "exitBranch": 99,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 39,
+                                "weight": 33
+                            },
+                            {
+                                "frameIndex": 61,
+                                "weight": 33
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -8370,8 +7979,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8380,8 +7988,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8390,8 +7997,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8400,8 +8006,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8410,8 +8015,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8420,8 +8024,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8430,8 +8033,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8440,8 +8042,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -8450,8 +8051,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8461,7 +8061,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8470,8 +8070,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8480,8 +8079,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8500,8 +8098,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8511,7 +8108,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8520,8 +8117,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8530,8 +8126,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8540,8 +8135,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8551,7 +8145,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8560,8 +8154,7 @@ clippy.ready('Monkey King', {
                             0,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8570,8 +8163,7 @@ clippy.ready('Monkey King', {
                             124,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8581,7 +8173,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8590,8 +8182,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8600,8 +8191,7 @@ clippy.ready('Monkey King', {
                             124,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8611,7 +8201,7 @@ clippy.ready('Monkey King', {
                             1488
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8620,8 +8210,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1488
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8630,8 +8219,7 @@ clippy.ready('Monkey King', {
                             248,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8640,8 +8228,7 @@ clippy.ready('Monkey King', {
                             372,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8651,7 +8238,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -8660,8 +8247,7 @@ clippy.ready('Monkey King', {
                             620,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8670,8 +8256,7 @@ clippy.ready('Monkey King', {
                             744,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -8680,8 +8265,7 @@ clippy.ready('Monkey King', {
                             868,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8690,8 +8274,7 @@ clippy.ready('Monkey King', {
                             992,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8700,8 +8283,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8710,8 +8292,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8720,8 +8301,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8730,8 +8310,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8741,7 +8320,15 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 99,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 99,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -8751,7 +8338,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 99
                 },
                 {
                     "duration": 100,
@@ -8760,8 +8347,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8770,8 +8356,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8780,8 +8365,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -8790,8 +8374,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8800,8 +8383,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8811,7 +8393,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49
                 },
                 {
                     "duration": 100,
@@ -8820,8 +8402,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -8830,8 +8411,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8840,8 +8420,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8850,8 +8429,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8860,8 +8438,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8871,7 +8448,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 55
                 },
                 {
                     "duration": 100,
@@ -8880,8 +8457,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8890,8 +8466,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -8900,8 +8475,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8910,8 +8484,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8920,8 +8493,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8930,8 +8502,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8940,8 +8511,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8951,7 +8521,15 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 99,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 99,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 350,
@@ -8960,8 +8538,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8971,7 +8548,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 99
                 },
                 {
                     "duration": 100,
@@ -8980,8 +8557,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -8991,7 +8567,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 98
                 },
                 {
                     "duration": 100,
@@ -9000,8 +8576,7 @@ clippy.ready('Monkey King', {
                             124,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9010,8 +8585,7 @@ clippy.ready('Monkey King', {
                             248,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9020,8 +8594,7 @@ clippy.ready('Monkey King', {
                             372,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -9030,8 +8603,7 @@ clippy.ready('Monkey King', {
                             496,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9040,8 +8612,7 @@ clippy.ready('Monkey King', {
                             620,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9050,8 +8621,7 @@ clippy.ready('Monkey King', {
                             744,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9061,7 +8631,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 93
                 },
                 {
                     "duration": 100,
@@ -9070,8 +8640,7 @@ clippy.ready('Monkey King', {
                             992,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9090,8 +8659,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9100,8 +8668,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9110,8 +8677,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9120,8 +8686,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9130,8 +8695,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9140,8 +8704,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9150,8 +8713,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9160,8 +8722,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9171,7 +8732,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 93
                 },
                 {
                     "duration": 100,
@@ -9180,8 +8741,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9200,8 +8760,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9210,8 +8769,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9220,8 +8778,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9230,8 +8787,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9240,8 +8796,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9250,8 +8805,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9260,8 +8814,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9270,8 +8823,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -9280,8 +8832,7 @@ clippy.ready('Monkey King', {
                             992,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9290,8 +8841,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9300,8 +8850,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9310,8 +8859,7 @@ clippy.ready('Monkey King', {
                             124,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9320,8 +8868,7 @@ clippy.ready('Monkey King', {
                             0,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9330,8 +8877,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1581
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9341,7 +8887,7 @@ clippy.ready('Monkey King', {
                             1581
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 99
                 },
                 {
                     "duration": 100,
@@ -9350,8 +8896,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -9364,8 +8909,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9374,8 +8918,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9384,8 +8927,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9394,8 +8936,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9404,8 +8945,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9414,8 +8954,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -9424,8 +8963,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 600,
@@ -9435,7 +8973,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 16
                 },
                 {
                     "duration": 150,
@@ -9444,8 +8982,7 @@ clippy.ready('Monkey King', {
                             0,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9454,8 +8991,7 @@ clippy.ready('Monkey King', {
                             124,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9464,8 +9000,7 @@ clippy.ready('Monkey King', {
                             248,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9475,7 +9010,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 16
                 },
                 {
                     "duration": 150,
@@ -9484,8 +9019,7 @@ clippy.ready('Monkey King', {
                             0,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9494,8 +9028,7 @@ clippy.ready('Monkey King', {
                             372,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9504,8 +9037,7 @@ clippy.ready('Monkey King', {
                             0,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 600,
@@ -9515,7 +9047,15 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 16,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 8,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -9524,8 +9064,7 @@ clippy.ready('Monkey King', {
                             496,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9534,8 +9073,7 @@ clippy.ready('Monkey King', {
                             620,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9544,8 +9082,7 @@ clippy.ready('Monkey King', {
                             744,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9554,8 +9091,7 @@ clippy.ready('Monkey King', {
                             868,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -9564,8 +9100,7 @@ clippy.ready('Monkey King', {
                             992,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 450,
@@ -9574,8 +9109,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9584,8 +9118,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9594,8 +9127,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9604,8 +9136,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9614,8 +9145,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9624,8 +9154,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1674
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9635,7 +9164,7 @@ clippy.ready('Monkey King', {
                             1674
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28
                 },
                 {
                     "duration": 0,
@@ -9644,8 +9173,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -9668,8 +9196,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9678,8 +9205,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9688,8 +9214,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9698,8 +9223,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9708,8 +9232,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9718,8 +9241,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9728,8 +9250,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9738,8 +9259,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9748,8 +9268,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9758,8 +9277,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9768,8 +9286,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -9778,8 +9295,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9788,8 +9304,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9798,8 +9313,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9808,8 +9322,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9819,7 +9332,7 @@ clippy.ready('Monkey King', {
                             1767
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29
                 },
                 {
                     "duration": 600,
@@ -9829,7 +9342,15 @@ clippy.ready('Monkey King', {
                             1767
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 29,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -9838,8 +9359,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9848,8 +9368,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9859,7 +9378,7 @@ clippy.ready('Monkey King', {
                             1767
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28
                 },
                 {
                     "duration": 100,
@@ -9868,8 +9387,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9878,8 +9396,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9889,7 +9406,7 @@ clippy.ready('Monkey King', {
                             1767
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 28
                 },
                 {
                     "duration": 100,
@@ -9898,8 +9415,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9908,8 +9424,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9918,8 +9433,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9928,8 +9442,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9938,8 +9451,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9948,8 +9460,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9958,8 +9469,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9968,8 +9478,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1767
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9978,8 +9487,7 @@ clippy.ready('Monkey King', {
                             0,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9988,8 +9496,7 @@ clippy.ready('Monkey King', {
                             124,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -9998,8 +9505,7 @@ clippy.ready('Monkey King', {
                             248,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10018,8 +9524,7 @@ clippy.ready('Monkey King', {
                             496,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10029,7 +9534,7 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 39
                 },
                 {
                     "duration": 600,
@@ -10038,8 +9543,7 @@ clippy.ready('Monkey King', {
                             744,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10048,8 +9552,7 @@ clippy.ready('Monkey King', {
                             868,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10058,8 +9561,7 @@ clippy.ready('Monkey King', {
                             992,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10068,8 +9570,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10079,7 +9580,7 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 0,
@@ -10088,8 +9589,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -10112,8 +9612,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10132,8 +9631,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10142,8 +9640,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10152,8 +9649,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10162,8 +9658,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10172,8 +9667,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10182,8 +9676,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10192,8 +9685,7 @@ clippy.ready('Monkey King', {
                             2356,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10202,8 +9694,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10212,8 +9703,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -10223,7 +9713,7 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 84
                 },
                 {
                     "duration": 100,
@@ -10232,8 +9722,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10242,8 +9731,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10252,8 +9740,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10262,8 +9749,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10272,8 +9758,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10282,8 +9767,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10292,8 +9776,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10302,8 +9785,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10312,8 +9794,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10322,8 +9803,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10332,8 +9812,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10342,8 +9821,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10352,8 +9830,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10363,7 +9840,19 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 84,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 70,
+                                "weight": 70
+                            },
+                            {
+                                "frameIndex": 49,
+                                "weight": 15
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -10372,8 +9861,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10382,8 +9870,7 @@ clippy.ready('Monkey King', {
                             0,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10392,8 +9879,7 @@ clippy.ready('Monkey King', {
                             124,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10402,8 +9888,7 @@ clippy.ready('Monkey King', {
                             248,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10413,7 +9898,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44
                 },
                 {
                     "duration": 100,
@@ -10422,8 +9907,7 @@ clippy.ready('Monkey King', {
                             496,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10432,8 +9916,7 @@ clippy.ready('Monkey King', {
                             620,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10442,8 +9925,7 @@ clippy.ready('Monkey King', {
                             744,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10452,8 +9934,7 @@ clippy.ready('Monkey King', {
                             124,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10463,7 +9944,15 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 44,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -10472,8 +9961,7 @@ clippy.ready('Monkey King', {
                             372,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10482,8 +9970,7 @@ clippy.ready('Monkey King', {
                             496,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10492,8 +9979,7 @@ clippy.ready('Monkey King', {
                             620,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10502,8 +9988,7 @@ clippy.ready('Monkey King', {
                             744,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10512,8 +9997,7 @@ clippy.ready('Monkey King', {
                             124,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10522,8 +10006,7 @@ clippy.ready('Monkey King', {
                             248,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10532,8 +10015,7 @@ clippy.ready('Monkey King', {
                             372,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10542,8 +10024,7 @@ clippy.ready('Monkey King', {
                             868,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10552,8 +10033,7 @@ clippy.ready('Monkey King', {
                             992,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10562,8 +10042,7 @@ clippy.ready('Monkey King', {
                             1116,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10572,8 +10051,7 @@ clippy.ready('Monkey King', {
                             1240,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10583,7 +10061,15 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 69,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -10592,8 +10078,7 @@ clippy.ready('Monkey King', {
                             1364,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10602,8 +10087,7 @@ clippy.ready('Monkey King', {
                             1488,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10612,8 +10096,7 @@ clippy.ready('Monkey King', {
                             1612,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10622,8 +10105,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10632,8 +10114,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10642,8 +10123,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10653,7 +10133,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 68
                 },
                 {
                     "duration": 100,
@@ -10662,8 +10142,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10672,8 +10151,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10682,8 +10160,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10692,8 +10169,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10702,8 +10178,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10713,7 +10188,15 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 68,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 68,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -10722,8 +10205,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10732,8 +10214,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10742,8 +10223,7 @@ clippy.ready('Monkey King', {
                             1736,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10752,8 +10232,7 @@ clippy.ready('Monkey King', {
                             1860,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10762,8 +10241,7 @@ clippy.ready('Monkey King', {
                             1984,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10772,8 +10250,7 @@ clippy.ready('Monkey King', {
                             2108,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10782,8 +10259,7 @@ clippy.ready('Monkey King', {
                             2232,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10793,7 +10269,7 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 100,
@@ -10802,8 +10278,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10812,8 +10287,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10822,8 +10296,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10832,8 +10305,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10842,8 +10314,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10852,8 +10323,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10862,8 +10332,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10872,8 +10341,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10882,8 +10350,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10892,8 +10359,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10902,8 +10368,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10912,8 +10377,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10922,8 +10386,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1860
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10933,7 +10396,15 @@ clippy.ready('Monkey King', {
                             1860
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 84,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 13,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -10952,8 +10423,7 @@ clippy.ready('Monkey King', {
                             2480,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10962,8 +10432,7 @@ clippy.ready('Monkey King', {
                             2604,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 0,
@@ -10972,8 +10441,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -10986,8 +10454,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -10996,8 +10463,7 @@ clippy.ready('Monkey King', {
                             2728,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11006,8 +10472,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11016,8 +10481,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11026,8 +10490,7 @@ clippy.ready('Monkey King', {
                             3100,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -11036,8 +10499,7 @@ clippy.ready('Monkey King', {
                             3224,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11046,8 +10508,7 @@ clippy.ready('Monkey King', {
                             2976,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11056,8 +10517,7 @@ clippy.ready('Monkey King', {
                             2852,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11067,7 +10527,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 9
                 },
                 {
                     "duration": 0,
@@ -11076,8 +10536,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -11090,8 +10549,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11100,8 +10558,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11110,8 +10567,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11120,8 +10576,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11130,8 +10585,7 @@ clippy.ready('Monkey King', {
                             3720,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -11140,8 +10594,7 @@ clippy.ready('Monkey King', {
                             3844,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11150,8 +10603,7 @@ clippy.ready('Monkey King', {
                             3596,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11160,8 +10612,7 @@ clippy.ready('Monkey King', {
                             3472,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11171,7 +10622,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 9
                 },
                 {
                     "duration": 0,
@@ -11180,8 +10631,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -11194,8 +10644,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11204,8 +10653,7 @@ clippy.ready('Monkey King', {
                             3968,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11214,8 +10662,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11224,8 +10671,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -11234,8 +10680,7 @@ clippy.ready('Monkey King', {
                             4340,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11244,8 +10689,7 @@ clippy.ready('Monkey King', {
                             4216,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11254,8 +10698,7 @@ clippy.ready('Monkey King', {
                             4092,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11265,7 +10708,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 8
                 },
                 {
                     "duration": 0,
@@ -11274,8 +10717,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -11288,8 +10730,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11298,8 +10739,7 @@ clippy.ready('Monkey King', {
                             4464,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11308,8 +10748,7 @@ clippy.ready('Monkey King', {
                             0,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11318,8 +10757,7 @@ clippy.ready('Monkey King', {
                             124,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11328,8 +10766,7 @@ clippy.ready('Monkey King', {
                             248,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11338,8 +10775,7 @@ clippy.ready('Monkey King', {
                             372,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11348,8 +10784,7 @@ clippy.ready('Monkey King', {
                             496,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11358,8 +10793,7 @@ clippy.ready('Monkey King', {
                             620,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11368,8 +10802,7 @@ clippy.ready('Monkey King', {
                             744,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11378,8 +10811,7 @@ clippy.ready('Monkey King', {
                             868,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11389,7 +10821,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20
                 },
                 {
                     "duration": 100,
@@ -11398,8 +10830,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11408,8 +10839,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11419,7 +10849,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20
                 },
                 {
                     "duration": 100,
@@ -11428,8 +10858,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11438,8 +10867,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11449,7 +10877,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20
                 },
                 {
                     "duration": 100,
@@ -11458,8 +10886,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11468,8 +10895,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -11478,8 +10904,7 @@ clippy.ready('Monkey King', {
                             992,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11488,8 +10913,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11498,8 +10922,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11509,7 +10932,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 114
                 },
                 {
                     "duration": 100,
@@ -11519,7 +10942,19 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 24,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 82,
+                                "weight": 25
+                            },
+                            {
+                                "frameIndex": 97,
+                                "weight": 25
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -11528,8 +10963,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11538,8 +10972,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11548,8 +10981,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11558,8 +10990,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11568,8 +10999,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11578,8 +11008,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11589,7 +11018,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43
                 },
                 {
                     "duration": 200,
@@ -11598,8 +11027,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11608,8 +11036,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11619,7 +11046,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 38
                 },
                 {
                     "duration": 200,
@@ -11628,8 +11055,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -11639,7 +11065,14 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 51,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -11648,8 +11081,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11658,8 +11090,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11668,8 +11099,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11678,8 +11108,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11689,7 +11118,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 46
                 },
                 {
                     "duration": 150,
@@ -11698,8 +11127,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11708,8 +11136,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11718,8 +11145,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11728,8 +11154,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11738,8 +11163,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11748,8 +11172,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11758,8 +11181,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11768,8 +11190,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11778,8 +11199,7 @@ clippy.ready('Monkey King', {
                             0,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -11789,7 +11209,19 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 66,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 36,
+                                "weight": 60
+                            },
+                            {
+                                "frameIndex": 67,
+                                "weight": 7
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -11798,8 +11230,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11808,8 +11239,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11818,8 +11248,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11828,8 +11257,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11839,7 +11267,7 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 61
                 },
                 {
                     "duration": 100,
@@ -11848,8 +11276,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11858,8 +11285,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11868,8 +11294,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11878,8 +11303,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11888,8 +11312,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11898,8 +11321,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11908,8 +11330,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11918,8 +11339,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -11928,8 +11348,7 @@ clippy.ready('Monkey King', {
                             0,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -11939,7 +11358,23 @@ clippy.ready('Monkey King', {
                             2046
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 66,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 51,
+                                "weight": 60
+                            },
+                            {
+                                "frameIndex": 36,
+                                "weight": 20
+                            },
+                            {
+                                "frameIndex": 67,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -11949,7 +11384,15 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 113,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 113,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -11958,8 +11401,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11968,8 +11410,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11978,8 +11419,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11988,8 +11428,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -11998,8 +11437,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2046
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12008,8 +11446,7 @@ clippy.ready('Monkey King', {
                             248,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12018,8 +11455,7 @@ clippy.ready('Monkey King', {
                             372,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12028,8 +11464,7 @@ clippy.ready('Monkey King', {
                             496,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12038,8 +11473,7 @@ clippy.ready('Monkey King', {
                             620,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12048,8 +11482,7 @@ clippy.ready('Monkey King', {
                             744,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12058,8 +11491,7 @@ clippy.ready('Monkey King', {
                             868,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12068,8 +11500,7 @@ clippy.ready('Monkey King', {
                             992,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12078,8 +11509,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12088,8 +11518,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -12099,7 +11528,19 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 112,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 97,
+                                "weight": 50
+                            },
+                            {
+                                "frameIndex": 112,
+                                "weight": 5
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -12108,8 +11549,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12118,8 +11558,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12128,8 +11567,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12138,8 +11576,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12149,7 +11586,7 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 92
                 },
                 {
                     "duration": 100,
@@ -12158,8 +11595,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12168,8 +11604,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12178,8 +11613,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12188,8 +11622,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12198,8 +11631,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12208,8 +11640,7 @@ clippy.ready('Monkey King', {
                             868,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12218,8 +11649,7 @@ clippy.ready('Monkey King', {
                             992,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12228,8 +11658,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12238,8 +11667,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -12249,7 +11677,23 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 112,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 82,
+                                "weight": 60
+                            },
+                            {
+                                "frameIndex": 24,
+                                "weight": 10
+                            },
+                            {
+                                "frameIndex": 112,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 200,
@@ -12258,8 +11702,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12268,8 +11711,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12278,8 +11720,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12288,8 +11729,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12299,7 +11739,7 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 107
                 },
                 {
                     "duration": 200,
@@ -12308,8 +11748,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12318,8 +11757,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12328,8 +11766,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12338,8 +11775,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12348,8 +11784,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12358,8 +11793,7 @@ clippy.ready('Monkey King', {
                             868,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12368,8 +11802,7 @@ clippy.ready('Monkey King', {
                             992,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12378,8 +11811,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12388,8 +11820,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -12399,7 +11830,23 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 112,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 97,
+                                "weight": 60
+                            },
+                            {
+                                "frameIndex": 24,
+                                "weight": 10
+                            },
+                            {
+                                "frameIndex": 82,
+                                "weight": 20
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -12408,8 +11855,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -12418,8 +11864,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12428,8 +11873,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12438,8 +11882,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12448,8 +11891,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12458,8 +11900,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12468,8 +11909,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12479,7 +11919,7 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 120
                 },
                 {
                     "duration": 0,
@@ -12488,8 +11928,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -12503,7 +11942,8 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "exitBranch": 88
                 },
                 {
                     "duration": 100,
@@ -12513,7 +11953,7 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 88
                 },
                 {
                     "duration": 100,
@@ -12523,7 +11963,7 @@ clippy.ready('Monkey King', {
                             2139
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 1
                 },
                 {
                     "duration": 100,
@@ -12532,8 +11972,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12542,8 +11981,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12552,8 +11990,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12562,8 +11999,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12572,8 +12008,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2139
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12593,7 +12028,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 11
                 },
                 {
                     "duration": 300,
@@ -12602,8 +12037,7 @@ clippy.ready('Monkey King', {
                             124,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12612,8 +12046,7 @@ clippy.ready('Monkey King', {
                             248,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12623,7 +12056,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 14
                 },
                 {
                     "duration": 300,
@@ -12632,8 +12065,7 @@ clippy.ready('Monkey King', {
                             496,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12642,8 +12074,7 @@ clippy.ready('Monkey King', {
                             620,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12653,7 +12084,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 350,
@@ -12662,8 +12093,7 @@ clippy.ready('Monkey King', {
                             868,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12673,7 +12103,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 150,
@@ -12682,8 +12112,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12693,7 +12122,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 300,
@@ -12702,8 +12131,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12713,7 +12141,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 150,
@@ -12722,8 +12150,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12733,7 +12160,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 300,
@@ -12742,8 +12169,7 @@ clippy.ready('Monkey King', {
                             868,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12752,8 +12178,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12762,8 +12187,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12773,7 +12197,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 42
                 },
                 {
                     "duration": 100,
@@ -12782,8 +12206,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12802,8 +12225,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12812,8 +12234,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12822,8 +12243,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12832,8 +12252,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12843,7 +12262,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 42,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 42,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -12852,8 +12279,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12872,8 +12298,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12882,8 +12307,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12892,8 +12316,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -12902,8 +12325,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12912,8 +12334,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12922,8 +12343,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12932,8 +12352,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12942,8 +12361,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12953,7 +12371,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 16,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 350,
@@ -12962,8 +12388,7 @@ clippy.ready('Monkey King', {
                             868,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12972,8 +12397,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12982,8 +12406,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -12992,8 +12415,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -13003,7 +12425,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 80
                 },
                 {
                     "duration": 100,
@@ -13012,8 +12434,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13022,8 +12443,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13033,7 +12453,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 62,
+                                "weight": 30
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 300,
@@ -13042,8 +12470,7 @@ clippy.ready('Monkey King', {
                             868,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13052,8 +12479,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13062,8 +12488,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13073,7 +12498,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 80
                 },
                 {
                     "duration": 300,
@@ -13082,8 +12507,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13092,8 +12516,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13102,8 +12525,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13113,7 +12535,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 83
                 },
                 {
                     "duration": 350,
@@ -13122,8 +12544,7 @@ clippy.ready('Monkey King', {
                             868,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13132,8 +12553,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13142,8 +12562,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13153,7 +12572,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 80
                 },
                 {
                     "duration": 100,
@@ -13162,8 +12581,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13173,7 +12591,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 78
                 },
                 {
                     "duration": 300,
@@ -13193,7 +12611,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 78
                 },
                 {
                     "duration": 100,
@@ -13213,7 +12631,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 78,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 78,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13233,7 +12659,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 78
                 },
                 {
                     "duration": 100,
@@ -13253,7 +12679,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 78
                 },
                 {
                     "duration": 100,
@@ -13272,8 +12698,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13292,8 +12717,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13302,8 +12726,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13312,8 +12735,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13322,8 +12744,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13333,7 +12754,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 84,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 16,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13342,8 +12771,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13352,8 +12780,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13362,8 +12789,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13373,7 +12799,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 88
                 },
                 {
                     "duration": 0,
@@ -13382,8 +12808,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -13396,8 +12821,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -13411,7 +12835,23 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 3,
+                                "weight": 3
+                            },
+                            {
+                                "frameIndex": 32,
+                                "weight": 15
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13420,8 +12860,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13431,7 +12870,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -13440,8 +12887,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13450,8 +12896,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -13461,7 +12906,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 30
                 },
                 {
                     "duration": 300,
@@ -13470,8 +12915,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13480,8 +12924,7 @@ clippy.ready('Monkey King', {
                             0,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13490,8 +12933,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13501,7 +12943,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 30
                 },
                 {
                     "duration": 150,
@@ -13510,8 +12952,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13521,7 +12962,15 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 30,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 30,
+                                "weight": 30
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13530,8 +12979,7 @@ clippy.ready('Monkey King', {
                             248,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -13540,8 +12988,7 @@ clippy.ready('Monkey King', {
                             372,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13551,7 +12998,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 150,
@@ -13560,8 +13007,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13571,7 +13017,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 150,
@@ -13580,8 +13026,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 310,
@@ -13591,7 +13036,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 310,
@@ -13600,8 +13045,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -13611,7 +13055,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 120,
@@ -13620,8 +13064,7 @@ clippy.ready('Monkey King', {
                             372,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -13630,8 +13073,7 @@ clippy.ready('Monkey King', {
                             248,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13641,7 +13083,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 30
                 },
                 {
                     "duration": 310,
@@ -13650,8 +13092,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13660,8 +13101,7 @@ clippy.ready('Monkey King', {
                             0,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 310,
@@ -13670,8 +13110,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 310,
@@ -13681,7 +13120,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 30
                 },
                 {
                     "duration": 150,
@@ -13690,8 +13129,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -13700,8 +13138,7 @@ clippy.ready('Monkey King', {
                             0,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -13710,8 +13147,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13721,7 +13157,7 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -13730,8 +13166,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -13745,7 +13180,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 3,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 3,
+                                "weight": 13
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13754,8 +13201,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13765,7 +13211,14 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -13774,8 +13227,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -13783,8 +13235,7 @@ clippy.ready('Monkey King', {
             "frames": [
                 {
                     "duration": 100,
-                    "images": [],
-                    "sound": null
+                    "images": []
                 },
                 {
                     "duration": 100,
@@ -13793,8 +13244,7 @@ clippy.ready('Monkey King', {
                             868,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13803,8 +13253,7 @@ clippy.ready('Monkey King', {
                             992,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13813,8 +13262,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13823,8 +13271,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -13833,8 +13280,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13843,8 +13289,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13853,8 +13298,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13864,7 +13308,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 9
                 },
                 {
                     "duration": 300,
@@ -13873,8 +13317,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -13897,8 +13340,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13907,8 +13349,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13917,8 +13358,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13927,8 +13367,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13937,8 +13376,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13947,8 +13385,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13957,8 +13394,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -13978,12 +13414,11 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10
                 },
                 {
                     "duration": 100,
-                    "images": [],
-                    "sound": null
+                    "images": []
                 }
             ]
         },
@@ -13997,7 +13432,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 3,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -14006,8 +13453,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14017,7 +13463,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -14027,7 +13481,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -14036,8 +13490,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14046,8 +13499,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14056,8 +13508,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14066,8 +13517,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14076,8 +13526,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14086,8 +13535,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14097,7 +13545,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62
                 },
                 {
                     "duration": 100,
@@ -14106,8 +13554,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14116,8 +13563,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14126,8 +13572,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14136,8 +13581,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14146,8 +13590,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14156,8 +13599,7 @@ clippy.ready('Monkey King', {
                             0,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14166,8 +13608,7 @@ clippy.ready('Monkey King', {
                             124,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14176,8 +13617,7 @@ clippy.ready('Monkey King', {
                             248,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14186,8 +13626,7 @@ clippy.ready('Monkey King', {
                             372,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14196,8 +13635,7 @@ clippy.ready('Monkey King', {
                             496,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14206,8 +13644,7 @@ clippy.ready('Monkey King', {
                             620,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14216,8 +13653,7 @@ clippy.ready('Monkey King', {
                             744,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14226,8 +13662,7 @@ clippy.ready('Monkey King', {
                             868,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14236,8 +13671,7 @@ clippy.ready('Monkey King', {
                             992,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14246,8 +13680,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14257,7 +13690,19 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 10,
+                                "weight": 80
+                            },
+                            {
+                                "frameIndex": 61,
+                                "weight": 5
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 120,
@@ -14266,8 +13711,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14276,8 +13720,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14286,8 +13729,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14296,8 +13738,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14306,8 +13747,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14316,8 +13756,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14326,8 +13765,7 @@ clippy.ready('Monkey King', {
                             0,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14336,8 +13774,7 @@ clippy.ready('Monkey King', {
                             124,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14346,8 +13783,7 @@ clippy.ready('Monkey King', {
                             248,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14356,8 +13792,7 @@ clippy.ready('Monkey King', {
                             372,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14366,8 +13801,7 @@ clippy.ready('Monkey King', {
                             496,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14376,8 +13810,7 @@ clippy.ready('Monkey King', {
                             620,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14386,8 +13819,7 @@ clippy.ready('Monkey King', {
                             744,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14396,8 +13828,7 @@ clippy.ready('Monkey King', {
                             868,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14406,8 +13837,7 @@ clippy.ready('Monkey King', {
                             992,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 130,
@@ -14416,8 +13846,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 120,
@@ -14427,7 +13856,23 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 27,
+                                "weight": 70
+                            },
+                            {
+                                "frameIndex": 10,
+                                "weight": 15
+                            },
+                            {
+                                "frameIndex": 61,
+                                "weight": 5
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -14436,8 +13881,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14446,8 +13890,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14456,8 +13899,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14466,8 +13908,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14476,8 +13917,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14486,8 +13926,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14496,8 +13935,7 @@ clippy.ready('Monkey King', {
                             0,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14506,8 +13944,7 @@ clippy.ready('Monkey King', {
                             124,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14516,8 +13953,7 @@ clippy.ready('Monkey King', {
                             248,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14526,8 +13962,7 @@ clippy.ready('Monkey King', {
                             372,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14536,8 +13971,7 @@ clippy.ready('Monkey King', {
                             496,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14546,8 +13980,7 @@ clippy.ready('Monkey King', {
                             620,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14556,8 +13989,7 @@ clippy.ready('Monkey King', {
                             744,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14566,8 +13998,7 @@ clippy.ready('Monkey King', {
                             868,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14576,8 +14007,7 @@ clippy.ready('Monkey King', {
                             992,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14586,8 +14016,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14597,7 +14026,19 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 61,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 44,
+                                "weight": 80
+                            },
+                            {
+                                "frameIndex": 27,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -14607,7 +14048,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 62
                 },
                 {
                     "duration": 100,
@@ -14616,8 +14057,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14626,8 +14066,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14636,8 +14075,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14646,8 +14084,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14656,8 +14093,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14666,8 +14102,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14677,7 +14112,7 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 69
                 },
                 {
                     "duration": 100,
@@ -14686,8 +14121,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -14701,7 +14135,7 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 23
                 },
                 {
                     "duration": 100,
@@ -14711,7 +14145,7 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 23
                 },
                 {
                     "duration": 100,
@@ -14720,8 +14154,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14730,8 +14163,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14740,8 +14172,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14750,8 +14181,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14760,8 +14190,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14770,8 +14199,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14780,8 +14208,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14791,7 +14218,7 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20
                 },
                 {
                     "duration": 300,
@@ -14801,7 +14228,7 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 19
                 },
                 {
                     "duration": 150,
@@ -14810,8 +14237,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14820,8 +14246,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14830,8 +14255,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -14840,8 +14264,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14850,8 +14273,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -14860,8 +14282,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14870,8 +14291,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -14881,7 +14301,15 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 19,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 11,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -14890,8 +14318,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14900,8 +14327,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14910,8 +14336,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2418
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14921,7 +14346,7 @@ clippy.ready('Monkey King', {
                             2418
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 23
                 },
                 {
                     "duration": 100,
@@ -14930,8 +14355,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -14954,8 +14378,7 @@ clippy.ready('Monkey King', {
                             0,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14964,8 +14387,7 @@ clippy.ready('Monkey King', {
                             124,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -14974,8 +14396,7 @@ clippy.ready('Monkey King', {
                             248,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14984,8 +14405,7 @@ clippy.ready('Monkey King', {
                             372,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -14994,8 +14414,7 @@ clippy.ready('Monkey King', {
                             496,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15004,8 +14423,7 @@ clippy.ready('Monkey King', {
                             620,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15024,8 +14442,7 @@ clippy.ready('Monkey King', {
                             868,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15034,8 +14451,7 @@ clippy.ready('Monkey King', {
                             992,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15044,8 +14460,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -15054,8 +14469,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15064,8 +14478,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15074,8 +14487,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15084,8 +14496,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15094,8 +14505,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15105,7 +14515,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49
                 },
                 {
                     "duration": 150,
@@ -15114,8 +14524,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15124,8 +14533,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15134,8 +14542,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15145,7 +14552,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49
                 },
                 {
                     "duration": 150,
@@ -15154,8 +14561,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15164,8 +14570,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15174,8 +14579,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15185,7 +14589,19 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 80
+                            },
+                            {
+                                "frameIndex": 33,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15194,8 +14610,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15204,8 +14619,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -15214,8 +14628,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -15225,7 +14638,15 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 27,
+                                "weight": 50
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15234,8 +14655,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15244,8 +14664,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15254,8 +14673,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15265,7 +14683,15 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 48,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15275,7 +14701,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 48
                 },
                 {
                     "duration": 100,
@@ -15284,8 +14710,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15295,7 +14720,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 46
                 },
                 {
                     "duration": 100,
@@ -15304,8 +14729,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15315,7 +14739,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44
                 },
                 {
                     "duration": 100,
@@ -15325,7 +14749,15 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 41,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 41,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15335,7 +14767,7 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 42
                 },
                 {
                     "duration": 100,
@@ -15344,8 +14776,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15354,8 +14785,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 1000,
@@ -15365,7 +14795,19 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 38,
+                                "weight": 10
+                            },
+                            {
+                                "frameIndex": 44,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 500,
@@ -15375,7 +14817,15 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 42,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15384,8 +14834,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15394,8 +14843,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15404,8 +14852,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15414,8 +14861,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2511
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -15425,7 +14871,15 @@ clippy.ready('Monkey King', {
                             2511
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 49,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15434,8 +14888,7 @@ clippy.ready('Monkey King', {
                             0,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15444,8 +14897,7 @@ clippy.ready('Monkey King', {
                             124,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15454,8 +14906,7 @@ clippy.ready('Monkey King', {
                             248,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15465,7 +14916,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 53
                 },
                 {
                     "duration": 0,
@@ -15474,8 +14925,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -15489,7 +14939,23 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 51,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 3,
+                                "weight": 5
+                            },
+                            {
+                                "frameIndex": 51,
+                                "weight": 9
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15498,8 +14964,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -15509,7 +14974,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 51,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15519,7 +14992,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 51
                 },
                 {
                     "duration": 100,
@@ -15528,8 +15001,7 @@ clippy.ready('Monkey King', {
                             620,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15539,7 +15011,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 50
                 },
                 {
                     "duration": 100,
@@ -15548,8 +15020,7 @@ clippy.ready('Monkey King', {
                             868,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -15559,7 +15030,19 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 12,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 7,
+                                "weight": 70
+                            },
+                            {
+                                "frameIndex": 12,
+                                "weight": 20
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15568,8 +15051,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15578,8 +15060,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15588,8 +15069,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 1000,
@@ -15599,7 +15079,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 12,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 7,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15608,8 +15096,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15618,8 +15105,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15628,8 +15114,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15639,7 +15124,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 40,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 39,
+                                "weight": 15
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 1000,
@@ -15649,7 +15142,23 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 39,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 16,
+                                "weight": 40
+                            },
+                            {
+                                "frameIndex": 39,
+                                "weight": 20
+                            },
+                            {
+                                "frameIndex": 25,
+                                "weight": 20
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15658,8 +15167,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15668,8 +15176,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15679,7 +15186,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 39,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 16,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15688,8 +15203,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15698,8 +15212,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15708,8 +15221,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15718,8 +15230,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15728,8 +15239,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15738,8 +15248,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15749,7 +15258,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 32,
+                                "weight": 60
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 1000,
@@ -15759,7 +15276,14 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 13,
+                                "weight": 80
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15768,8 +15292,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15778,8 +15301,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15789,7 +15311,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 1000,
@@ -15799,7 +15321,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 27,
+                                "weight": 80
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15808,8 +15338,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15819,7 +15348,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 7,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 7,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 600,
@@ -15829,7 +15366,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 7
                 },
                 {
                     "duration": 100,
@@ -15838,8 +15375,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15848,8 +15384,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15858,8 +15393,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15868,8 +15402,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15878,8 +15411,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15888,8 +15420,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15898,8 +15429,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -15909,7 +15439,23 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 47,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 42,
+                                "weight": 50
+                            },
+                            {
+                                "frameIndex": 20,
+                                "weight": 20
+                            },
+                            {
+                                "frameIndex": 47,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15918,8 +15464,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15928,8 +15473,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15939,7 +15483,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 47
                 },
                 {
                     "duration": 350,
@@ -15949,7 +15493,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 47,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 20,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -15958,8 +15510,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15968,8 +15519,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15978,8 +15528,7 @@ clippy.ready('Monkey King', {
                             744,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -15989,7 +15538,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 51
                 },
                 {
                     "duration": 100,
@@ -15998,8 +15547,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -16022,8 +15570,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16032,8 +15579,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16042,8 +15588,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16052,8 +15597,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16072,8 +15616,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16082,8 +15625,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16092,8 +15634,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16102,8 +15643,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16112,8 +15652,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16122,8 +15661,7 @@ clippy.ready('Monkey King', {
                             0,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16132,8 +15670,7 @@ clippy.ready('Monkey King', {
                             124,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16142,8 +15679,7 @@ clippy.ready('Monkey King', {
                             248,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16153,7 +15689,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 19
                 },
                 {
                     "duration": 100,
@@ -16163,7 +15699,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17
                 },
                 {
                     "duration": 400,
@@ -16172,8 +15708,7 @@ clippy.ready('Monkey King', {
                             620,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16183,7 +15718,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 19
                 },
                 {
                     "duration": 100,
@@ -16192,8 +15727,7 @@ clippy.ready('Monkey King', {
                             868,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16202,8 +15736,7 @@ clippy.ready('Monkey King', {
                             992,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16212,8 +15745,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16223,7 +15755,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16232,8 +15764,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16243,7 +15774,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16252,8 +15783,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16263,7 +15793,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16272,8 +15802,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16283,7 +15812,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16292,8 +15821,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16303,7 +15831,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16312,8 +15840,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16323,7 +15850,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16332,8 +15859,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16343,7 +15869,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16352,8 +15878,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -16363,7 +15888,15 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 22,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -16372,8 +15905,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16382,8 +15914,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16392,8 +15923,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16402,8 +15932,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16413,7 +15942,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 41
                 },
                 {
                     "duration": 0,
@@ -16422,8 +15951,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -16437,7 +15965,7 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 16
                 },
                 {
                     "duration": 100,
@@ -16447,7 +15975,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 5
                 },
                 {
                     "duration": 100,
@@ -16456,8 +15984,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16466,8 +15993,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16476,8 +16002,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16486,8 +16011,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16496,8 +16020,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16506,8 +16029,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16516,8 +16038,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16526,8 +16047,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16536,8 +16056,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16547,7 +16066,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13
                 },
                 {
                     "duration": 200,
@@ -16556,8 +16075,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16567,7 +16085,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 15
                 },
                 {
                     "duration": 100,
@@ -16576,8 +16094,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16586,8 +16103,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 0,
@@ -16596,8 +16112,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -16611,7 +16126,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": "0000.wav"
+                    "sound": "0000.wav",
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 60,
+                                "weight": 33
+                            },
+                            {
+                                "frameIndex": 98,
+                                "weight": 33
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -16620,8 +16147,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2697
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16641,7 +16167,7 @@ clippy.ready('Monkey King', {
                             2697
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 5
                 },
                 {
                     "duration": 100,
@@ -16650,8 +16176,7 @@ clippy.ready('Monkey King', {
                             0,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16661,7 +16186,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 7
                 },
                 {
                     "duration": 100,
@@ -16670,8 +16195,7 @@ clippy.ready('Monkey King', {
                             248,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16681,7 +16205,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 9
                 },
                 {
                     "duration": 100,
@@ -16690,8 +16214,7 @@ clippy.ready('Monkey King', {
                             496,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16701,7 +16224,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 11
                 },
                 {
                     "duration": 100,
@@ -16710,8 +16233,7 @@ clippy.ready('Monkey King', {
                             744,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16721,7 +16243,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13
                 },
                 {
                     "duration": 100,
@@ -16741,7 +16263,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 15
                 },
                 {
                     "duration": 100,
@@ -16750,8 +16272,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16761,7 +16282,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17
                 },
                 {
                     "duration": 100,
@@ -16770,8 +16291,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16780,8 +16300,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16791,7 +16310,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 119
                 },
                 {
                     "duration": 100,
@@ -16801,7 +16320,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 29
                 },
                 {
                     "duration": 100,
@@ -16810,8 +16329,7 @@ clippy.ready('Monkey King', {
                             1984,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16821,7 +16339,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 23
                 },
                 {
                     "duration": 100,
@@ -16830,8 +16348,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16841,7 +16358,8 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": "0007.wav"
+                    "sound": "0007.wav",
+                    "exitBranch": 27
                 },
                 {
                     "duration": 100,
@@ -16850,8 +16368,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16860,8 +16377,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16870,8 +16386,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16881,7 +16396,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 32
                 },
                 {
                     "duration": 100,
@@ -16890,8 +16405,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16900,8 +16414,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16910,8 +16423,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16920,8 +16432,7 @@ clippy.ready('Monkey King', {
                             3348,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16931,7 +16442,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 36
                 },
                 {
                     "duration": 100,
@@ -16950,8 +16461,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16960,8 +16470,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16971,7 +16480,7 @@ clippy.ready('Monkey King', {
                             2790
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 44
                 },
                 {
                     "duration": 100,
@@ -16980,8 +16489,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -16990,8 +16498,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17000,8 +16507,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17010,8 +16516,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2790
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17021,7 +16526,7 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 114
                 },
                 {
                     "duration": 100,
@@ -17030,8 +16535,7 @@ clippy.ready('Monkey King', {
                             124,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17040,8 +16544,7 @@ clippy.ready('Monkey King', {
                             248,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17050,8 +16553,7 @@ clippy.ready('Monkey King', {
                             372,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17071,7 +16573,7 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 57
                 },
                 {
                     "duration": 100,
@@ -17080,8 +16582,7 @@ clippy.ready('Monkey King', {
                             744,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17090,8 +16591,7 @@ clippy.ready('Monkey King', {
                             868,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17100,8 +16600,7 @@ clippy.ready('Monkey King', {
                             992,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17110,8 +16609,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17120,8 +16618,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17130,8 +16627,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17140,8 +16636,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17150,8 +16645,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17160,8 +16654,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17170,8 +16663,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17190,8 +16682,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17201,7 +16692,15 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 124,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 124,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17210,8 +16709,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17220,8 +16718,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17230,8 +16727,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17240,8 +16736,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17250,8 +16745,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17260,8 +16754,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17270,8 +16763,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17280,8 +16772,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17291,7 +16782,8 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": "0023.wav"
+                    "sound": "0023.wav",
+                    "exitBranch": 87
                 },
                 {
                     "duration": 100,
@@ -17300,8 +16792,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17310,8 +16801,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17320,8 +16810,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17330,8 +16819,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17340,8 +16828,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17351,7 +16838,8 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": "0023.wav"
+                    "sound": "0023.wav",
+                    "exitBranch": 87
                 },
                 {
                     "duration": 100,
@@ -17360,8 +16848,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17370,8 +16857,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17380,8 +16866,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17390,8 +16875,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17400,8 +16884,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17411,7 +16894,8 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": "0023.wav"
+                    "sound": "0023.wav",
+                    "exitBranch": 87
                 },
                 {
                     "duration": 100,
@@ -17420,8 +16904,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17430,8 +16913,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17440,8 +16922,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17450,8 +16931,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17460,8 +16940,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17480,8 +16959,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17490,8 +16968,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17500,8 +16977,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17510,8 +16986,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17521,7 +16996,7 @@ clippy.ready('Monkey King', {
                             2883
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 93
                 },
                 {
                     "duration": 550,
@@ -17530,8 +17005,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17540,8 +17014,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2883
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17550,8 +17023,7 @@ clippy.ready('Monkey King', {
                             0,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17560,8 +17032,7 @@ clippy.ready('Monkey King', {
                             124,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17570,8 +17041,7 @@ clippy.ready('Monkey King', {
                             248,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17581,7 +17051,15 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 124,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 124,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17590,8 +17068,7 @@ clippy.ready('Monkey King', {
                             496,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17600,8 +17077,7 @@ clippy.ready('Monkey King', {
                             620,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17610,8 +17086,7 @@ clippy.ready('Monkey King', {
                             744,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17620,8 +17095,7 @@ clippy.ready('Monkey King', {
                             868,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -17631,7 +17105,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 111
                 },
                 {
                     "duration": 150,
@@ -17640,8 +17114,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -17650,8 +17123,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -17660,8 +17132,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -17671,7 +17142,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 111
                 },
                 {
                     "duration": 150,
@@ -17680,8 +17151,7 @@ clippy.ready('Monkey King', {
                             1116,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17690,8 +17160,7 @@ clippy.ready('Monkey King', {
                             1240,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17700,8 +17169,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -17710,8 +17178,7 @@ clippy.ready('Monkey King', {
                             992,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17720,8 +17187,7 @@ clippy.ready('Monkey King', {
                             868,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17730,8 +17196,7 @@ clippy.ready('Monkey King', {
                             744,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17741,7 +17206,15 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 124,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 124,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17750,8 +17223,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17760,8 +17232,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17770,8 +17241,7 @@ clippy.ready('Monkey King', {
                             1736,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17780,8 +17250,7 @@ clippy.ready('Monkey King', {
                             1860,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17791,7 +17260,15 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 124,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 124,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17800,8 +17277,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17810,8 +17286,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17820,8 +17295,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17830,8 +17304,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17840,8 +17313,7 @@ clippy.ready('Monkey King', {
                             2604,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 0,
@@ -17850,8 +17322,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -17864,8 +17335,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17874,8 +17344,7 @@ clippy.ready('Monkey King', {
                             2728,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17884,8 +17353,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17894,8 +17362,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -17904,8 +17371,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17914,8 +17380,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17925,7 +17390,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 7
                 },
                 {
                     "duration": 0,
@@ -17934,8 +17399,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -17949,7 +17413,23 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 75
+                            },
+                            {
+                                "frameIndex": 3,
+                                "weight": 5
+                            },
+                            {
+                                "frameIndex": 96,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17958,8 +17438,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17969,12 +17448,36 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 65
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 0,
                     "images": [],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 33,
+                                "weight": 25
+                            },
+                            {
+                                "frameIndex": 58,
+                                "weight": 25
+                            },
+                            {
+                                "frameIndex": 79,
+                                "weight": 25
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -17983,8 +17486,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -17993,8 +17495,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -18004,7 +17505,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -18013,8 +17514,25 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            0,
+                            2325
+                        ]
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            124,
+                            2325
+                        ]
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18024,7 +17542,15 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 31,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18033,28 +17559,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            0,
-                            2325
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            124,
-                            2325
-                        ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -18063,8 +17568,7 @@ clippy.ready('Monkey King', {
                             0,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18073,8 +17577,7 @@ clippy.ready('Monkey King', {
                             248,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18083,8 +17586,7 @@ clippy.ready('Monkey King', {
                             372,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -18094,7 +17596,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -18103,8 +17605,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18114,7 +17615,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -18123,8 +17624,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18134,7 +17634,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -18143,8 +17643,7 @@ clippy.ready('Monkey King', {
                             620,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -18154,7 +17653,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -18163,8 +17662,7 @@ clippy.ready('Monkey King', {
                             372,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18173,8 +17671,7 @@ clippy.ready('Monkey King', {
                             248,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -18184,7 +17681,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -18193,8 +17690,25 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            0,
+                            2325
+                        ]
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            124,
+                            2325
+                        ]
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18204,7 +17718,7 @@ clippy.ready('Monkey King', {
                             2325
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 31
                 },
                 {
                     "duration": 100,
@@ -18213,28 +17727,7 @@ clippy.ready('Monkey King', {
                             124,
                             2325
                         ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            0,
-                            2325
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            124,
-                            2325
-                        ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -18243,8 +17736,7 @@ clippy.ready('Monkey King', {
                             0,
                             2325
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18253,8 +17745,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2232
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18264,7 +17755,15 @@ clippy.ready('Monkey King', {
                             2232
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 96,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18273,8 +17772,7 @@ clippy.ready('Monkey King', {
                             3472,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18283,8 +17781,7 @@ clippy.ready('Monkey King', {
                             3596,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18293,8 +17790,7 @@ clippy.ready('Monkey King', {
                             3720,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -18303,8 +17799,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18313,8 +17808,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18324,7 +17818,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 55
                 },
                 {
                     "duration": 100,
@@ -18333,8 +17827,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18343,8 +17836,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18353,8 +17845,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18364,7 +17855,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 55
                 },
                 {
                     "duration": 100,
@@ -18373,8 +17864,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18383,8 +17873,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18393,8 +17882,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18404,7 +17892,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 55
                 },
                 {
                     "duration": 100,
@@ -18413,8 +17901,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18423,8 +17910,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18433,8 +17919,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18444,7 +17929,7 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 55
                 },
                 {
                     "duration": 100,
@@ -18453,8 +17938,7 @@ clippy.ready('Monkey King', {
                             4216,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18463,8 +17947,7 @@ clippy.ready('Monkey King', {
                             4340,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18473,8 +17956,7 @@ clippy.ready('Monkey King', {
                             4464,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18483,8 +17965,7 @@ clippy.ready('Monkey King', {
                             4092,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18493,8 +17974,7 @@ clippy.ready('Monkey King', {
                             3968,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18503,8 +17983,7 @@ clippy.ready('Monkey King', {
                             3844,
                             2976
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18514,7 +17993,15 @@ clippy.ready('Monkey King', {
                             2976
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 96,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18524,7 +18011,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96
                 },
                 {
                     "duration": 100,
@@ -18533,8 +18020,7 @@ clippy.ready('Monkey King', {
                             620,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18544,7 +18030,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96
                 },
                 {
                     "duration": 100,
@@ -18553,8 +18039,7 @@ clippy.ready('Monkey King', {
                             868,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -18563,8 +18048,7 @@ clippy.ready('Monkey King', {
                             992,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18573,8 +18057,7 @@ clippy.ready('Monkey King', {
                             1364,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18583,8 +18066,7 @@ clippy.ready('Monkey King', {
                             1488,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18593,8 +18075,7 @@ clippy.ready('Monkey King', {
                             1612,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18604,7 +18085,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 68
                 },
                 {
                     "duration": 350,
@@ -18613,8 +18094,7 @@ clippy.ready('Monkey King', {
                             2480,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18623,8 +18103,7 @@ clippy.ready('Monkey King', {
                             2356,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18633,8 +18112,7 @@ clippy.ready('Monkey King', {
                             2232,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 200,
@@ -18644,7 +18122,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 75
                 },
                 {
                     "duration": 100,
@@ -18653,8 +18131,7 @@ clippy.ready('Monkey King', {
                             2852,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18663,8 +18140,7 @@ clippy.ready('Monkey King', {
                             2976,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18674,7 +18150,7 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 75
                 },
                 {
                     "duration": 350,
@@ -18683,8 +18159,7 @@ clippy.ready('Monkey King', {
                             2108,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18693,8 +18168,7 @@ clippy.ready('Monkey King', {
                             3100,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18703,8 +18177,7 @@ clippy.ready('Monkey King', {
                             3224,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18713,8 +18186,7 @@ clippy.ready('Monkey King', {
                             744,
                             2604
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18724,7 +18196,15 @@ clippy.ready('Monkey King', {
                             2604
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 96,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 96,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18733,8 +18213,7 @@ clippy.ready('Monkey King', {
                             0,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18743,8 +18222,7 @@ clippy.ready('Monkey King', {
                             124,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18753,8 +18231,7 @@ clippy.ready('Monkey King', {
                             248,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18763,8 +18240,7 @@ clippy.ready('Monkey King', {
                             372,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18773,8 +18249,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18784,7 +18259,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 91
                 },
                 {
                     "duration": 100,
@@ -18793,8 +18268,7 @@ clippy.ready('Monkey King', {
                             744,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18804,7 +18278,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 91
                 },
                 {
                     "duration": 100,
@@ -18813,8 +18287,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18824,7 +18297,15 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 91,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 91,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18833,8 +18314,7 @@ clippy.ready('Monkey King', {
                             744,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18843,8 +18323,7 @@ clippy.ready('Monkey King', {
                             620,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18853,8 +18332,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18863,8 +18341,7 @@ clippy.ready('Monkey King', {
                             372,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18873,8 +18350,7 @@ clippy.ready('Monkey King', {
                             248,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18883,8 +18359,7 @@ clippy.ready('Monkey King', {
                             124,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18893,8 +18368,7 @@ clippy.ready('Monkey King', {
                             0,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18903,8 +18377,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -18918,7 +18391,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 13,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18927,8 +18412,7 @@ clippy.ready('Monkey King', {
                             3596,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18937,8 +18421,7 @@ clippy.ready('Monkey King', {
                             3720,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18947,8 +18430,7 @@ clippy.ready('Monkey King', {
                             3844,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18957,8 +18439,7 @@ clippy.ready('Monkey King', {
                             3968,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18967,8 +18448,7 @@ clippy.ready('Monkey King', {
                             4092,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 1000,
@@ -18978,7 +18458,19 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 6,
+                                "weight": 70
+                            },
+                            {
+                                "frameIndex": 10,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -18987,8 +18479,7 @@ clippy.ready('Monkey King', {
                             4092,
                             744
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -18997,8 +18488,7 @@ clippy.ready('Monkey King', {
                             992,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19008,7 +18498,15 @@ clippy.ready('Monkey King', {
                             744
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 10,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 6,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19017,8 +18515,7 @@ clippy.ready('Monkey King', {
                             0,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19027,8 +18524,7 @@ clippy.ready('Monkey King', {
                             124,
                             837
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19038,7 +18534,7 @@ clippy.ready('Monkey King', {
                             837
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13
                 },
                 {
                     "duration": 100,
@@ -19047,8 +18543,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -19062,7 +18557,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 26,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 26,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -19071,8 +18578,7 @@ clippy.ready('Monkey King', {
                             3348,
                             1953
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 500,
@@ -19082,7 +18588,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 500,
@@ -19092,7 +18598,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 500,
@@ -19102,7 +18608,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 500,
@@ -19112,7 +18618,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 100,
@@ -19122,7 +18628,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 500,
@@ -19132,7 +18638,15 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 2,
+                                "weight": 60
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 500,
@@ -19142,7 +18656,15 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 8,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 1000,
@@ -19152,7 +18674,19 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 50
+                            },
+                            {
+                                "frameIndex": 12,
+                                "weight": 20
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 500,
@@ -19162,7 +18696,15 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 80
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 500,
@@ -19172,7 +18714,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 24
                 },
                 {
                     "duration": 400,
@@ -19182,7 +18724,19 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 60
+                            },
+                            {
+                                "frameIndex": 25,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 700,
@@ -19192,7 +18746,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19202,7 +18756,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19212,7 +18766,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19222,7 +18776,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19232,7 +18786,19 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 50
+                            },
+                            {
+                                "frameIndex": 25,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 700,
@@ -19242,7 +18808,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19252,7 +18818,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 700,
@@ -19262,7 +18828,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 800,
@@ -19272,7 +18838,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 800,
@@ -19282,7 +18848,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 800,
@@ -19292,7 +18858,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 100,
@@ -19302,7 +18868,15 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19312,7 +18886,7 @@ clippy.ready('Monkey King', {
                             1953
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 26
                 },
                 {
                     "duration": 0,
@@ -19321,8 +18895,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -19336,7 +18909,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 18,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 18,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19345,8 +18930,7 @@ clippy.ready('Monkey King', {
                             0,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19355,8 +18939,7 @@ clippy.ready('Monkey King', {
                             124,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19365,8 +18948,7 @@ clippy.ready('Monkey King', {
                             248,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19375,8 +18957,7 @@ clippy.ready('Monkey King', {
                             372,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -19385,8 +18966,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -19396,7 +18976,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13
                 },
                 {
                     "duration": 150,
@@ -19405,8 +18985,7 @@ clippy.ready('Monkey King', {
                             744,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -19416,7 +18995,15 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 13,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -19425,8 +19012,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -19436,7 +19022,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 13
                 },
                 {
                     "duration": 150,
@@ -19445,8 +19031,7 @@ clippy.ready('Monkey King', {
                             744,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -19455,8 +19040,7 @@ clippy.ready('Monkey King', {
                             620,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -19465,8 +19049,7 @@ clippy.ready('Monkey King', {
                             496,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19475,8 +19058,7 @@ clippy.ready('Monkey King', {
                             372,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19485,8 +19067,7 @@ clippy.ready('Monkey King', {
                             248,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19495,8 +19076,7 @@ clippy.ready('Monkey King', {
                             124,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19505,8 +19085,7 @@ clippy.ready('Monkey King', {
                             0,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19515,8 +19094,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -19530,7 +19108,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 22,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 150,
@@ -19539,8 +19129,7 @@ clippy.ready('Monkey King', {
                             2976,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -19549,8 +19138,7 @@ clippy.ready('Monkey King', {
                             3100,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19559,8 +19147,7 @@ clippy.ready('Monkey King', {
                             3224,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19570,7 +19157,25 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3472,
+                            3069
+                        ]
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3596,
+                            3069
+                        ]
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19580,7 +19185,53 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 14
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3348,
+                            3069
+                        ]
+                    ],
+                    "exitBranch": 17
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3224,
+                            3069
+                        ]
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3348,
+                            3069
+                        ]
+                    ],
+                    "exitBranch": 17,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 17,
+                                "weight": 50
+                            }
+                        ]
+                    }
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3472,
+                            3069
+                        ]
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19590,7 +19241,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 19
                 },
                 {
                     "duration": 100,
@@ -19599,8 +19250,7 @@ clippy.ready('Monkey King', {
                             3472,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19610,7 +19260,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17
                 },
                 {
                     "duration": 100,
@@ -19619,8 +19269,7 @@ clippy.ready('Monkey King', {
                             3224,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19629,8 +19278,7 @@ clippy.ready('Monkey King', {
                             3348,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19639,68 +19287,7 @@ clippy.ready('Monkey King', {
                             3472,
                             3069
                         ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3596,
-                            3069
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3472,
-                            3069
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3348,
-                            3069
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3224,
-                            3069
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3348,
-                            3069
-                        ]
-                    ],
-                    "sound": null
-                },
-                {
-                    "duration": 100,
-                    "images": [
-                        [
-                            3472,
-                            3069
-                        ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 400,
@@ -19709,8 +19296,7 @@ clippy.ready('Monkey King', {
                             3596,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19719,8 +19305,7 @@ clippy.ready('Monkey King', {
                             3720,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19729,8 +19314,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19740,7 +19324,7 @@ clippy.ready('Monkey King', {
                             3069
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 22
                 },
                 {
                     "duration": 100,
@@ -19749,8 +19333,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -19764,7 +19347,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 20,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19773,8 +19368,7 @@ clippy.ready('Monkey King', {
                             4092,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 250,
@@ -19783,8 +19377,7 @@ clippy.ready('Monkey King', {
                             4216,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19793,8 +19386,7 @@ clippy.ready('Monkey King', {
                             4340,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19803,8 +19395,7 @@ clippy.ready('Monkey King', {
                             4464,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19813,8 +19404,7 @@ clippy.ready('Monkey King', {
                             4340,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -19823,8 +19413,7 @@ clippy.ready('Monkey King', {
                             4216,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19833,8 +19422,7 @@ clippy.ready('Monkey King', {
                             4092,
                             3069
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19844,7 +19432,15 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 20,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 20,
+                                "weight": 30
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19853,8 +19449,7 @@ clippy.ready('Monkey King', {
                             124,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19863,8 +19458,7 @@ clippy.ready('Monkey King', {
                             248,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -19873,8 +19467,7 @@ clippy.ready('Monkey King', {
                             372,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19883,8 +19476,7 @@ clippy.ready('Monkey King', {
                             496,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19893,8 +19485,7 @@ clippy.ready('Monkey King', {
                             620,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19903,8 +19494,7 @@ clippy.ready('Monkey King', {
                             496,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 450,
@@ -19913,8 +19503,7 @@ clippy.ready('Monkey King', {
                             372,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19923,8 +19512,7 @@ clippy.ready('Monkey King', {
                             744,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19933,8 +19521,7 @@ clippy.ready('Monkey King', {
                             868,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19943,8 +19530,7 @@ clippy.ready('Monkey King', {
                             992,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19953,8 +19539,7 @@ clippy.ready('Monkey King', {
                             1116,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19963,8 +19548,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -19978,7 +19562,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 17,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -19987,8 +19583,7 @@ clippy.ready('Monkey King', {
                             1240,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -19997,8 +19592,7 @@ clippy.ready('Monkey King', {
                             1364,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20007,8 +19601,7 @@ clippy.ready('Monkey King', {
                             1488,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20017,8 +19610,7 @@ clippy.ready('Monkey King', {
                             1612,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20027,8 +19619,7 @@ clippy.ready('Monkey King', {
                             1736,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20037,8 +19628,7 @@ clippy.ready('Monkey King', {
                             1860,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20047,8 +19637,7 @@ clippy.ready('Monkey King', {
                             1984,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20057,8 +19646,7 @@ clippy.ready('Monkey King', {
                             2108,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20067,8 +19655,7 @@ clippy.ready('Monkey King', {
                             2232,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20077,8 +19664,7 @@ clippy.ready('Monkey King', {
                             2356,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20087,8 +19673,7 @@ clippy.ready('Monkey King', {
                             2480,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -20097,8 +19682,7 @@ clippy.ready('Monkey King', {
                             2604,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20107,8 +19691,7 @@ clippy.ready('Monkey King', {
                             2728,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -20117,8 +19700,7 @@ clippy.ready('Monkey King', {
                             2852,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -20127,8 +19709,7 @@ clippy.ready('Monkey King', {
                             2976,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -20138,7 +19719,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 17
                 },
                 {
                     "duration": 150,
@@ -20147,8 +19728,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -20162,7 +19742,19 @@ clippy.ready('Monkey King', {
                             0
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 9,
+                                "weight": 77
+                            },
+                            {
+                                "frameIndex": 25,
+                                "weight": 12
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20171,8 +19763,7 @@ clippy.ready('Monkey King', {
                             3224,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20181,8 +19772,7 @@ clippy.ready('Monkey King', {
                             3348,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20191,8 +19781,7 @@ clippy.ready('Monkey King', {
                             3472,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 350,
@@ -20201,8 +19790,7 @@ clippy.ready('Monkey King', {
                             3596,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20211,8 +19799,7 @@ clippy.ready('Monkey King', {
                             3720,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20221,8 +19808,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20231,8 +19817,7 @@ clippy.ready('Monkey King', {
                             3968,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20242,7 +19827,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 100,
@@ -20251,8 +19836,7 @@ clippy.ready('Monkey King', {
                             3596,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20262,7 +19846,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 100,
@@ -20271,8 +19855,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20281,8 +19864,7 @@ clippy.ready('Monkey King', {
                             3968,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20292,7 +19874,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 100,
@@ -20301,8 +19883,7 @@ clippy.ready('Monkey King', {
                             3596,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20312,7 +19893,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 100,
@@ -20321,8 +19902,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20331,8 +19911,7 @@ clippy.ready('Monkey King', {
                             3968,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20342,7 +19921,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 21
                 },
                 {
                     "duration": 100,
@@ -20351,8 +19930,7 @@ clippy.ready('Monkey King', {
                             3596,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20361,8 +19939,7 @@ clippy.ready('Monkey King', {
                             3720,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 300,
@@ -20371,8 +19948,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20381,8 +19957,7 @@ clippy.ready('Monkey King', {
                             4092,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -20391,8 +19966,7 @@ clippy.ready('Monkey King', {
                             3348,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 150,
@@ -20402,7 +19976,7 @@ clippy.ready('Monkey King', {
                             3162
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 25
                 },
                 {
                     "duration": 100,
@@ -20411,8 +19985,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         },
@@ -20435,8 +20008,7 @@ clippy.ready('Monkey King', {
                             4216,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20445,8 +20017,7 @@ clippy.ready('Monkey King', {
                             4340,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20455,8 +20026,7 @@ clippy.ready('Monkey King', {
                             4464,
                             3162
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20465,8 +20035,7 @@ clippy.ready('Monkey King', {
                             0,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20475,8 +20044,7 @@ clippy.ready('Monkey King', {
                             124,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20485,8 +20053,7 @@ clippy.ready('Monkey King', {
                             248,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20495,8 +20062,7 @@ clippy.ready('Monkey King', {
                             372,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20505,8 +20071,7 @@ clippy.ready('Monkey King', {
                             496,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20515,8 +20080,7 @@ clippy.ready('Monkey King', {
                             620,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20525,8 +20089,7 @@ clippy.ready('Monkey King', {
                             744,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20535,8 +20098,7 @@ clippy.ready('Monkey King', {
                             868,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20545,8 +20107,7 @@ clippy.ready('Monkey King', {
                             992,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20555,8 +20116,7 @@ clippy.ready('Monkey King', {
                             1116,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20565,8 +20125,7 @@ clippy.ready('Monkey King', {
                             1240,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20575,8 +20134,7 @@ clippy.ready('Monkey King', {
                             1364,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20585,8 +20143,7 @@ clippy.ready('Monkey King', {
                             1488,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20605,8 +20162,7 @@ clippy.ready('Monkey King', {
                             1736,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20615,8 +20171,7 @@ clippy.ready('Monkey King', {
                             1860,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20626,7 +20181,15 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 26,
+                                "weight": 10
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20635,8 +20198,7 @@ clippy.ready('Monkey King', {
                             2108,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20645,8 +20207,7 @@ clippy.ready('Monkey King', {
                             2232,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20655,8 +20216,7 @@ clippy.ready('Monkey King', {
                             2356,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20665,8 +20225,7 @@ clippy.ready('Monkey King', {
                             2480,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20676,7 +20235,15 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 20,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20685,8 +20252,7 @@ clippy.ready('Monkey King', {
                             2604,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20695,8 +20261,7 @@ clippy.ready('Monkey King', {
                             2728,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20706,7 +20271,16 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": "0025.wav"
+                    "sound": "0025.wav",
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 32,
+                                "weight": 30
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20715,8 +20289,7 @@ clippy.ready('Monkey King', {
                             2976,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20725,8 +20298,7 @@ clippy.ready('Monkey King', {
                             3100,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20736,7 +20308,16 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": "0025.wav"
+                    "sound": "0025.wav",
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 26,
+                                "weight": 90
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20745,8 +20326,7 @@ clippy.ready('Monkey King', {
                             3348,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20756,7 +20336,15 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 20,
+                                "weight": 70
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20775,8 +20363,7 @@ clippy.ready('Monkey King', {
                             3720,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20785,8 +20372,7 @@ clippy.ready('Monkey King', {
                             3844,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20805,8 +20391,7 @@ clippy.ready('Monkey King', {
                             4092,
                             3255
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20816,7 +20401,15 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 41,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 41,
+                                "weight": 30
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20826,7 +20419,15 @@ clippy.ready('Monkey King', {
                             3255
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 41,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 34,
+                                "weight": 90
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20846,7 +20447,15 @@ clippy.ready('Monkey King', {
                             3348
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 43,
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 31,
+                                "weight": 100
+                            }
+                        ]
+                    }
                 },
                 {
                     "duration": 100,
@@ -20855,8 +20464,7 @@ clippy.ready('Monkey King', {
                             124,
                             3348
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20865,8 +20473,7 @@ clippy.ready('Monkey King', {
                             248,
                             3348
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20875,8 +20482,7 @@ clippy.ready('Monkey King', {
                             372,
                             3348
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20885,8 +20491,7 @@ clippy.ready('Monkey King', {
                             496,
                             3348
                         ]
-                    ],
-                    "sound": null
+                    ]
                 },
                 {
                     "duration": 100,
@@ -20896,7 +20501,7 @@ clippy.ready('Monkey King', {
                             3348
                         ]
                     ],
-                    "sound": null
+                    "exitBranch": 48
                 },
                 {
                     "duration": 0,
@@ -20905,8 +20510,7 @@ clippy.ready('Monkey King', {
                             0,
                             0
                         ]
-                    ],
-                    "sound": null
+                    ]
                 }
             ]
         }
