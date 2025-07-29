@@ -607,6 +607,10 @@ a:visited, a:focus, a:hover, a:active {
     background-color: transparent;
 	border: none;
 }
+.animation-select option {
+    background-color: gray;
+    color: white;
+}
 
 
 /*media queries for computer screens*/
