@@ -111,6 +111,7 @@ clippy.Agent.prototype = {
     },
 
     _playInternal:function (animation, callback) {
+        console.log("Playing: "+animation);
 
         // if we're inside an idle animation,
         if (this._isIdleAnimation() && this._idleDfd && this._idleDfd.state() === 'pending') {
@@ -298,12 +299,16 @@ clippy.Agent.prototype = {
         var idleAnim = this._getIdleAnimation();
         this._idleDfd = $.Deferred();
 
+        console.log("Idle: "+ idleAnim);
         this._animator.showAnimation(idleAnim, $.proxy(this._onIdleComplete, this));
     },
 
     _onIdleComplete:function (name, state) {
         if (state === clippy.Animator.States.EXITED) {
             this._idleDfd.resolve();
+            this._animator.currentAnimationName = undefined;
+            // Check if queue is still empty and trigger another idle animation
+            this._onQueueEmpty();
         }
     },
 

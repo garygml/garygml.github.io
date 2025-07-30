@@ -12825,7 +12825,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_LOOK_AROUND_SCRATCH_HEAD": {
+        "Idle_LOOK_AROUND_SCRATCH_HEAD": {
             "frames": [
                 {
                     "duration": 600,
@@ -13170,7 +13170,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_BLINK": {
+        "Idle_BLINK": {
             "frames": [
                 {
                     "duration": 1000,
@@ -13422,7 +13422,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_SWING": {
+        "Idle_SWING": {
             "frames": [
                 {
                     "duration": 1000,
@@ -14929,7 +14929,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_LOOK_FAR_AWAY": {
+        "Idle_LOOK_FAR_AWAY": {
             "frames": [
                 {
                     "duration": 1000,
@@ -17403,7 +17403,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE1_1": {
+        "Idle1_1": {
             "frames": [
                 {
                     "duration": 1450,
@@ -18381,7 +18381,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_LOOK_USER": {
+        "Idle_LOOK_USER": {
             "frames": [
                 {
                     "duration": 1000,
@@ -18547,7 +18547,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_DAY_DREAM": {
+        "Idle_DAY_DREAM": {
             "frames": [
                 {
                     "duration": 1000,
@@ -18899,7 +18899,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_HAT": {
+        "Idle_HAT": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19098,7 +19098,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_EYE": {
+        "Idle_EYE": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19337,7 +19337,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_LOOK_LEFT_RIGHT": {
+        "Idle_LOOK_LEFT_RIGHT": {
             "frames": [
                 {
                     "duration": 300,
@@ -19552,7 +19552,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_GIVE_A_STRETCH": {
+        "Idle_GIVE_A_STRETCH": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19732,7 +19732,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "IDLE_YAWN": {
+        "Idle_YAWN": {
             "frames": [
                 {
                     "duration": 1000,

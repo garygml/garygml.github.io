@@ -853,7 +853,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE1_1": {
+        "Idle1_1": {
             "frames": [
                 {
                     "duration": 100,
@@ -9989,7 +9989,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(9)": {
+        "Idle(9)": {
             "frames": [
                 {
                     "duration": 50,
@@ -12152,7 +12152,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(3)": {
+        "Idle(3)": {
             "frames": [
                 {
                     "duration": 100,
@@ -13093,7 +13093,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(4)": {
+        "Idle(4)": {
             "frames": [
                 {
                     "duration": 100,
@@ -13916,7 +13916,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(5)": {
+        "Idle(5)": {
             "frames": [
                 {
                     "duration": 800,
@@ -13977,7 +13977,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(8)": {
+        "Idle(8)": {
             "frames": [
                 {
                     "duration": 100,
@@ -15046,7 +15046,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(6)": {
+        "Idle(6)": {
             "frames": [
                 {
                     "duration": 100,
@@ -16057,7 +16057,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(7)": {
+        "Idle(7)": {
             "frames": [
                 {
                     "duration": 100,
@@ -17173,7 +17173,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(2)": {
+        "Idle(2)": {
             "frames": [
                 {
                     "duration": 100,
@@ -18025,7 +18025,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "IDLE(1)": {
+        "Idle(1)": {
             "frames": [
                 {
                     "duration": 100,
