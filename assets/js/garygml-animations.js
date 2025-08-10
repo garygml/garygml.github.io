@@ -7,73 +7,98 @@ $(window).bind("load", function() {
 $(document).ready(function(){ 
 
     // Initialize Clippy
-    $('.clippy-activate').on('click',function() {   
+    $('.clippy-activate-link').on('click',function() {   
+
+        let loadedAgents = [];
+
+        $('.clippy-activate-link').hide();
 
         // Remove all previous Clippy agents
         $('.clippy:hidden').remove();
         $('.clippy-balloon:hidden').remove();
 
         // List of available agents
-        const agents = ['Clippy', 'Kairu', 'Monkey King', 'F1', 'Genie', 'Genius', 'Links', 'Merlin', 'Rocky', 'Rover'];
-        // Pick a random agent
-        const randomAgent = agents[Math.floor(Math.random() * agents.length)];
-        console.log("Loading Clippy agent:", randomAgent);
+        const agents = ['Clippy', 'F1', 'Genie', 'Genius', 'Kairu', 'Links', 'Merlin', 'Monkey King', 'Rocky', 'Rover'];
+        const clippySelect = $('.clippy-select');
+        const selectElement = $('<select class="clippy-select-option"><option value="">-- Select Agent --</option></select>');
 
-        setTimeout(clippy.load(randomAgent, function(agent){
-            // do anything with the loaded agent
-            
-            // Generate random position using viewport units
-            // const randomLeft = Math.random() * window.innerWidth * 0.8; // 0-80vw
-            // const randomTop = Math.random() * window.innerHeight * 0.8; // 0-80vh
+        agents.forEach(function(agentName) {
+            const option = $('<option value="' + agentName + '">' + agentName + '</option>');
+            selectElement.append(option);
+        });
 
-            // agent.moveTo(randomLeft, randomTop);
-            // agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
-            agent.show();
-            agent.speak("Hello! I'm " + randomAgent + ".");
-            agent.animate();
-            // Get all animations and create clickable links
-            const animations = agent.animations();
-            const animationsContainer = $('.clippy-animations-select');
-            
-            // Clear existing content
-            animationsContainer.empty();
-            
-            // Loop through animations and create a dropdown select
-            const selectElement = $('<select class="animation-select"><option value="">-- Select Animation --</option></select>');
+        clippySelect.append(selectElement);
+        // Add change handler to load the selected agent
+        selectElement.on('change', function() {
 
-            animations.forEach(function(animationName) {
-                const option = $('<option value="' + animationName + '">' + animationName + '</option>');
-                selectElement.append(option);
-            });
+            const selectedAgent = $(this).val();
+            if (selectedAgent) {
+                // Remove any existing agents
+                loadedAgents.forEach(a => {
+                    try { a.stop(); a.hide(); } catch(e) {}
+                });
+                loadedAgents = [];
+                $('.clippy:hidden').remove();
+                $('.clippy-balloon').remove();
+                // Load the selected agent
+                setTimeout(function() {
+                    clippy.load(selectedAgent, function(agent){
+                        // do anything with the loaded agent
+                        
+                        // Generate random position using viewport units
+                        // const randomLeft = Math.random() * window.innerWidth * 0.8; // 0-80vw
+                        // const randomTop = Math.random() * window.innerHeight * 0.8; // 0-80vh
 
-            // Add change handler to play the selected animation
-            selectElement.on('change', function() {
-                const selectedAnimation = $(this).val();
-                if (selectedAnimation) {
-                    agent.stop(); // Stop any current animation
-                    agent.play(selectedAnimation);
-                    // // Optional: reset to default option after playing
-                    // $(this).val('');
-                }
-            });
+                        // agent.moveTo(randomLeft, randomTop);
+                        // agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
+                        agent.show();
+                        agent.speak("Hello! I'm " + selectedAgent + ".");    
+                        agent.animate();                
 
-            // Append to container
-            animationsContainer.append(selectElement);
+                        // Add the new agent to the list
+                        loadedAgents.push(agent);
 
-            // let lastAnimateTime = Date.now();
-            // $('.clippy').on('mouseover', function() {
-            //     if (Date.now() - lastAnimateTime > 7000) {
-            //         // agent.speak("You clicked me! \n I can do animations too!");
-            //         agent.animate();
-            //         lastAnimateTime = Date.now();
-            //     }
-            // });
-            
-            $('.clippy-activate').on('click',function() {  
-                agent.hide();
-            });
+                        // Get all animations and create clickable links
+                        const animations = agent.animations();
+                        const animationsContainer = $('.clippy-animations-select');
+                        
+                        // Clear existing content
+                        animationsContainer.empty();
+                        
+                        // Loop through animations and create a dropdown select
+                        const selectElement = $('<select class="clippy-select-option"><option value="">-- Select Animation --</option></select>');
 
-        }),1000);    
+                        animations.forEach(function(animationName) {
+                            const option = $('<option value="' + animationName + '">' + animationName + '</option>');
+                            selectElement.append(option);
+                        });
+
+                        // Add change handler to play the selected animation
+                        selectElement.on('change', function() {
+                            const selectedAnimation = $(this).val();
+                            if (selectedAnimation) {
+                                agent.stop(); // Stop any current animation
+                                agent.play(selectedAnimation);
+                                // // Optional: reset to default option after playing
+                                // $(this).val('');
+                            }
+                        });
+
+                        // Append to container
+                        animationsContainer.append(selectElement);
+
+                    });
+                },100);
+            }
+        });
+        // // Pick a random agent
+        // const randomAgent = agents[Math.floor(Math.random() * agents.length)];
+        // console.log("Loading Clippy agent:", randomAgent);
+
+        // --- Load default agent "Clippy" ---
+        selectElement.val('Clippy').trigger('change');
+
+           
     });
 
 

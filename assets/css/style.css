@@ -591,26 +591,33 @@ a:visited, a:focus, a:hover, a:active {
 	max-width: 15rem;
 	width: 25vw;
 }
-
-.clippy-activate {
+.clippy-activate-link {
 	position: absolute;
 	right: 0;
 	font-size: 10px;
 }
-
-.clippy-animations-select {
+.clippy-container {
     position: fixed;
-    left: 75lvw;
+    left: 70lvw;
     top: 90lvh;
 }
-.animation-select{
-    background-color: transparent;
+.clippy-select {
+	display: inline-block;
+;
+}
+.clippy-animations-select {
+	display: inline-block;
+}
+.clippy-select-option{
+    background-color: rgba(0,0,0,0.3);
 	border: none;
 }
-.animation-select option {
+.clippy-select-option option {
     background-color: gray;
     color: white;
 }
+
+
 
 
 /*media queries for computer screens*/

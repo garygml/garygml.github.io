@@ -5,8 +5,9 @@ var clippy = {};
  *
  * @constructor
  */
-clippy.Agent = function (path, data, sounds) {
+clippy.Agent = function (path, data, sounds, name) {
     this.path = path;
+    this.name = name; 
 
     this._queue = new clippy.Queue($.proxy(this._onQueueEmpty, this));
 
@@ -111,7 +112,7 @@ clippy.Agent.prototype = {
     },
 
     _playInternal:function (animation, callback) {
-        console.log("Playing: "+animation);
+        console.log("Agent: "+this.name + " Playing: "+animation);
 
         // if we're inside an idle animation,
         if (this._isIdleAnimation() && this._idleDfd && this._idleDfd.state() === 'pending') {
@@ -299,7 +300,7 @@ clippy.Agent.prototype = {
         var idleAnim = this._getIdleAnimation();
         this._idleDfd = $.Deferred();
 
-        console.log("Idle: "+ idleAnim);
+        console.log("Agent: "+ this.name+ " Idle: "+ idleAnim);
         this._animator.showAnimation(idleAnim, $.proxy(this._onIdleComplete, this));
     },
 
@@ -930,7 +931,7 @@ clippy.load = function (name, successCb, failCb) {
 
     // wrapper to the success callback
     var cb = function () {
-        var a = new clippy.Agent(path, data,sounds);
+        var a = new clippy.Agent(path, data, sounds, name); 
         successCb(a);
     };
 
