@@ -10,6 +10,7 @@
     <meta name="image" property="og:image" content="http://garygml.github.io/assets/img/og-image.jpg">
     <title>葛明亮 · Mingliang Ge</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/css/menu.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="./assets/css/lightgallery.css">
     <link rel="stylesheet" type="text/css" href="./assets/css/lightgallery-bundle.min.css">
@@ -36,39 +37,34 @@
           <span lang="en" style="display: inline;position: absolute;left: 50%;top: 55%;color: white;transform: translate(-50%,-50%);">loading</span>
           <span lang="zh-CN" style="display: inline;position: absolute;left: 50%;top: 55%;color: white;transform: translate(-50%,-50%);">页面加载中</span>
     </div>
+    
+    <input type="checkbox" id="navcheck" role="button" title="menu">
+    <label for="navcheck" aria-hidden="true" title="menu">
+        <div class="burger-container">
+            <span class="burger">
+                <span class="bar">
+                    <span class="visuallyhidden" lang="en">Menu</span>
+                    <span class="visuallyhidden" lang="zh-CN">菜单</span>
+                </span>
+            </span>
+        </div>
+    </label>
+    <nav id="menu">
+        <a href="#div-home" lang="en">Home</a>
+        <a href="#div-home" lang="zh-CN">主页</a>
+        <a href="#div-projects" lang="en">Projects</a>
+        <a href="#div-projects" lang="zh-CN">项目</a>
+        <a href="#div-my-life" lang="en">My Life</a>
+        <a href="#div-my-life" lang="zh-CN">我的生活</a>
+        <a href="#div-resume" lang="en">Resume</a>
+        <a href="#div-resume" lang="zh-CN">简历</a>
+        <a href="#div-contact-me" lang="en">Contact Me</a>
+        <a href="#div-contact-me" lang="zh-CN">联系我</a>
+        <a class="nav-link" href="/?lang=zh-CN" lang="en">查看中文</a>
+        <a class="nav-link" href="/?lang=en" lang="zh-CN">View In English</a>    
+    </nav>
+    
     <app-root>
-
-        <app-nav>
-
-            <div id="myNavbar">
-                <div style="margin-top: 50vh">
-                    <ul>
-                        <li><a href="#div-home" lang="en">Home</a><a href="#div-home" lang="zh-CN"
-                               >主页</a></li>
-                        <li><a href="#div-projects" lang="en">Projects</a><a href="#div-projects" lang="zh-CN"
-                               >项目</a></li>
-
-                        <li><a href="#div-my-life" lang="en">My Life</a><a href="#div-my-life" lang="zh-CN"
-                               >我的生活</a></li>
-                        <li><a href="#div-resume" lang="en">Resume</a><a href="#div-resume" lang="zh-CN"
-                               >简历</a></li>
-                        <li><a href="#div-contact-me" lang="en">Contact Me</a><a href="#div-contact-me" lang="zh-CN"
-                               >联系我</a></li>
-                        <li>
-                            <a class="nav-link" href="/?lang=zh-CN" lang="en">查看中文</a>
-                            <a class="nav-link" href="/?lang=en" lang="zh-CN">View In English</a>
-                        </li>
-                    </ul>
-                </div>
-                <div id="menu-button-container">
-                    <!-- <img class="" id="menu-button-img" src="./assets/img/menu-button.png"> -->
-                    <div id="menu-button-img">
-                        <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="#ffffff"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path d="M12 22C17.5 22 22 17.5 22 12C22 6.5 17.5 2 12 2C6.5 2 2 6.5 2 12C2 17.5 6.5 22 12 22Z" stroke="#808080" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M8 12H16" stroke="#808080" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> <path d="M12 16V8" stroke="#808080" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path> </g></svg>
-                    </div>
-                </div>
-            </div>
-
-        </app-nav>
         <app-home id="div-home">
 
             <div class="slide1" data-bleed="10" data-natural-height="2160" data-static-image-src="./assets/img/IMG_7540.jpg"
