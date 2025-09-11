@@ -119,32 +119,31 @@ a:visited, a:focus, a:hover, a:active {
 	}
   }
   
-
 #menu-button-container {
 	position: fixed;
     font-weight: 300;
-	font-size: 15px;
-	color: #fff;
-	height: 40px;
-	width: 45px;
-	background: rgba(0,0,0,0.6);
-	border-radius: 0 20px 20px 0;
-	top: 50px;
-	left: 250px;
-	opacity: 0;
-	z-index: 9998;
+    font-size: 15px;
+    color: #fff;
+    height: 40px;
+    width: 50px;
+    background: rgba(0, 0, 0, 0.6);
+    border-radius: 0 20px 20px 0;
+    top: 50px;
+    left: 250px;
+    opacity: 0;
+    z-index: 9998;
 }
-#menu-button-container img {
-	width: 30px;
-	height: 30px;
-	margin: 5px 10px;
-	cursor: pointer;
-	-moz-transition: transform .2s;
-  	-webkit-transition: transform .2s;
-  	transition: transform .2s;
+#menu-button-img {
+    width: 36px;
+    height: 36px;
+    margin: 2px 12px;
+    cursor: pointer;
+    -moz-transition: transform .2s;
+    -webkit-transition: transform .2s;
+    transition: transform .2s;
 }
 .flip{
-	transform: rotate(180deg);
+	transform: rotate(315deg);
 }
 
 #myNavbar {
