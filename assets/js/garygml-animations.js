@@ -17,13 +17,26 @@ $(document).ready(function(){
         $('.clippy:hidden').remove();
         $('.clippy-balloon:hidden').remove();
 
-        // List of available agents
-        const agents = ['Clippy', 'F1', 'Genie', 'Genius', 'Kairu', 'Links', 'Merlin', 'Monkey King', 'Rocky', 'Rover'];
+        // List of available agents with key-value pairs (value: displayText)
+        const agents = {
+            'Clippy': 'Clippy',
+            'F1': 'F1',
+            'Genie': 'Genie',
+            'Genius': 'Genius',
+            'Kairu': 'Kairu',
+            'Links': 'Links',
+            'Merlin': 'Merlin',
+            'Monkey King': 'Monkey King',
+            'Rocky': 'Rocky',
+            'Rover': 'Rover',
+            'RsAgent': '瑞星小狮子卡卡'
+        };
         const clippySelect = $('.clippy-select');
         const selectElement = $('<select class="clippy-select-option"><option value="">-- Select Agent --</option></select>');
 
-        agents.forEach(function(agentName) {
-            const option = $('<option value="' + agentName + '">' + agentName + '</option>');
+        Object.keys(agents).forEach(function(agentValue) {
+            const agentText = agents[agentValue];
+            const option = $('<option value="' + agentValue + '">' + agentText + '</option>');
             selectElement.append(option);
         });
 
@@ -52,7 +65,7 @@ $(document).ready(function(){
                         // agent.moveTo(randomLeft, randomTop);
                         // agent.moveTo(window.innerWidth * 0.7, window.innerHeight * 0.8);
                         agent.show();
-                        agent.speak("Hello! I'm " + selectedAgent + ".");    
+                        agent.speak("Hello! I'm " + agents[selectedAgent] + ".");    
                         agent.animate();                
 
                         // Add the new agent to the list
