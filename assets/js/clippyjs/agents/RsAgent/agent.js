@@ -659,8 +659,34 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "STAND": {
+        "IdleStand": {
             "frames": [
+                {
+                    "duration": 1000,
+                    "images": [
+                        [
+                            2790,
+                            0
+                        ]
+                    ]
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            2790,
+                            0
+                        ]
+                    ],
+                    "branching": {
+                        "branches": [
+                            {
+                                "frameIndex": 0,
+                                "weight": 50
+                            }
+                        ]
+                    }
+                },
                 {
                     "duration": 100,
                     "images": [
@@ -5109,10 +5135,19 @@ clippy.ready('RsAgent', {
                         "branches": [
                             {
                                 "frameIndex": 0,
-                                "weight": 50
+                                "weight": 70
                             }
                         ]
                     }
+                },
+                {
+                    "duration": 100,
+                    "images": [
+                        [
+                            3906,
+                            3200
+                        ]
+                    ]
                 }
             ]
         },
