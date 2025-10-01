@@ -268,8 +268,18 @@ $(window).scroll(function () {
                     fontFamily:"Times New Roman, Charcoal, sans-serif",
                     gridSize:20,
                     weightFactor: 2,
-                    shape: "square"
-                    } );
+                    shape: "square",
+                    hover: function(item, dimension, event) {
+                            event.target.style.color = 'rgba(255,255,255,1)';
+                            event.target.style.transition = 'color 0.3s';
+                        
+                            // Add mouseout handler to revert color
+                            event.target.addEventListener('mouseout', function mouseOutHandler() {
+                                event.target.style.color = 'rgba(255,255,255,0.3)';
+                                event.target.removeEventListener('mouseout', mouseOutHandler);
+                            });
+                        }
+                    });
                 $(this).addClass('shown');
         }
     }); 
