@@ -57,6 +57,9 @@ function init() {
   lastFrame += new Date();
   buildDots();
   render();
+  document.querySelectorAll('app-root, nav, label').forEach(el => {
+    el.classList.add('hide-cursor');
+  });
 }
 
 /*function limit(value, min, max) {
@@ -135,6 +138,11 @@ function initWhenReady() {
   const cursorElement = document.getElementById("ink-cursor");
   if (!cursorElement) {
     console.error('Element with id "ink-cursor" not found');
+    return;
+  }
+    // Check if ink-cursor is visible (not display: none)
+  if (window.getComputedStyle(cursorElement).display === 'none') {
+    console.warn('ink-cursor is hidden (display: none); default cursor will remain.');
     return;
   }
   
