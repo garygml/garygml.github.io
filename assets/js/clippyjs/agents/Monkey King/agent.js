@@ -33,7 +33,7 @@ clippy.ready('Monkey King', {
         93
     ],
     "animations": {
-        "SENDMAIL": {
+        "SendMail": {
             "frames": [
                 {
                     "duration": 0,
@@ -467,7 +467,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "EMPTYTRASH": {
+        "EmptyTrash": {
             "frames": [
                 {
                     "duration": 0,
@@ -936,7 +936,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GREETING": {
+        "Greeting": {
             "frames": [
                 {
                     "duration": 0,
@@ -2810,7 +2810,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GOODBYE": {
+        "Goodbye": {
             "frames": [
                 {
                     "duration": 100,
@@ -3663,7 +3663,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "EXPLAIN": {
+        "Explain": {
             "frames": [
                 {
                     "duration": 0,
@@ -3841,7 +3841,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "CONGRATULATE": {
+        "Congratulate": {
             "frames": [
                 {
                     "duration": 0,
@@ -5018,7 +5018,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "PRINT": {
+        "Print": {
             "frames": [
                 {
                     "duration": 300,
@@ -6144,7 +6144,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GESTURELEFT": {
+        "GestureLeft": {
             "frames": [
                 {
                     "duration": 0,
@@ -6248,7 +6248,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKDOWNLEFT": {
+        "LookDownLeft": {
             "frames": [
                 {
                     "duration": 0,
@@ -6334,7 +6334,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKRIGHT": {
+        "LookRight": {
             "frames": [
                 {
                     "duration": 0,
@@ -6402,7 +6402,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKLEFT": {
+        "LookLeft": {
             "frames": [
                 {
                     "duration": 0,
@@ -6488,7 +6488,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKUPRIGHT": {
+        "LookUpRight": {
             "frames": [
                 {
                     "duration": 0,
@@ -6574,7 +6574,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKUP": {
+        "LookUp": {
             "frames": [
                 {
                     "duration": 0,
@@ -6669,7 +6669,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKUPLEFT": {
+        "LookUpLeft": {
             "frames": [
                 {
                     "duration": 0,
@@ -6773,7 +6773,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKDOWNRIGHT": {
+        "LookDownRight": {
             "frames": [
                 {
                     "duration": 0,
@@ -6877,7 +6877,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GETARTSY": {
+        "GetArtsy": {
             "frames": [
                 {
                     "duration": 0,
@@ -7602,7 +7602,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "HEARING_1": {
+        "Hearing1": {
             "frames": [
                 {
                     "duration": 0,
@@ -7947,7 +7947,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GETATTENTION": {
+        "GetAttention": {
             "frames": [
                 {
                     "duration": 0,
@@ -8900,7 +8900,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "THINKING": {
+        "Thinking": {
             "frames": [
                 {
                     "duration": 0,
@@ -9177,7 +9177,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "SAVE": {
+        "Save": {
             "frames": [
                 {
                     "duration": 0,
@@ -9593,7 +9593,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "WRITING": {
+        "Writing": {
             "frames": [
                 {
                     "duration": 0,
@@ -10445,7 +10445,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GESTURERIGHT": {
+        "GestureRight": {
             "frames": [
                 {
                     "duration": 0,
@@ -10540,7 +10540,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GESTUREDOWN": {
+        "GestureDown": {
             "frames": [
                 {
                     "duration": 0,
@@ -10635,7 +10635,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GESTUREUP": {
+        "GestureUp": {
             "frames": [
                 {
                     "duration": 0,
@@ -10721,7 +10721,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "DEEPIDLE1": {
+        "DeepIdle1": {
             "frames": [
                 {
                     "duration": 0,
@@ -11932,7 +11932,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "CHECKINGSOMETHING": {
+        "CheckingSomething": {
             "frames": [
                 {
                     "duration": 0,
@@ -12812,7 +12812,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "RESTPOSE": {
+        "RestPose": {
             "frames": [
                 {
                     "duration": 0,
@@ -12825,7 +12825,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_LOOK_AROUND_SCRATCH_HEAD": {
+        "IdleLookAroundScratchHead": {
             "frames": [
                 {
                     "duration": 600,
@@ -13170,7 +13170,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_BLINK": {
+        "IdleBlink": {
             "frames": [
                 {
                     "duration": 1000,
@@ -13422,7 +13422,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_SWING": {
+        "IdleSwing": {
             "frames": [
                 {
                     "duration": 1000,
@@ -14125,7 +14125,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GETWIZARDY": {
+        "GetWizardy": {
             "frames": [
                 {
                     "duration": 0,
@@ -14359,7 +14359,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "SEARCHING": {
+        "Searching": {
             "frames": [
                 {
                     "duration": 0,
@@ -14929,7 +14929,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_LOOK_FAR_AWAY": {
+        "IdleLookFarAway": {
             "frames": [
                 {
                     "duration": 1000,
@@ -15551,7 +15551,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "GETTECHY": {
+        "GetTechy": {
             "frames": [
                 {
                     "duration": 0,
@@ -15955,7 +15955,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "ALERT": {
+        "Alert": {
             "frames": [
                 {
                     "duration": 0,
@@ -16116,7 +16116,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "WAVE": {
+        "Wave": {
             "frames": [
                 {
                     "duration": 0,
@@ -17326,7 +17326,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "LOOKDOWN": {
+        "LookDown": {
             "frames": [
                 {
                     "duration": 0,
@@ -18381,7 +18381,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_LOOK_USER": {
+        "IdleLookUser": {
             "frames": [
                 {
                     "duration": 1000,
@@ -18547,7 +18547,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_DAY_DREAM": {
+        "IdleDayDream": {
             "frames": [
                 {
                     "duration": 1000,
@@ -18899,7 +18899,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_HAT": {
+        "IdleHat": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19098,7 +19098,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_EYE": {
+        "IdleEye": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19337,7 +19337,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_LOOK_LEFT_RIGHT": {
+        "IdleLookLeftRight": {
             "frames": [
                 {
                     "duration": 300,
@@ -19552,7 +19552,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_GIVE_A_STRETCH": {
+        "IdleGiveAStretch": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19732,7 +19732,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "Idle_YAWN": {
+        "IdleYawn": {
             "frames": [
                 {
                     "duration": 1000,
@@ -19989,7 +19989,7 @@ clippy.ready('Monkey King', {
                 }
             ]
         },
-        "PROCESSING": {
+        "Processing": {
             "frames": [
                 {
                     "duration": 0,

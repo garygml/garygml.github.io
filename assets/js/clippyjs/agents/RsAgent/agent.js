@@ -1,13 +1,13 @@
 clippy.ready('RsAgent', {
     "overlayCount": 1,
     "sounds": [
-        "0000.wav",
-        "0001.wav",
-        "0002.wav",
-        "0003.wav",
         "0004.wav",
         "0005.wav",
-        "0006.wav"
+        "0006.wav",
+        "0002.wav",
+        "0003.wav",
+        "0001.wav",
+        "0000.wav"
     ],
     "framesize": [
         128,
@@ -698,7 +698,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "SCANNING": {
+        "Scanning": {
             "frames": [
                 {
                     "duration": 50,
@@ -1181,7 +1181,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "SNARL": {
+        "Snarl": {
             "frames": [
                 {
                     "duration": 70,
@@ -1338,7 +1338,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "HANDSTAND": {
+        "HandStand": {
             "frames": [
                 {
                     "duration": 70,
@@ -1558,7 +1558,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "GALLY": {
+        "Gally": {
             "frames": [
                 {
                     "duration": 150,
@@ -1635,7 +1635,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "KILLVIRUS": {
+        "KillVirus": {
             "frames": [
                 {
                     "duration": 70,
@@ -1964,7 +1964,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "FINDINGVIRUS": {
+        "FindingVirus": {
             "frames": [
                 {
                     "duration": 100,
@@ -2381,7 +2381,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "DELETEFILE": {
+        "DeleteFile": {
             "frames": [
                 {
                     "duration": 70,
@@ -2782,7 +2782,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "IGNOREVIRUS": {
+        "IgnoreVirus": {
             "frames": [
                 {
                     "duration": 100,
@@ -3721,7 +3721,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "EATWATERMELON": {
+        "EatWatermelon": {
             "frames": [
                 {
                     "duration": 50,
@@ -3968,7 +3968,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "PREVENT": {
+        "Prevent": {
             "frames": [
                 {
                     "duration": 100,
@@ -4134,7 +4134,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "YOU": {
+        "You": {
             "frames": [
                 {
                     "duration": 100,
@@ -4300,7 +4300,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "LOOK": {
+        "Look": {
             "frames": [
                 {
                     "duration": 100,
@@ -4421,7 +4421,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "GRIMACE": {
+        "Grimace": {
             "frames": [
                 {
                     "duration": 100,
@@ -4488,7 +4488,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "SORRY": {
+        "Sorry": {
             "frames": [
                 {
                     "duration": 100,
@@ -4708,7 +4708,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_1_DRINK": {
+        "2003_1_Drink": {
             "frames": [
                 {
                     "duration": 100,
@@ -4910,7 +4910,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_2_PLAYCOMPUTER": {
+        "2003_2_PlayComputer": {
             "frames": [
                 {
                     "duration": 100,
@@ -5076,7 +5076,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_3_CHOPTREE": {
+        "2003_3_ChopTree": {
             "frames": [
                 {
                     "duration": 100,
@@ -5135,7 +5135,7 @@ clippy.ready('RsAgent', {
                         "branches": [
                             {
                                 "frameIndex": 0,
-                                "weight": 70
+                                "weight": 50
                             }
                         ]
                     }
@@ -5151,7 +5151,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_4_PLAYFOOTBALL": {
+        "2003_4_PlayFootBall": {
             "frames": [
                 {
                     "duration": 100,
@@ -5650,7 +5650,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_5_JUMP": {
+        "2003_5_Jump": {
             "frames": [
                 {
                     "duration": 100,
@@ -5816,7 +5816,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_6_KNIFE": {
+        "2003_6_Knife": {
             "frames": [
                 {
                     "duration": 100,
@@ -6054,7 +6054,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_7_BIKE": {
+        "2003_7_Bike": {
             "frames": [
                 {
                     "duration": 100,
@@ -6283,7 +6283,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_8_FIXCOMPUTER": {
+        "2003_8_FixComputer": {
             "frames": [
                 {
                     "duration": 100,
@@ -6413,7 +6413,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_9_REST": {
+        "2003_9_Rest": {
             "frames": [
                 {
                     "duration": 100,
@@ -6570,7 +6570,7 @@ clippy.ready('RsAgent', {
                 }
             ]
         },
-        "2003_10_CLIMB": {
+        "2003_10_Climb": {
             "frames": [
                 {
                     "duration": 100,

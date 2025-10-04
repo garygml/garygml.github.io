@@ -1,34 +1,34 @@
 clippy.ready('Kairu', {
     "overlayCount": 1,
     "sounds": [
-        "0000.wav",
-        "0001.wav",
-        "0002.wav",
-        "0003.wav",
+        "0010.wav",
         "0004.wav",
         "0005.wav",
-        "0006.wav",
-        "0007.wav",
-        "0008.wav",
-        "0009.wav",
-        "0010.wav",
         "0011.wav",
-        "0012.wav",
+        "0007.wav",
         "0013.wav",
-        "0014.wav",
-        "0015.wav",
+        "0012.wav",
+        "0006.wav",
+        "0002.wav",
         "0016.wav",
         "0017.wav",
-        "0018.wav",
+        "0003.wav",
+        "0015.wav",
+        "0001.wav",
+        "0000.wav",
+        "0014.wav",
         "0019.wav",
-        "0020.wav"
+        "0018.wav",
+        "0008.wav",
+        "0020.wav",
+        "0009.wav"
     ],
     "framesize": [
         124,
         93
     ],
     "animations": {
-        "CONGRATULATE": {
+        "Congratulate": {
             "frames": [
                 {
                     "duration": 300,
@@ -480,7 +480,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GETATTENTION": {
+        "GetAttention": {
             "frames": [
                 {
                     "duration": 100,
@@ -2102,7 +2102,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GREETING": {
+        "Greeting": {
             "frames": [
                 {
                     "duration": 0,
@@ -3489,7 +3489,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GOODBYE": {
+        "Goodbye": {
             "frames": [
                 {
                     "duration": 0,
@@ -4779,7 +4779,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "RESTPOSE": {
+        "RestPose": {
             "frames": [
                 {
                     "duration": 50,
@@ -4792,7 +4792,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "WAVE": {
+        "Wave": {
             "frames": [
                 {
                     "duration": 100,
@@ -4957,7 +4957,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "HEARING_1": {
+        "Hearing_1": {
             "frames": [
                 {
                     "duration": 100,
@@ -5123,7 +5123,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "SENDMAIL": {
+        "SendMail": {
             "frames": [
                 {
                     "duration": 100,
@@ -5503,7 +5503,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "PRINT": {
+        "Print": {
             "frames": [
                 {
                     "duration": 100,
@@ -6110,7 +6110,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKDOWNLEFT": {
+        "LookDownLeft": {
             "frames": [
                 {
                     "duration": 50,
@@ -6287,7 +6287,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKDOWNRIGHT": {
+        "LookDownRight": {
             "frames": [
                 {
                     "duration": 50,
@@ -6464,7 +6464,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKUPLEFT": {
+        "LookUpLeft": {
             "frames": [
                 {
                     "duration": 50,
@@ -6641,7 +6641,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKUPRIGHT": {
+        "LookUpRight": {
             "frames": [
                 {
                     "duration": 50,
@@ -6818,7 +6818,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "CHECKINGSOMETHING": {
+        "CheckingSomething": {
             "frames": [
                 {
                     "duration": 100,
@@ -7685,7 +7685,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "WRITING": {
+        "Writing": {
             "frames": [
                 {
                     "duration": 100,
@@ -8340,7 +8340,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GETWIZARDY": {
+        "GetWizardy": {
             "frames": [
                 {
                     "duration": 100,
@@ -8564,7 +8564,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "SAVE": {
+        "Save": {
             "frames": [
                 {
                     "duration": 100,
@@ -8881,7 +8881,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "SEARCHING": {
+        "Searching": {
             "frames": [
                 {
                     "duration": 100,
@@ -9597,7 +9597,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "THINKING": {
+        "Thinking": {
             "frames": [
                 {
                     "duration": 150,
@@ -19012,7 +19012,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "PROCESSING": {
+        "Processing": {
             "frames": [
                 {
                     "duration": 50,
@@ -19566,7 +19566,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "ALERT": {
+        "Alert": {
             "frames": [
                 {
                     "duration": 100,
@@ -19698,7 +19698,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GETARTSY": {
+        "GetArtsy": {
             "frames": [
                 {
                     "duration": 100,
@@ -20362,7 +20362,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "EMPTYTRASH": {
+        "EmptyTrash": {
             "frames": [
                 {
                     "duration": 50,
@@ -20653,7 +20653,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GETTECHY": {
+        "GetTechy": {
             "frames": [
                 {
                     "duration": 100,
@@ -21879,7 +21879,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "DEEPIDLE1": {
+        "DeepIdle1": {
             "frames": [
                 {
                     "duration": 50,
@@ -24042,7 +24042,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKDOWN": {
+        "LookDown": {
             "frames": [
                 {
                     "duration": 50,
@@ -24219,7 +24219,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKLEFT": {
+        "LookLeft": {
             "frames": [
                 {
                     "duration": 50,
@@ -24405,7 +24405,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKRIGHT": {
+        "LookRight": {
             "frames": [
                 {
                     "duration": 50,
@@ -24545,7 +24545,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "LOOKUP": {
+        "LookUp": {
             "frames": [
                 {
                     "duration": 50,
@@ -24721,7 +24721,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GESTUREDOWN": {
+        "GestureDown": {
             "frames": [
                 {
                     "duration": 50,
@@ -24961,7 +24961,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GESTURELEFT": {
+        "GestureLeft": {
             "frames": [
                 {
                     "duration": 50,
@@ -25229,7 +25229,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GESTURERIGHT": {
+        "GestureRight": {
             "frames": [
                 {
                     "duration": 50,
@@ -25497,7 +25497,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "GESTUREUP": {
+        "GestureUp": {
             "frames": [
                 {
                     "duration": 50,
@@ -25738,7 +25738,7 @@ clippy.ready('Kairu', {
                 }
             ]
         },
-        "EXPLAIN": {
+        "Explain": {
             "frames": [
                 {
                     "duration": 100,
