@@ -77,16 +77,16 @@ label:hover .burger {
 
 nav {
   position: fixed;
-  top: 0;
-  left: 0;
-  bottom: 0;
+  top: 50vh;
+  /* left: 0;
+  bottom: 0; */
   z-index: 2;
   display: flex;
   flex-flow: column nowrap;
   justify-content: center;
   align-items: flex-start;
   /* material acceleration */
-  transform: translateX(-100%);
+  transform: translate(-100%, -50%);
   will-change: transform;
   transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
@@ -167,7 +167,7 @@ app-root {
   transform: scale(0.1);
 }
 [id=navcheck]:checked ~ nav {
-  transform: translateX(0);
+  transform: translate(0, -50%);
 }
 [id=navcheck]:checked ~ nav::before {
   /* transform: skewX(15deg) translateX(0); */
