@@ -18,7 +18,7 @@ label::before {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0.6);
   content: "";
   opacity: 0;
   pointer-events: none;
@@ -170,7 +170,7 @@ app-root {
   transform: translateX(0);
 }
 [id=navcheck]:checked ~ nav::before {
-  transform: skewX(15deg) translateX(0);
+  /* transform: skewX(15deg) translateX(0); */
 }
 [id=navcheck]:checked ~ nav a {
   transform: translateX(0);
