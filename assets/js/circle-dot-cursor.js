@@ -22,6 +22,11 @@ function init() {
   const smallBallOffsetX = smallBallSVG ? smallBallSVG.getAttribute('width') / 2 : 5;
   const smallBallOffsetY = smallBallSVG ? smallBallSVG.getAttribute('height') / 2 : 5;
 
+  // Timeout for detecting mouse stop
+  let mouseStopTimeout;
+  const mouseStopDelay = 10; // milliseconds
+  let isHovering = false; // Track hover state
+
   // Listeners
   document.body.addEventListener('mousemove', onMouseMove);
   for (let i = 0; i < $hoverables.length; i++) {
@@ -33,21 +38,35 @@ function init() {
   function onMouseMove(e) {
     TweenMax.to($bigBall, .4, {
       x: e.clientX - bigBallOffsetX,
-      y: e.clientY - bigBallOffsetY });
+      y: e.clientY - bigBallOffsetY,
+      scale: isHovering ? 6 : 1.5 });
 
     TweenMax.to($smallBall, .1, {
       x: e.clientX - smallBallOffsetX,
       y: e.clientY - smallBallOffsetY });
 
+    // Clear the previous timeout
+    clearTimeout(mouseStopTimeout);
+    
+    // Set a new timeout to detect when mouse stops
+    mouseStopTimeout = setTimeout(onMouseStop, mouseStopDelay);
+  }
+
+  // Mouse stopped moving
+  function onMouseStop() {
+    TweenMax.to($bigBall, .3, {
+      scale: isHovering ? 6 : 1 });
   }
 
   // Hover an element
   function onMouseHover() {
+    isHovering = true;
     TweenMax.to($bigBall, .3, {
       scale: 6 });
 
   }
   function onMouseHoverOut() {
+    isHovering = false;
     TweenMax.to($bigBall, .3, {
       scale: 1 });
 
