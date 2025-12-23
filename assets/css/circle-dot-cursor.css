@@ -9,12 +9,12 @@
   z-index: 1000;
 }
 .circle-dot-cursor__ball--big {
-  width: 30px;
-  height: 30px;
+  width: 26px;
+  height: 26px;
 }
 .circle-dot-cursor__ball--small {
-  width: 12px;
-  height: 12px;
+  width: 16px;
+  height: 16px;
 }
 .circle-dot-cursor__ball circle {
   fill: #f7f8fa;

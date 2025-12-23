@@ -24,8 +24,11 @@ function init() {
 
   // Timeout for detecting mouse stop
   let mouseStopTimeout;
-  const mouseStopDelay = 10; // milliseconds
+  const mouseStopDelay = 50; // milliseconds
   let isHovering = false; // Track hover state
+  const defaultScale = 1;
+  const hoverScale = 8;
+  const moveScale = 2;
 
   // Listeners
   document.body.addEventListener('mousemove', onMouseMove);
@@ -39,7 +42,7 @@ function init() {
     TweenMax.to($bigBall, .4, {
       x: e.clientX - bigBallOffsetX,
       y: e.clientY - bigBallOffsetY,
-      scale: isHovering ? 6 : 1.5 });
+      scale: isHovering ? hoverScale : moveScale });
 
     TweenMax.to($smallBall, .1, {
       x: e.clientX - smallBallOffsetX,
@@ -55,20 +58,20 @@ function init() {
   // Mouse stopped moving
   function onMouseStop() {
     TweenMax.to($bigBall, .3, {
-      scale: isHovering ? 6 : 1 });
+      scale: isHovering ? hoverScale : defaultScale });
   }
 
   // Hover an element
   function onMouseHover() {
     isHovering = true;
     TweenMax.to($bigBall, .3, {
-      scale: 6 });
+      scale: hoverScale });
 
   }
   function onMouseHoverOut() {
     isHovering = false;
     TweenMax.to($bigBall, .3, {
-      scale: 1 });
+      scale: defaultScale });
 
   }
 }
