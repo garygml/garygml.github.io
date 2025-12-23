@@ -1,0 +1,16 @@
+.circle-dot-cursor {
+  pointer-events: none;
+}
+.circle-dot-cursor__ball {
+  position: fixed;
+  top: 0;
+  left: 0;
+  mix-blend-mode: difference;
+  z-index: 1000;
+}
+.circle-dot-cursor__ball circle {
+  fill: #f7f8fa;
+}
+.hide-cursor {
+  cursor: none !important;
+}

@@ -27,14 +27,29 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/js/all.min.js" data-auto-replace-svg="nest"></script>
     <link rel="stylesheet" type="text/css" href="./assets/css/clippy.css" media="all">
     <script type="text/javascript" src="./assets/js/clippy.js"></script>
-    <link rel="stylesheet" type="text/css" href="./assets/css/ink-cursor.css">
     <script type="text/javascript" src="./assets/js/TweenMax.min.js"></script>
-    <script type="text/javascript" src="./assets/js/ink-cursor.js"></script>
+    <script type="text/javascript" src="./assets/js/circle-dot-cursor.js"></script>
+    <link rel="stylesheet" type="text/css" href="./assets/css/circle-dot-cursor.css">
+    <!-- <script type="text/javascript" src="./assets/js/ink-cursor.js"></script>
+    <link rel="stylesheet" type="text/css" href="./assets/css/ink-cursor.css"> -->
 
 </head>
 
 <body style="overflow: auto;">
-    <div id="ink-cursor" class="ink-cursor ios-hidden"></div>
+    <!-- <div id="ink-cursor" class="ink-cursor ios-hidden"></div> -->
+    <div id="circle-dot-cursor" class="circle-dot-cursor ios-hidden">
+        <div class="circle-dot-cursor__ball circle-dot-cursor__ball--big ">
+            <svg height="30" width="30">
+            <circle cx="15" cy="15" r="12" stroke-width="0"></circle>
+            </svg>
+        </div>
+        
+        <div class="circle-dot-cursor__ball circle-dot-cursor__ball--small">
+            <svg height="16" width="16">
+            <circle cx="8" cy="8" r="6" stroke-width="0"></circle>
+            </svg>
+        </div>
+    </div>
     <div id="spinner-wrapper">
         <svg class="spinner" viewBox="0 0 50 50">
             <circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle>
@@ -45,7 +60,7 @@
     
     <input type="checkbox" id="navcheck" role="button" title="menu">
     <label for="navcheck" aria-hidden="true">
-        <div class="burger-container">
+        <div class="burger-container hoverable">
             <span class="burger">
                 <span class="bar">
                     <span class="visuallyhidden" lang="en">Menu</span>
