@@ -44,7 +44,7 @@ function init() {
       y: e.clientY - bigBallOffsetY,
       scale: isHovering ? hoverScale : moveScale });
 
-    TweenMax.to($smallBall, .1, {
+    TweenMax.to($smallBall, 0, {
       x: e.clientX - smallBallOffsetX,
       y: e.clientY - smallBallOffsetY });
 
