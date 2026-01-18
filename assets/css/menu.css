@@ -216,7 +216,7 @@ app-root {
   margin-right: 5px;
 }
 .settings-checkbox-wrapper input[type="checkbox"]:checked ~ .checkbox__icon {
-  color: #2A7DEA;
+  color: #fff;
 }
 
 .settings-checkbox-wrapper .checkbox__icon:before {
