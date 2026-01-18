@@ -356,10 +356,18 @@ function scrollGifFade() {
 //     $('#menu-button-img').addClass("flip");
 // }
 
+var scrollTextFaded = false; // Flag to prevent multiple executions
+
 function scrollTextFade() {
-    if (!$('.scroll-down-text').hasClass('scrolled')) {
-        setTimeout(function(){$('.scroll-down-text').addClass('scrolled')},2000);
-        setTimeout(function(){$('.scroll-down-text').css('display','none')},3000);
+    if (scrollTextFaded) return; // Exit early if already executed
+    
+    const scrollDownElement = $('.scroll-down-text');
+    const scrollPosition = $(window).scrollTop();
+    
+    // Only fade when user actually scrolls past a threshold
+    if (scrollPosition > 100 && !scrollDownElement.hasClass('scrolled')) {
+        scrollDownElement.addClass('scrolled');
+        scrollTextFaded = true; // Set flag to prevent future executions
     }
 }
 
