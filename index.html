@@ -69,6 +69,7 @@
             </span>
         </div>
     </label>
+
     <nav id="menu">
         <a href="#div-home" lang="en">Home</a>
         <a href="#div-home" lang="zh-CN">主页</a>
@@ -81,7 +82,16 @@
         <a href="#div-contact-me" lang="en">Contact Me</a>
         <a href="#div-contact-me" lang="zh-CN">联系我</a>
         <a class="nav-link" href="/?lang=zh-CN" lang="en">查看中文</a>
-        <a class="nav-link" href="/?lang=en" lang="zh-CN">View In English</a>    
+        <a class="nav-link" href="/?lang=en" lang="zh-CN">View In English</a>
+
+        <div class="settings-checkbox-wrapper">
+            <label class="checkbox hide-cursor show-cursor-checkbox hidden">
+                <input id="show-cursor-checkbox" type="checkbox">
+                <span class="checkbox__icon"></span>
+                <span class="checkbox__label" lang="en">Show Cursor</span>
+                <span class="checkbox__label" lang="zh-CN">显示光标</span>
+            </label>
+        </div>
     </nav>
     
     <app-root>
@@ -92,10 +102,10 @@
                 data-android-fix="false" data-ios-speed="0.4" data-android-speed="0.4">
                 <div id="ios-notice" class="alert alert-info hidden">
                     <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                    <h4 lang="en">Hey it looks like you're using a web browser on a mobile device! </h4>
-                    <h4 lang="zh-CN">你似乎在使用移动端的浏览器哦! </h4>
-                    <p lang=en>This site uses some JavaScript libraries that will look better on desktop browsers. Give it a try when you get a chance!</p>
-                    <p lang=zh-CN>这个网站使用了一些JavaScript库，在桌面浏览器中看起来效果会更好哦。有机会的话请试试吧！</p>
+                    <h4 lang="en">Viewing on mobile? </h4>
+                    <h4 lang="zh-CN">正在使用手机浏览？</h4>
+                    <p lang=en>This site features custom animations, cursor effects, and interactive elements that work best on desktop browsers. For the full experience, try visiting on a computer. </p>
+                    <p lang=zh-CN>这个网站包含自定义动画、光标特效和交互元素，在桌面浏览器中体验最佳。想要完整体验的话，请在电脑上访问哦。</p>
                 </div>
                 <!-- <img class="parallax-slider" src="./assets/img/IMG_7540.jpg" /> -->
                 <!-- <video class="parallax-slider" width="320" autoplay loop muted playsinline>

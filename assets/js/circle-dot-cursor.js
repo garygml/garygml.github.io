@@ -3,6 +3,17 @@ function init() {
   const $smallBall = document.querySelector('.circle-dot-cursor__ball--small');
   const $hoverables = document.querySelectorAll('a, button, input, textarea, select, .hoverable');
 
+  // Method to toggle cursor visibility based on checkbox state
+  function updateCursorVisibility(shouldShowCursor) {
+    document.querySelectorAll('a, app-root, nav, label, .hoverable').forEach(el => {
+      if (shouldShowCursor) {
+        el.classList.remove('hide-cursor');
+      } else {
+        el.classList.add('hide-cursor');
+      }
+    });
+  }
+
   // Check if required elements exist
   if (!$bigBall || !$smallBall) {
     console.warn('Cursor elements not found');
@@ -12,6 +23,19 @@ function init() {
     document.querySelectorAll('a, app-root, nav, label, .hoverable').forEach(el => {
       el.classList.add('hide-cursor');
     });
+
+    // Show the cursor setting now that the dot cursor is initialized
+    document.querySelectorAll('.show-cursor-checkbox').forEach(el => {
+      el.classList.remove('hidden', 'hide');
+    });
+    const showCursorCheckbox = document.getElementById('show-cursor-checkbox');
+    if (showCursorCheckbox) {
+      updateCursorVisibility(showCursorCheckbox.checked);
+      
+      showCursorCheckbox.addEventListener('change', function() {
+        updateCursorVisibility(this.checked);
+      });
+    }
   }
 
   // Get SVG dimensions dynamically for centering
