@@ -195,6 +195,11 @@ $(document).ready(function(){
     // });      
 
     // Galleries
+    lightGallery(document.getElementById('ece-capstone-design'),{
+        plugins: [lgFullscreen, lgThumbnail],
+        speed: 500
+    });
+
     lightGallery(document.getElementById('ece-lab'),{
         plugins: [lgFullscreen, lgThumbnail],
         speed: 500
