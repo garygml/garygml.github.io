@@ -331,7 +331,7 @@ a:hover, a:focus {
 
 @keyframes fadeInUp {
 	from {
-	  transform: translate3d(-10vw,0,0);
+	  transform: translate3d(-25px,0,0);
 	}
   
 	to {
