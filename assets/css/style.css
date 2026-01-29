@@ -54,11 +54,19 @@ a {
 	font-weight: bold;
 	cursor: pointer;
 	outline: none;
+	display: inline-block;
+	transition: transform 0.3s ease;
 }
-a:visited, a:focus, a:hover, a:active {
+a:visited, a:focus, a:active {
 	color: #fff;
 	text-decoration: underline;
 	outline: none;
+}
+a:hover {
+	color: #fff;
+	text-decoration: underline;
+	outline: none;
+	transform: scale(1.05);
 }
 
 .title {
