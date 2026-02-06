@@ -428,7 +428,12 @@ a:hover, a:focus {
 .social-network a :hover{
 	color: white;
 }
-
+.gallery-scroll {
+	display: flex; 
+	gap: 1rem; 
+	overflow-x: auto; 
+	padding: 1rem 0;
+}
 .website-history-gallery {
     display: flex;
     flex-direction: column;
