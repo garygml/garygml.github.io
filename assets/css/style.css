@@ -291,11 +291,11 @@ a:hover, a:focus {
 }
 
 /* skydiving note */
-.skydiving-note-border {
-	max-width: 90vw;
-    border-radius: 0vw;
+/* .skydiving-note-border {
+	max-width: 90vw; 
+    border-radius: 0vw; 
 	display: grid;
-}
+} */
 
 .skydiving-note {
 	opacity: 0;
@@ -439,7 +439,7 @@ a:hover, a:focus {
 	transform: translateY(-50%);
 	z-index: 10;
 	user-select: none;
-	padding: 8px 8px;
+	padding: 5px 5px;
 	background-color: rgba(255, 255, 255, 0.3);
 	border-radius: 50%;
 	display: flex;
