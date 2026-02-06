@@ -225,6 +225,36 @@ $(document).ready(function(){
     //     $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
     // })
 
+    // Enable horizontal mouse wheel scrolling for .gallery-scroll
+    document.querySelectorAll('.gallery-scroll').forEach(function(el) {
+        el.addEventListener('wheel', function(e) {
+            if (e.deltaY !== 0) {
+                e.preventDefault();
+                el.scrollLeft += e.deltaY;
+            }
+        }, { passive: false });
+    });
+
+    // Add generic click handlers for Left/Right scroll buttons in all .gallery-scroll-container elements
+    var scrollAmount = 200; // px per click    
+    $('.gallery-scroll-left').on('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var scrollEl = $(this).siblings('.gallery-scroll')[0];
+        if (scrollEl) {
+            scrollEl.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+        }
+    });
+    $('.gallery-scroll-right').on('click', function(e) {
+        e.preventDefault();
+        e.stopPropagation();
+        var scrollEl = $(this).siblings('.gallery-scroll')[0];
+        if (scrollEl) {
+            scrollEl.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+        }
+    });
+    
+
 });
 
 var bottom_of_window = $(window).height();
