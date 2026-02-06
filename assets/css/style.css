@@ -319,10 +319,10 @@ a:hover, a:focus {
 }
 
 .thumbnail {
-	display: inline;
-	width: 15vw;
-	min-width: 80px;
-	max-width: 100px;
+    display: inline;
+    /* width: 17vw; */
+    min-width: 80px;
+    max-width: 10rem;
 }
 .ece-lab-gallery {
     position: relative;
@@ -430,9 +430,14 @@ a:hover, a:focus {
 }
 
 .website-history-gallery {
-    display: inline-table;
-	max-width: 15rem;
-	width: 25vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+	width: 12rem;
+	box-shadow: -2px 3px 10px 0 rgba(0, 0, 0, 0.20) !important;
+    padding: 10px;
 }
 .clippy-activate-link {
 	position: absolute;
