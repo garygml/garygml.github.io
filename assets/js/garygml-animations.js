@@ -1,10 +1,14 @@
-//When page load completes
-$(window).bind("load", function() {
+$(document).ready(function(){ 
+
+    // Hide spinner when DOM is ready
     $('#spinner-wrapper').hide();
     $('body').css('overflow','auto');
-});
 
-$(document).ready(function(){ 
+    // Mobile Devices notice
+    if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
+        $('#ios-notice').removeClass('hidden');
+        $('.ios-hidden').addClass('hidden');
+    }
 
     // Initialize Clippy
     $('.clippy-activate-link').on('click',function() {   
@@ -332,14 +336,6 @@ $(window).scroll(function () {
         }
     }); 
 
-});
-
-// Mobile Devices notice
-$(function () {
-    if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
-        $('#ios-notice').removeClass('hidden');
-        $('.ios-hidden').addClass('hidden');
-    }
 });
 
 function select_language(language) {
