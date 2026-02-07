@@ -1,8 +1,11 @@
-$(document).ready(function(){ 
-
-    // Hide spinner when DOM is ready
+// Hide spinner when DOM is ready
+$(window).on('load', function() {
+    // All images, CSS, etc. are loaded
     $('#spinner-wrapper').hide();
     $('body').css('overflow','auto');
+});
+
+$(document).ready(function(){ 
 
     // Mobile Devices notice
     if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
