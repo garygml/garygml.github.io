@@ -225,15 +225,15 @@ $(document).ready(function(){
     //     $('#karaoke-thank-you').animate({'opacity':'1'},2000);;
     // })
 
-    // Enable horizontal mouse wheel scrolling for .gallery-scroll
-    document.querySelectorAll('.gallery-scroll').forEach(function(el) {
-        el.addEventListener('wheel', function(e) {
-            if (e.deltaY !== 0) {
-                e.preventDefault();
-                el.scrollLeft += e.deltaY;
-            }
-        }, { passive: false });
-    });
+    // // Enable horizontal mouse wheel scrolling for .gallery-scroll
+    // document.querySelectorAll('.gallery-scroll').forEach(function(el) {
+    //     el.addEventListener('wheel', function(e) {
+    //         if (e.deltaY !== 0) {
+    //             e.preventDefault();
+    //             el.scrollLeft += e.deltaY;
+    //         }
+    //     }, { passive: false });
+    // });
 
     // Add generic click handlers for Left/Right scroll buttons in all .gallery-scroll-container elements
     var scrollAmount = 200; // px per click    
@@ -242,7 +242,8 @@ $(document).ready(function(){
         e.stopPropagation();
         var scrollEl = $(this).siblings('.gallery-scroll')[0];
         if (scrollEl) {
-            scrollEl.scrollBy({ left: -scrollAmount, behavior: 'smooth' });
+            var newScrollLeft = Math.max(0, scrollEl.scrollLeft - scrollAmount);
+            scrollEl.scrollTo({ left: newScrollLeft, behavior: 'smooth' });
         }
     });
     $('.gallery-scroll-right').on('click', function(e) {
@@ -250,7 +251,9 @@ $(document).ready(function(){
         e.stopPropagation();
         var scrollEl = $(this).siblings('.gallery-scroll')[0];
         if (scrollEl) {
-            scrollEl.scrollBy({ left: scrollAmount, behavior: 'smooth' });
+            var maxScroll = scrollEl.scrollWidth - scrollEl.clientWidth;
+            var newScrollLeft = Math.min(maxScroll, scrollEl.scrollLeft + scrollAmount);
+            scrollEl.scrollTo({ left: newScrollLeft, behavior: 'smooth' });
         }
     });
     
