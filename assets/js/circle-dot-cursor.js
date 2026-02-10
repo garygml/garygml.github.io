@@ -26,7 +26,7 @@ function init() {
 
     // Show the cursor setting now that the dot cursor is initialized
     document.querySelectorAll('.show-cursor-checkbox').forEach(el => {
-      el.classList.remove('hidden', 'hide');
+      el.classList.remove('hidden', 'hide', 'd-none');
     });
     const showCursorCheckbox = document.getElementById('show-cursor-checkbox');
     if (showCursorCheckbox) {

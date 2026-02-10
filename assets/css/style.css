@@ -3,6 +3,10 @@
 --------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@200..900&family=Ubuntu:wght@300');
 
+html {
+	scroll-behavior: smooth;
+}
+
 body{
 	margin: 0;
 	padding: 0;
@@ -483,6 +487,7 @@ a:hover, a:focus {
 }
 .gallery-scroll {
 	display: flex; 
+	align-items: center;
 	gap: 1rem; 
 	overflow-x: auto; 
 	padding: 1rem 0;
@@ -520,6 +525,7 @@ a:hover, a:focus {
 .clippy-select-option{
     background-color: rgba(0,0,0,0.3);
 	border: none;
+	color: white;
 }
 .clippy-select-option option {
     background-color: gray;

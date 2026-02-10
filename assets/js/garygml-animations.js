@@ -9,8 +9,8 @@ $(document).ready(function(){
 
     // Mobile Devices notice
     if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
-        $('#ios-notice').removeClass('hidden');
-        $('.ios-hidden').addClass('hidden');
+        $('#ios-notice').removeClass('d-none');
+        $('.ios-hidden').addClass('d-none');
     }
 
     // Initialize Clippy
@@ -21,8 +21,8 @@ $(document).ready(function(){
         $('.clippy-activate-link').hide();
 
         // Remove all previous Clippy agents
-        $('.clippy:hidden').remove();
-        $('.clippy-balloon:hidden').remove();
+        $('.clippy.d-none').remove();
+        $('.clippy-balloon.d-none').remove();
 
         // List of available agents with key-value pairs (value: displayText)
         const agents = {
@@ -58,8 +58,8 @@ $(document).ready(function(){
                     try { a.stop(); a.hide(); } catch(e) {}
                 });
                 loadedAgents = [];
-                $('.clippy:hidden').remove();
-                $('.clippy-balloon').remove();
+                $('.clippy.d-none').remove();
+                $('.clippy-balloon.d-none').remove();
                 // Load the selected agent
                 setTimeout(function() {
                     clippy.load(selectedAgent, function(agent){
@@ -155,32 +155,6 @@ $(document).ready(function(){
     } else {
         select_language('en');
     }
-
-    // Add smooth scrolling when clicking on menu links
-    $("a").on('click', function(event) {
-
-        // Make sure this.hash has a value before overriding default behavior
-        if (this.hash !== "") {
-            // Prevent default anchor click behavior
-            event.preventDefault();
-            // console.log($(this))
-    
-            // Store hash
-            var hash = this.hash;
-            console.log(hash)
-    
-            // Using jQuery's animate() method to add smooth page scroll
-            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top
-            }, 800, function () {
-    
-                // Add hash (#) to URL when done scrolling (default click behavior)
-                window.location.hash = hash;
-            });
-        } // End if
-    });
-
 
     // Notes Clicking Show/ Hide
     $('.note-container .note-click').on('click', function() {
