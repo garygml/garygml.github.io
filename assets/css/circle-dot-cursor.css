@@ -8,6 +8,10 @@
   mix-blend-mode: difference;
   z-index: 1000;
 }
+.circle-dot-cursor__ball svg {
+  display: block;
+  vertical-align: baseline;
+}
 .circle-dot-cursor__ball--big {
   width: 26px;
   height: 26px;
