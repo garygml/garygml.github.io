@@ -90,25 +90,7 @@ nav {
   will-change: transform;
   transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
 }
-nav::before {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
-  width: 25em;
-  background: rgba(0, 0, 0, 0.6);
-  content: "";
-  transform: skewX(15deg) translateX(-100%);
-  transform-origin: bottom left;
-  will-change: transform;
-  transition: transform 0.5s cubic-bezier(0.19, 1, 0.22, 1);
-}
-@media (min-width: 40em) {
-  nav::before {
-    width: 40em;
-  }
-}
+
 nav a {
   margin: 0;
   padding: 0.2em 2em;
@@ -124,23 +106,38 @@ nav a {
   transition-delay: 0s, 100ms;
 }
 nav a:nth-child(2) {
-  transition-delay: 0s, 150ms;
+  transition-delay: 0s, 100ms;
 }
 nav a:nth-child(3) {
-  transition-delay: 0s, 200ms;
+  transition-delay: 0s, 125ms;
 }
 nav a:nth-child(4) {
-  transition-delay: 0s, 250ms;
+  transition-delay: 0s, 125ms;
 }
 nav a:nth-child(5) {
-  transition-delay: 0s, 300ms;
+  transition-delay: 0s, 150ms;
 }
 nav a:nth-child(6) {
-  transition-delay: 0s, 350ms;
+  transition-delay: 0s, 150ms;
 } 
-nav a:hover, nav a:focus {
-  color: black; 
-} */
+nav a:nth-child(7) {
+  transition-delay: 0s, 175ms;
+}
+nav a:nth-child(8) {
+  transition-delay: 0s, 175ms;
+}
+nav a:nth-child(9) {
+  transition-delay: 0s, 200ms;
+}
+nav a:nth-child(10) {
+  transition-delay: 0s, 200ms;
+}
+nav a:nth-child(11) {
+  transition-delay: 0s, 225ms;
+}
+nav a:nth-child(12) {
+  transition-delay: 0s, 225ms;
+}  */
 
 app-root {
   overflow: hidden;
@@ -169,9 +166,6 @@ app-root {
 [id=navcheck]:checked ~ nav {
   transform: translate(0, -50%);
 }
-[id=navcheck]:checked ~ nav::before {
-  /* transform: skewX(15deg) translateX(0); */
-}
 [id=navcheck]:checked ~ nav a {
   transform: translateX(0);
 }
@@ -180,10 +174,6 @@ app-root {
 [id=navcheck]:checked ~ nav a:focus {
   transform: translateX(0) scale(1.05);
 }
-[id=navcheck]:checked ~ app-root {
-  /* filter: blur(2px); */
-}
-
 /* helper */
 .visuallyhidden {
   border: 0;
