@@ -15,10 +15,12 @@
 .circle-dot-cursor__ball--big {
   width: 208px;
   height: 208px;
+  transform: matrix(.125, 0, 0, .125, -104, -104);
 }
 .circle-dot-cursor__ball--small {
   width: 16px;
   height: 16px;
+  transform: matrix(1, 0, 0, 1, -8, -8);
 }
 .circle-dot-cursor__ball circle {
   fill: #f7f8fa;
