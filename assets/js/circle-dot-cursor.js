@@ -41,18 +41,19 @@ function init() {
   // Get SVG dimensions dynamically for centering
   const bigBallSVG = $bigBall.querySelector('svg');
   const smallBallSVG = $smallBall.querySelector('svg');
-  const bigBallOffsetX = bigBallSVG ? bigBallSVG.getAttribute('width') / 2 : 15;
-  const bigBallOffsetY = bigBallSVG ? bigBallSVG.getAttribute('height') / 2 : 15;
-  const smallBallOffsetX = smallBallSVG ? smallBallSVG.getAttribute('width') / 2 : 5;
-  const smallBallOffsetY = smallBallSVG ? smallBallSVG.getAttribute('height') / 2 : 5;
+  const bigBallOffsetX = bigBallSVG ? bigBallSVG.getAttribute('width') / 2 : 104;
+  const bigBallOffsetY = bigBallSVG ? bigBallSVG.getAttribute('height') / 2 : 104;
+  const smallBallOffsetX = smallBallSVG ? smallBallSVG.getAttribute('width') / 2 : 64;
+  const smallBallOffsetY = smallBallSVG ? smallBallSVG.getAttribute('height') / 2 : 64;
 
   // Timeout for detecting mouse stop
   let mouseStopTimeout;
   const mouseStopDelay = 50; // milliseconds
   let isHovering = false; // Track hover state
-  const defaultScale = 1;
-  const hoverScale = 8;
-  const moveScale = 2;
+  // SVGs are 8x native size; scale values keep visual size equivalent to original
+  const defaultScale = 0.125;
+  const hoverScale = 1;
+  const moveScale = 0.25;
 
   // Listeners
   document.body.addEventListener('mousemove', onMouseMove);
