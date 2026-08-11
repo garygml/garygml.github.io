@@ -52,7 +52,7 @@ function init() {
   let isHovering = false; // Track hover state
   // SVGs are 8x native size; scale values keep visual size equivalent to original
   const defaultScale = 0.125;
-  const hoverScale = 1;
+  const hoverScale = 2;
   const moveScale = 0.25;
 
   // Listeners
