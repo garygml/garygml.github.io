@@ -35,6 +35,9 @@ label .burger-container {
     cursor: pointer;
     border-radius: 1.375em;
 }
+label .burger-container:hover {
+    box-shadow: rgba(255, 255, 255, 0.6) 0px 0px 10px 0px !important;
+}
 
 label .burger {
     position: fixed;
