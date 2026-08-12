@@ -23,7 +23,7 @@
   transform: matrix(1, 0, 0, 1, -8, -8);
 }
 .circle-dot-cursor__ball circle {
-  fill: #f7f8fa;
+  fill: #fff;
 }
 .hide-cursor {
   cursor: none !important;
