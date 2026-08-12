@@ -325,8 +325,9 @@ a:hover, a:focus {
 .thumbnail {
     display: inline;
     /* width: 17vw; */
-    min-width: 80px;
-    max-width: 10rem;
+    /* min-width: 80px;
+    max-width: 10rem; */
+	height: 100px;
     box-shadow: rgba(0, 0, 0, 0.2) -2px 3px 10px 0px !important;
 }
 /* .ece-lab-gallery {
