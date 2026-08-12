@@ -284,7 +284,7 @@ $(window).scroll(function () {
                     drawOutOfBound: false,
                     wait: 250,
                     rotateRatio: 0.5,
-                    fontFamily:"Times New Roman, Charcoal, sans-serif",
+                    fontFamily:"Google Sans Flex, sans-serif",
                     gridSize:20,
                     weightFactor: 2,
                     shape: "square",
