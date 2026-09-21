@@ -374,9 +374,14 @@
     },
 
     requestRender: function() {
+      if (this.isBusy) return;
+
       var self = this;
-      self.render();
-      self.isBusy = false;
+      self.isBusy = true;
+      window.requestAnimationFrame(function() {
+        self.render();
+        self.isBusy = false;
+      });
     },
     destroy: function(el){
       var i,
