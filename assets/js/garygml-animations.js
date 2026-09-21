@@ -255,29 +255,33 @@ $(window).scroll(function () {
     
         /* If the object is completely visible in the window, fade it it */
         if (bottom_of_window > top_of_object + $(this).outerHeight() / 1.5) {
+                const rootFontSize = parseFloat(getComputedStyle(document.documentElement).fontSize);
                 var list = [
-                    ['Java',90],['Spring',55],['Hibernate',45],['Adobe Photoshop',28]
-                    ,['JavaScript',34],['HTML',34],['CSS',38]
-                    ,['jQuery',35],['SQL',11]
-                    ,['Linux',23],['Python',54],['JUnit',34]
-                    ,['JSON',57],['RESTful Web Service',23]
-                    ,['Cassandra',23],['XML',12]
-                    ,['Bootstrap',15],['Unix',13]
-                    ,['Angular',13],['node.js',25],['CICD',12]
-                    ,['Spring MVC',12],['Docker',12],['Spring Boot',34]
-                    ,['git',34],['Kubernetes',23],['GraphQL',18]
-                    ,['React',18],['API',25],['Spring Data',17]
-                    ,['Neo4J',15],['Command Lines',12],['Log4J',12]
-                    ,['MongoDB',14],['Oracle',13],['MySQL',13]
-                    ,['Spring Security',17],['Spring Web',15]
-                    ,['Jenkins',12],['Apache Kafka',7]
-                    ,['Microcontroller',17],['Design Pattern',8]
-                    ,['Dependency Injection',13],['Maven',24]
-                    ,['Gradle',18]
-                    ,['iPhone screen repair lol',2]
+                    ['Java',5.625],['Spring',3.4375],['Hibernate',2.8125],['Adobe Photoshop',1.75]
+                    ,['JavaScript',2.125],['HTML',2.125],['CSS',2.375]
+                    ,['jQuery',2.1875],['SQL',0.6875]
+                    ,['Linux',1.4375],['Python',3.375],['JUnit',2.125]
+                    ,['JSON',3.5625],['RESTful Web Service',1.4375]
+                    ,['Cassandra',1.4375],['XML',0.75]
+                    ,['Bootstrap',0.9375],['Unix',0.8125]
+                    ,['Angular',0.8125],['node.js',1.5625],['CICD',0.75]
+                    ,['Spring MVC',0.75],['Docker',0.75],['Spring Boot',2.125]
+                    ,['git',2.125],['Kubernetes',1.4375],['GraphQL',1.125]
+                    ,['React',1.125],['API',1.5625],['Spring Data',1.0625]
+                    ,['Neo4J',0.9375],['Command Lines',0.75],['Log4J',0.75]
+                    ,['MongoDB',0.875],['Oracle',0.8125],['MySQL',0.8125]
+                    ,['Spring Security',1.0625],['Spring Web',0.9375]
+                    ,['Jenkins',0.75],['Apache Kafka',0.4375]
+                    ,['Microcontroller',1.0625],['Design Pattern',0.5]
+                    ,['Dependency Injection',0.8125],['Maven',1.5]
+                    ,['Gradle',1.125]
+                    ,['iPhone screen repair lol',0.125]
                 ];
+                const processedList = list.map(([text, remSize]) => {
+                    return [text, remSize * rootFontSize];
+                });
                 WordCloud(document.getElementById('skillblock'), { 
-                    list: list, 
+                    list: processedList, 
                     color:'rgba(255,255,255,0.3)',
                     backgroundColor: 'transparent',
                     shuffle: true,

@@ -18,38 +18,38 @@ body{
 
 h1 {
 	font-weight: 300;
-	font-size: 35px;
+	font-size: 2.1875rem;
 	margin: 0;
 	padding: 0;
-	margin-bottom: 15px;
+	margin-bottom: 1rem;
 }
 
 h2 {
 	font-weight: 300;
-	font-size: 30px;
-	margin-bottom: 15px;
+	font-size: 1.65rem;
+	margin-bottom: 1rem;
 	padding: 0;
 }
 
 h3 {
 	font-weight: 300;
-	font-size: 20px;
-	margin-bottom: 15px;
+	font-size: 1.2rem;
+	margin-bottom: 1rem;
 	padding: 0;
 	position: relative;
 }
 
 p {
 	text-align: left;
-	font-size: 15px;
-	line-height: 25px;
-	margin-bottom: 15px;
+	font-size: .9375rem;
+	line-height: 1.5rem;
+	margin-bottom: 1rem;
 }
 
 a {
 	color: #fff;
 	text-decoration: none;
-	font-size: 20px;
+	font-size: 1.25rem;
 	font-weight: bold;
 	cursor: pointer;
 	outline: none;
@@ -413,7 +413,7 @@ a:hover, a:focus {
 #f i {
     margin-left: 15px;
 	margin-right: 15px;
-	font-size: 25px;
+	font-size: 1.5625rem;
 }
 
 #f a {
@@ -424,7 +424,7 @@ a:hover, a:focus {
 }
 
 .social-network a{
-	font-size: 60px;
+	font-size: 3.75rem;
 }
 .social-network a :hover{
 	color: white;
@@ -504,7 +504,7 @@ a:hover, a:focus {
 .clippy-activate-link {
 	position: absolute;
 	right: 0;
-	font-size: 10px;
+	font-size: 0.625rem;
 }
 .clippy-container {
     position: fixed;
