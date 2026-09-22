@@ -288,7 +288,7 @@ $(window).scroll(function () {
                     drawOutOfBound: false,
                     wait: 250,
                     rotateRatio: 0.5,
-                    fontFamily:"-apple-system, BlinkMacSystemFont, Google Sans Flex, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif",
+                    fontFamily:"-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, sans-serif",
                     gridSize:20,
                     weightFactor: 2,
                     shape: "square",
