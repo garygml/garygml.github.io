@@ -7,6 +7,40 @@ $(window).on('load', function() {
 
 $(document).ready(function(){ 
 
+    function cleanupClippyElements(agentsToCleanup) {
+        const agents = agentsToCleanup || [];
+
+        agents.forEach(function(agent) {
+            try {
+                if (agent && typeof agent.stop === 'function') {
+                    agent.stop();
+                }
+
+                if (agent && typeof agent.hide === 'function') {
+                    agent.hide(false, function() {
+                        if (agent && agent._el) {
+                            agent._el.remove();
+                        }
+                        if (agent && agent._balloon && agent._balloon._balloon) {
+                            agent._balloon._balloon.remove();
+                        }
+                    });
+                } else {
+                    if (agent && agent._el) {
+                        agent._el.remove();
+                    }
+                    if (agent && agent._balloon && agent._balloon._balloon) {
+                        agent._balloon._balloon.remove();
+                    }
+                }
+            } catch (e) {}
+        });
+
+        setTimeout(function() {
+            $('.clippy.d-none, .clippy-balloon.d-none').remove();
+        }, 400);
+    }
+
     // Mobile Devices notice
     if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/)) {
         $('#ios-notice').removeClass('d-none');
@@ -16,13 +50,18 @@ $(document).ready(function(){
     // Initialize Clippy
     $('.clippy-activate-link').on('click',function() {   
 
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'https://fonts.cdnfonts.com/css/w95fa';
+        document.head.appendChild(link);
+
         let loadedAgents = [];
 
         $('.clippy-activate-link').hide();
 
-        // Remove all previous Clippy agents
-        $('.clippy.d-none').remove();
-        $('.clippy-balloon.d-none').remove();
+        // Remove all previous Clippy agents, letting the final hide animation finish first
+        cleanupClippyElements(loadedAgents);
+        loadedAgents = [];
 
         // List of available agents with key-value pairs (value: displayText)
         const agents = {
@@ -54,12 +93,8 @@ $(document).ready(function(){
             const selectedAgent = $(this).val();
             if (selectedAgent) {
                 // Remove any existing agents
-                loadedAgents.forEach(a => {
-                    try { a.stop(); a.hide(); } catch(e) {}
-                });
+                cleanupClippyElements(loadedAgents);
                 loadedAgents = [];
-                $('.clippy.d-none').remove();
-                $('.clippy-balloon.d-none').remove();
                 // Load the selected agent
                 setTimeout(function() {
                     clippy.load(selectedAgent, function(agent){
