@@ -40,6 +40,7 @@ h3 {
 }
 
 p {
+	font-weight: 300;
 	text-align: left;
 	font-size: .9375rem;
 	line-height: 1.5rem;
