@@ -305,14 +305,6 @@ a:hover, a:focus {
 	pointer-events: none;
 }
 
-.skydiving-note-arrow {
-	width: 100px; 
-	height:33px; 
-	position: absolute; 
-	left:30vw; 
-	transform: rotate(30deg);
-}
-
 .skydiving-note-click {
 	position: relative;
 	/* left: 30vw; */
@@ -364,42 +356,41 @@ a:hover, a:focus {
 .parallax-mirror {
 	opacity: 0;
 }
-.slide1{
 
-	min-height:100svh;
-	width:100%;
-	color: #fff;
-	overflow: hidden;
-    padding: 5svh 10vw;
-
-}
-
-.slide2{
-	background-color: #fff;
-	color: #333333;
-	height: auto;
-	margin: 0 auto;
-	overflow: hidden;
-    padding: 5svh 10vw;
-    overflow: hidden;
-}
-
-.slide{
+.slide {
 	height: auto;
 	margin: 0 auto;
     padding: 5svh 10vw;
 	color: #fff;
     overflow: hidden;
+	/* display:flex;
+	align-items: center;
+    justify-content: center;  */
+}
+
+.slide-20 {
+	min-height: 20svh;
+}
+
+.slide-40 {
+	min-height: 40svh;
+}
+
+.slide-60 {
 	min-height: 60svh;
 }
 
-.slide3{
-	height: auto;
-	margin: 0 auto;
-    padding: 5svh 10vw;
-	color: #fff;
-    overflow: hidden;
+.slide-80 {
+	min-height: 80svh;
+}
 
+.slide-100 {
+	min-height: 100svh;
+}
+
+.slide-white-background {
+	background-color: #fff;
+	color: #333333;
 }
 
 
@@ -541,9 +532,6 @@ a:hover, a:focus {
 		width: 100%;
 		max-width: 640px;
 	}	
-	.skydiving-note-arrow {
-		left:60vw; 
-	}
 
 }
 
