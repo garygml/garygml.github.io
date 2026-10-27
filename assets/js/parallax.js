@@ -70,7 +70,11 @@
     self.positionX = positions[0];
     self.positionY = positions[1];
 
-    if (this.positionX != 'left' && this.positionX != 'right') {
+    this.positionXPercent = null;
+    if (/^-?\d+(\.\d+)?%$/.test(String(this.positionX).trim())) {
+      this.positionXPercent = Math.min(Math.max(parseFloat(this.positionX), 0), 100) / 100;
+      this.positionX = 'center';
+    } else if (this.positionX != 'left' && this.positionX != 'right') {
       if (isNaN(parseInt(this.positionX))) {
         this.positionX = 'center';
       } else {
@@ -208,7 +212,9 @@
 
         margin = this.imageWidth - this.boxWidth;
 
-        if (this.positionX == 'left') {
+        if (this.positionXPercent !== null) {
+          this.offsetLeft = - margin * this.positionXPercent | 0;
+        } else if (this.positionX == 'left') {
           this.offsetLeft = 0;
         } else if (this.positionX == 'right') {
           this.offsetLeft = - margin;
